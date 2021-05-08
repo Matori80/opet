@@ -953,6 +953,8 @@ http://media-grupa.net:80/goran467/2019goranvv/470
 http://media-grupa.net:80/goran467/2019goranvv/6103
 #EXTINF:-1 tvg-id="" tvg-name="==== MUZICKI ====" tvg-logo="" group-title="MUZICKI",==== MUZICKI ====
 http://media-grupa.net:80/goran467/2019goranvv/407
+#EXTINF:-1, S televizija
+https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Toxic" tvg-logo="" group-title="MUZICKI",Toxic
 http://media-grupa.net:80/goran467/2019goranvv/9064
 #EXTINF:-1 tvg-id="" tvg-name="Balkanika TV" tvg-logo="" group-title="MUZICKI",Balkanika TV
@@ -985,6 +987,8 @@ http://media-grupa.net:80/goran467/2019goranvv/9276
 http://media-grupa.net:80/goran467/2019goranvv/406
 #EXTINF:-1 tvg-id="" tvg-name="YU Planet" tvg-logo="" group-title="MUZICKI",YU Planet
 http://media-grupa.net:80/goran467/2019goranvv/9038
+#EXTINF:-1, Amari tv
+https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Sound" tvg-logo="" group-title="MUZICKI",Top Sound
 http://media-grupa.net:80/goran467/2019goranvv/8864
 #EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="" group-title="MUZICKI",Duga TV
