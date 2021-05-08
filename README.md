@@ -1250,7 +1250,7 @@ http://media-grupa.net:80/goran467/2019goranvv/10241
 #EXTINF:-1 tvg-id="" tvg-name="Kupreski Radio" tvg-logo="" group-title="RADIO",Kupreski Radio
 http://media-grupa.net:80/goran467/2019goranvv/10242
 #EXTM3U
-#EXTINF:-1,"==== VIDEOTEKA ====
+#EXTINF:-1,"==== VIDEOTEKA ===="
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
