@@ -1199,6 +1199,8 @@ http://media-grupa.net:80/goran467/2019goranvv/8393
 http://media-grupa.net:80/goran467/2019goranvv/8394
 #EXTINF:-1 tvg-id="" tvg-name="Passion XXX HD" tvg-logo="" group-title="FOR ADULTS",Passion XXX HD
 http://media-grupa.net:80/goran467/2019goranvv/8395
+#EXTINF:-1,PT: PLAYBOY
+http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/142633
 #EXTINF:-1 tvg-id="" tvg-name="==== RADIO ====" tvg-logo="" group-title="RADIO",==== RADIO ====
 http://media-grupa.net:80/goran467/2019goranvv/11
 #EXTINF:-1 tvg-id="" tvg-name="VIP Radio" tvg-logo="" group-title="RADIO",VIP Radio
@@ -1253,6 +1255,10 @@ http://media-grupa.net:80/goran467/2019goranvv/10242
 #EXTINF:-1,"==== VIDEOTEKA ===="
 #EXTINF:-1,Suburban Swingers Club 2019 |sf
 http://tsevepdvd.xyz:25461/movie/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/78148.mkv
+#EXTINF:-1,Bad Luck Banging or Loony Porn 2021 |sf
+http://tsp-pro.net:5115/movie/VKLUBIX2novi/WJ1bYQxc76/58747.mkv
+#EXTINF:-1,Coming 2 America 2021 |sf
+http://tsp-pro.net:5115/movie/VKLUBIX2novi/WJ1bYQxc76/57784.mkv
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
