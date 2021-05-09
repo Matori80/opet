@@ -89,6 +89,8 @@ http://media-grupa.net:80/goran467/2019goranvv/515
 http://media-grupa.net:80/goran467/2019goranvv/8227
 #EXTINF:-1 tvg-id="" tvg-name="Televizija Srpske Dijaspore" tvg-logo="" group-title="SRBIJA",Televizija Srpske Dijaspore
 http://media-grupa.net:80/goran467/2019goranvv/10266
+#EXTINF:-1, Srpska dijaspora
+https://live.tsd-tv.com/live/tsd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="http://116.203.156.75/logo/novi_pazar.png" group-title="SRBIJA",RTV Novi Pazar
 http://media-grupa.net:80/goran467/2019goranvv/512
 #EXTINF:-1, Art
@@ -118,7 +120,7 @@ http://176.67.210.1/hls/kanalm.m3u8
 #EXTINF:-1, Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:-1,(RS) RTK 2
-http:\\stream1.rtkit.com:1935\rtk2stream\rtk2.stream\playlist.m3u8
+http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/95744
 #EXTINF:-1, Tesla Vision
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 #EXTINF:-1 tvg-id="Federalna TV" tvg-name="Federalna TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH",Federalna TV
