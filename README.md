@@ -113,6 +113,8 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 #EXTINF:-1,Istok tv
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145942
+#EXTINF:-1, Kladovo
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/171912
 #EXTINF:-1, Mis tv
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
 #EXTINF:-1, IN tv
@@ -124,7 +126,7 @@ http://176.67.210.1/hls/kanalm.m3u8
 #EXTINF:-1, Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:-1,(RS) RTK 2
-http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/95744
+hhttp://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/2565
 #EXTINF:-1, Tesla Vision
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
 #EXTINF:-1 tvg-id="Federalna TV" tvg-name="Federalna TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH",Federalna TV
