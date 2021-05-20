@@ -173,6 +173,8 @@ http://media-grupa.net:80/goran467/2019goranvv/5749
 http://media-grupa.net:80/goran467/2019goranvv/8849
 #EXTINF:-1 tvg-id="" tvg-name="ELTA 2" tvg-logo="" group-title="BIH",ELTA 2
 http://media-grupa.net:80/goran467/2019goranvv/8850
+#EXTINF:-1, Edo tv
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/265812
 #EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="" group-title="BIH",Neon TV
 http://media-grupa.net:80/goran467/2019goranvv/9192
 #EXTINF:-1 tvg-id="" tvg-name="Bosansko Posavska TV" tvg-logo="" group-title="BIH",Bosansko Posavska TV
