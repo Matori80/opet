@@ -113,6 +113,8 @@ https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
 #EXTINF:-1, Mis tv
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
+#EXTINF:-1, IN tv
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/265805
 #EXTINF:-1, TK
 rtmp://91.148.117.134/tkturist/tkturist
 #EXTINF:-1, Kanal M
