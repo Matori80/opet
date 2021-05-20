@@ -111,6 +111,8 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1, Mars Valjevo
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1,Istok tv
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145942
 #EXTINF:-1, Mis tv
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
 #EXTINF:-1, IN tv
