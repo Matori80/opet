@@ -1339,7 +1339,6 @@ http://media-grupa.net:80/goran467/2019goranvv/10240
 http://media-grupa.net:80/goran467/2019goranvv/10241
 #EXTINF:-1 tvg-id="" tvg-name="Kupreski Radio" tvg-logo="" group-title="RADIO",Kupreski Radio
 http://media-grupa.net:80/goran467/2019goranvv/10242
-#EXTM3U
 #EXTINF:-1,"==== VIDEOTEKA ===="
 #EXTINF:-1,Suburban Swingers Club 2019 |sf
 http://tsevepdvd.xyz:25461/movie/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/78148.mkv
