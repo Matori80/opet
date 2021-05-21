@@ -1211,8 +1211,70 @@ http://media-grupa.net:80/goran467/2019goranvv/8393
 http://media-grupa.net:80/goran467/2019goranvv/8394
 #EXTINF:-1 tvg-id="" tvg-name="Passion XXX HD" tvg-logo="" group-title="FOR ADULTS",Passion XXX HD
 http://media-grupa.net:80/goran467/2019goranvv/8395
-#EXTINF:-1,PT: PLAYBOY
-http://gold.etya-plus.com:8080/Udashboard/mM5qWcJWta/142633
+#EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EXTREME HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/1538
+#EXTINF:-1 tvg-id="" tvg-name="XXX: HUSTLER HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HUSTLER HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/6028
+#EXTINF:-1 tvg-id="" tvg-name="XXX: JASMIN.TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: JASMIN.TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/375
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Lesbian Affair" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Lesbian Affair
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3331
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: MIAMI TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/1731
+#EXTINF:-1 tvg-id="" tvg-name="XXX: MIAMI TV LATINO" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: MIAMI TV LATINO
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/18344
+#EXTINF:-1 tvg-id="" tvg-name="XXX: nuart" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: nuart
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/49169
+#EXTINF:-1 tvg-id="" tvg-name="XXX: O.La.La" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: O.La.La
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/36535
+#EXTINF:-1 tvg-id="" tvg-name="XXX: OLDTIMER HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: OLDTIMER HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3322
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PASSIE XXX HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/28298
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSIE XXX HOLLAND HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PASSIE XXX HOLLAND HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278772
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PASSION XXX HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PASSION XXX HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/48
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE GOLD FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PENTHOUSE GOLD FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/32056
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PENTHOUSE QUICKIES HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PENTHOUSE QUICKIES HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3284
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PINKOCLUB" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PINKOCLUB
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3342
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/14222
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PLAYBOY EUROPE" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: PLAYBOY EUROPE
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/67686
+#EXTINF:-1 tvg-id="" tvg-name="XXX: PRIVATE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/9150f35348b9d8da4226de2b9ce6c9b2.png" group-title="XXX",XXX: PRIVATE HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3281
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REALITY KINGS HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: REALITY KINGS HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/383
+#EXTINF:-1 tvg-id="" tvg-name="XXX: REDLIGHT FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: REDLIGHT FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/85
+#EXTINF:-1 tvg-id="" tvg-name="XXX: RK TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: RK TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/278774
+#EXTINF:-1 tvg-id="" tvg-name="XXX: Sextreme HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: Sextreme HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3309
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SEXY HOT" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SEXY HOT
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3310
+#EXTINF:-1 tvg-id="" tvg-name="XXX: SHALUN TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: SHALUN TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3333
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VENUS TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VENUS TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3258
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VISIT-X TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VISIT-X TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/28531
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID RED HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID RED HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3989
+#EXTINF:-1 tvg-id="" tvg-name="XXX: VIVID TV Europe HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: VIVID TV Europe HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146434
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MAX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY MAX
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/192282
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY MIX" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY MIX
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3293
+#EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY PLUS
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3291
 #EXTINF:-1 tvg-id="" tvg-name="==== RADIO ====" tvg-logo="" group-title="RADIO",==== RADIO ====
 http://media-grupa.net:80/goran467/2019goranvv/11
 #EXTINF:-1 tvg-id="" tvg-name="VIP Radio" tvg-logo="" group-title="RADIO",VIP Radio
