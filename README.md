@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="==== SRBIJA ====" tvg-logo="" group-title="SRBIJA",==== SRBIJA ====
 http://media-grupa.net:80/goran467/2019goranvv/5589
+#EXTINF:-1, Nova RS
+http:\\client.nodomain.vip:80\live.ts?channelId=603&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1, Nova Srbija
+http:\\client.nodomain.vip:80\live.ts?channelId=1520&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
+#EXTINF:-1, N 1 Srbija
+http:\\client.nodomain.vip:80\live.ts?channelId=1457&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/11.png" group-title="SRBIJA",RTS 1 HD
 http://media-grupa.net:80/goran467/2019goranvv/521
 #EXTINF:-1 tvg-id="RTS 2 HD" tvg-name="RTS 2 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/21.png" group-title="SRBIJA",RTS 2 HD
@@ -27,6 +33,8 @@ http://media-grupa.net:80/goran467/2019goranvv/6400
 http://media-grupa.net:80/goran467/2019goranvv/9305
 #EXTINF:-1,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
+#EXTINF:-1,K1
+http:\\client.nodomain.vip:80\live.ts?channelId=1987&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="K1" tvg-name="K1 HD" tvg-logo="" group-title="SRBIJA",K1 HD
 http://media-grupa.net:80/goran467/2019goranvv/10263
 #EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="" group-title="SRBIJA",Agro TV
@@ -111,6 +119,8 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1, Mars Valjevo
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1,Bor
+http:\\client.nodomain.vip:80\live.ts?channelId=1887&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1,Istok tv
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145942
 #EXTINF:-1, Kladovo
@@ -123,6 +133,8 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/265805
 rtmp://91.148.117.134/tkturist/tkturist
 #EXTINF:-1, Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
+#EXTINF:-1, Lotel
+http:\\client.nodomain.vip:80\live.ts?channelId=1912&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1, Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
 #EXTINF:-1,(RS) RTK 2
