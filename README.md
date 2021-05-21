@@ -673,6 +673,8 @@ http://media-grupa.net:80/goran467/2019goranvv/561
 http://media-grupa.net:80/goran467/2019goranvv/569
 #EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI",Food Network
 http://media-grupa.net:80/goran467/2019goranvv/6314
+#EXTINF:-1, Foodnetvork
+http:\\client.nodomain.vip:80\live.ts?channelId=1661&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI",24 Kitchen
 http://media-grupa.net:80/goran467/2019goranvv/601
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="" group-title="DOKUMENTARNI",Fashion TV
