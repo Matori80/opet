@@ -1,106 +1,106 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="==== SRBIJA ====" tvg-logo="" group-title="SRBIJA",==== SRBIJA ====
-http://media-grupa.net:80/goran467/2019goranvv/5589
-#EXTINF:-1, Nova RS
-http:\\client.nodomain.vip:80\live.ts?channelId=603&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1, Nova Srbija
-http:\\client.nodomain.vip:80\live.ts?channelId=1520&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1, N 1 Srbija
-http:\\client.nodomain.vip:80\live.ts?channelId=1457&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/11.png" group-title="SRBIJA",RTS 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/521
-#EXTINF:-1 tvg-id="RTS 2 HD" tvg-name="RTS 2 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/21.png" group-title="SRBIJA",RTS 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/520
-#EXTINF:-1 tvg-id="RTS 1 HD" tvg-name="RTS 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/11.png" group-title="SRBIJA",RTS 1
-http://media-grupa.net:80/goran467/2019goranvv/6886
-#EXTINF:-1 tvg-id="RTS 2 HD" tvg-name="RTS 2" tvg-logo="" group-title="SRBIJA",RTS 2
-http://media-grupa.net:80/goran467/2019goranvv/9353
-#EXTINF:-1 tvg-id="RTS 3" tvg-name="RTS 3" tvg-logo="http://116.203.156.75/logo/rts3.png" group-title="SRBIJA",RTS 3
-http://media-grupa.net:80/goran467/2019goranvv/519
-#EXTINF:-1 tvg-id="" tvg-name="RTS Svet HD" tvg-logo="http://116.203.156.75/logo/rts_svet.png" group-title="SRBIJA",RTS Svet HD
-http://media-grupa.net:80/goran467/2019goranvv/516
-#EXTINF:-1 tvg-id="" tvg-name="RTS Drama" tvg-logo="http://116.203.156.75/logo/RTS_Drama_logo.png" group-title="SRBIJA",RTS Drama
-http://media-grupa.net:80/goran467/2019goranvv/518
-#EXTINF:-1 tvg-id="RTS Zivot" tvg-name="RTS Zivot" tvg-logo="http://116.203.156.75/logo/rts_poletarac.png" group-title="SRBIJA",RTS Zivot
-http://media-grupa.net:80/goran467/2019goranvv/517
-#EXTINF:-1 tvg-id="" tvg-name="RTS Kolo" tvg-logo="" group-title="SRBIJA",RTS Kolo
-http://media-grupa.net:80/goran467/2019goranvv/6399
-#EXTINF:-1 tvg-id="RTS Muzika" tvg-name="RTS Muzika" tvg-logo="" group-title="SRBIJA",RTS Muzika
-http://media-grupa.net:80/goran467/2019goranvv/6398
-#EXTINF:-1 tvg-id="RTS Trezor" tvg-name="RTS Trezor" tvg-logo="" group-title="SRBIJA",RTS Trezor
-http://media-grupa.net:80/goran467/2019goranvv/6400
-#EXTINF:-1 tvg-id="" tvg-name="Kurir TV" tvg-logo="" group-title="SRBIJA",Kurir TV
-http://media-grupa.net:80/goran467/2019goranvv/9305
-#EXTINF:-1,Kurir
+#EXTM3U MATORČEVIĆI
+#EXTINF:-1,RTS 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/112.ts
+#EXTINF:-1,HRT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/75.ts
+#EXTINF:-1,OBN
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/66.ts
+#EXTINF:-1,PRVA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/109.ts
+#EXTINF:-1,PINK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/105.ts
+#EXTINF:-1,NOVA S
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/381.ts
+#EXTINF:-1,NOVA BH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/530.ts
+#EXTINF:-1,NOVA HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/73.ts
+#EXTINF:-1,N1 SRB
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/399.ts
+#EXTINF:-1,N1 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/107.ts
+#EXTINF:-1,N1 BH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/521.ts
+#EXTINF:-1,B92
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/106.ts
+#EXTINF:-1,RTV 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/165.ts
+#EXTINF:-1,RTV 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/164.ts
+#EXTINF:-1,BN
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/65.ts
+#EXTINF:-1,BN 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2756.ts
+#EXTINF:-1,RTRS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/64.ts
+#EXTINF:-1,RTRS PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/63.ts
+#EXTINF:-1,BHT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/58.ts
+#EXTINF:-1,24 VESTI
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/601.ts
+#EXTINF:-1,RED TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/103.ts
+#EXTINF:-1,VESTI
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/102.ts
+#EXTINF:-1,HAPPY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/85.ts
+#EXTINF:-1,RTS 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/110.ts
+#EXTINF:-1,RTS 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/145.ts
+#EXTINF:-1,RTS DRAMA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/902.ts
+#EXTINF:-1,RTS KOLO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/901.ts
+#EXTINF:-1,RTS MUZIKA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/900.ts
+#EXTINF:-1,RTS POLETARAC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1881.ts
+#EXTINF:-1,RTS SVET
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1882.ts
+#EXTINF:-1,RTS TREZOR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/899.ts
+#EXTINF:-1,RTS ZIVOT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/898.ts
+#EXTINF:-1,HRT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/74.ts
+#EXTINF:-1,HRT 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/355.ts
+#EXTINF:-1,HRT 4
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/281.ts
+#EXTINF:-1,HRT Int.
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1529.ts
+#EXTINF:-1,PRVA KICK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/598.ts
+#EXTINF:-1,PRVA MAX
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/597.ts
+#EXTINF:-1,PRVA PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/292.ts
+#EXTINF:-1,PRVA WORLD
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1495.ts
+#EXTINF:-1,KURIR TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2876.ts
+#EXTINF:-1,ZADRUGA 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1509.ts
+#EXTINF:-1,ZADRUGA 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1510.ts
+#EXTINF:-1,ZADRUGA 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1511.ts
+#EXTINF:-1,PAROVI
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/536.ts
+#EXTINF:-1,IDJ TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/609.ts
+#EXTINF:0,Kurir
 https://kurir-tv.haste-cdn.net/providus/live2805_hq/index.m3u8
-#EXTINF:-1,K1
-http:\\client.nodomain.vip:80\live.ts?channelId=1987&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="K1" tvg-name="K1 HD" tvg-logo="" group-title="SRBIJA",K1 HD
-http://media-grupa.net:80/goran467/2019goranvv/10263
-#EXTINF:-1 tvg-id="" tvg-name="Agro TV" tvg-logo="" group-title="SRBIJA",Agro TV
-http://media-grupa.net:80/goran467/2019goranvv/8865
-#EXTINF:-1 tvg-id="Happy TV" tvg-name="Happy TV" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA",Happy TV
-http://media-grupa.net:80/goran467/2019goranvv/567
-#EXTINF:-1 tvg-id="" tvg-name="HAPPY PAROVI 24 SATA" tvg-logo="http://116.203.156.75/logo/happy.png" group-title="SRBIJA",HAPPY PAROVI 24 SATA
-http://media-grupa.net:80/goran467/2019goranvv/568
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 1" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 1
-http://media-grupa.net:80/goran467/2019goranvv/6334
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 2" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 2
-http://media-grupa.net:80/goran467/2019goranvv/8217
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 3" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 3
-http://media-grupa.net:80/goran467/2019goranvv/8218
-#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA LIVE 4" tvg-logo="" group-title="SRBIJA",ZADRUGA LIVE 4
-http://media-grupa.net:80/goran467/2019goranvv/8501
-#EXTINF:-1 tvg-id="O2 TV" tvg-name="B92 TV" tvg-logo="" group-title="SRBIJA",B92 TV
-http://media-grupa.net:80/goran467/2019goranvv/8022
-#EXTINF:-1 tvg-id="O2 TV" tvg-name="B92 TV HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/23.png" group-title="SRBIJA",B92 TV HD
-http://media-grupa.net:80/goran467/2019goranvv/594
-#EXTINF:-1 tvg-id="Prva" tvg-name="Prva TV" tvg-logo="" group-title="SRBIJA",Prva TV
-http://media-grupa.net:80/goran467/2019goranvv/8021
-#EXTINF:-1 tvg-id="Prva" tvg-name="Prva HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/15.png" group-title="SRBIJA",Prva HD
-http://media-grupa.net:80/goran467/2019goranvv/539
-#EXTINF:-1 tvg-id="" tvg-name="Prva Max" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/190.png" group-title="SRBIJA",Prva Max
-http://media-grupa.net:80/goran467/2019goranvv/538
-#EXTINF:-1 tvg-id="Prva Plus" tvg-name="Prva Plus" tvg-logo="http://116.203.156.75/logo/prva_plus.png" group-title="SRBIJA",Prva Plus
-http://media-grupa.net:80/goran467/2019goranvv/537
-#EXTINF:-1 tvg-id="Prva Kick" tvg-name="Prva Kick" tvg-logo="http://116.203.156.75/logo/prva_kick.png" group-title="SRBIJA",Prva Kick
-http://media-grupa.net:80/goran467/2019goranvv/3649
-#EXTINF:-1 tvg-id="Prva World" tvg-name="Prva World" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/194.png" group-title="SRBIJA",Prva World
-http://media-grupa.net:80/goran467/2019goranvv/536
-#EXTINF:-1 tvg-id="" tvg-name="Prva Files" tvg-logo="" group-title="SRBIJA",Prva Files
-http://media-grupa.net:80/goran467/2019goranvv/545
-#EXTINF:-1 tvg-id="N1 SRB" tvg-name="N1 SRB" tvg-logo="" group-title="SRBIJA",N1 SRB
-http://media-grupa.net:80/goran467/2019goranvv/9271
-#EXTINF:-1 tvg-id="NOVA S" tvg-name="NOVA S" tvg-logo="" group-title="SRBIJA",NOVA S
-http://media-grupa.net:80/goran467/2019goranvv/9274
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 1" tvg-logo="http://116.203.156.75/logo/kcn1.png" group-title="SRBIJA",K::CN 1
-http://media-grupa.net:80/goran467/2019goranvv/400
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 2" tvg-logo="http://116.203.156.75/logo/kcn2.png" group-title="SRBIJA",K::CN 2
-http://media-grupa.net:80/goran467/2019goranvv/399
-#EXTINF:-1 tvg-id="" tvg-name="K::CN 3" tvg-logo="http://116.203.156.75/logo/kcn3.png" group-title="SRBIJA",K::CN 3
-http://media-grupa.net:80/goran467/2019goranvv/398
-#EXTINF:-1 tvg-id="" tvg-name="Super Sat HD" tvg-logo="" group-title="SRBIJA",Super Sat HD
-http://media-grupa.net:80/goran467/2019goranvv/12101
-#EXTINF:-1 tvg-id="" tvg-name="RTV Vojvodina" tvg-logo="http://116.203.156.75/logo/rtv1.jpg" group-title="SRBIJA",RTV Vojvodina
-http://media-grupa.net:80/goran467/2019goranvv/513
+#EXTINF:-1,K1 HD
+http:\\telehetz.dvrdns.org:12345\live?channelId=595&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/9ab4948d1d94d7eeb90f3c3f96a6b21b.png" group-title="SRBIJA,RTV 2
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/47477
 #EXTINF:-1 tvg-id="Studio B" tvg-name="Studio B" tvg-logo="http://116.203.156.75/logo/studio-b.jpg" group-title="SRBIJA",Studio B
-http://media-grupa.net:80/goran467/2019goranvv/3650
-#EXTINF:-1 tvg-id="" tvg-name="Palma Plus" tvg-logo="http://116.203.156.75/logo/palma_plus.png" group-title="SRBIJA",Palma Plus
-http://media-grupa.net:80/goran467/2019goranvv/3666
-#EXTINF:-1 tvg-id="" tvg-name="Belle Amie" tvg-logo="" group-title="SRBIJA",Belle Amie
-http://media-grupa.net:80/goran467/2019goranvv/3665
-#EXTINF:-1 tvg-id="" tvg-name="BK" tvg-logo="" group-title="SRBIJA",BK
-http://media-grupa.net:80/goran467/2019goranvv/6524
-#EXTINF:-1 tvg-id="" tvg-name="Puls TV" tvg-logo="" group-title="SRBIJA",Puls TV
-http://media-grupa.net:80/goran467/2019goranvv/515
-#EXTINF:-1 tvg-id="" tvg-name="Hram TV" tvg-logo="" group-title="SRBIJA",Hram TV
-http://media-grupa.net:80/goran467/2019goranvv/8227
-#EXTINF:-1 tvg-id="" tvg-name="Televizija Srpske Dijaspore" tvg-logo="" group-title="SRBIJA",Televizija Srpske Dijaspore
-http://media-grupa.net:80/goran467/2019goranvv/10266
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59790
 #EXTINF:-1, Srpska dijaspora
 https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV Novi Pazar" tvg-logo="http://116.203.156.75/logo/novi_pazar.png" group-title="SRBIJA",RTV Novi Pazar
-http://media-grupa.net:80/goran467/2019goranvv/512
 #EXTINF:-1, Art
 rtmp://92.60.237.39/live/test
 #EXTINF:-1, Bellame Nis
@@ -119,1112 +119,5290 @@ http://stream.pikanal.rs/pikanal/pgm.m3u8
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8
 #EXTINF:-1, Mars Valjevo
 http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
-#EXTINF:-1,Bor
-http:\\client.nodomain.vip:80\live.ts?channelId=1887&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1,Istok tv
+#EXTINF:-1, Leskovac
+http:\\krajnatv.com:8000\apo7776\skypeuser\4604
+#EXTINF:-1, Istok
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/145942
 #EXTINF:-1, Kladovo
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/171912
+#EXTINF:-1,Mlava
+http:\\krajnatv.com:8000\apo7776\skypeuser\1652
+#EXTINF:-1,SAT
+http:\\krajnatv.com:8000\apo7776\skypeuser\1654
+#EXTINF:-1,NOVA (Ex F- zaječar)
+http:\\krajnatv.com:8000\apo7776\skypeuser\1655
+#EXTINF:-1,TV Jasmin
+http:\\krajnatv.com:8000\apo7776\skypeuser\4601
+#EXTINF:-1, Sezam Bor
+http:\\krajnatv.com:8000\apo7776\skypeuser\1658
+#EXTINF:-1,TV Trans
+http:\\krajnatv.com:8000\apo7776\skypeuser\1659
+#EXTINF:-1, Braničevo
+http:\\krajnatv.com:8000\apo7776\skypeuser\1653
+#EXTINF:-1, KCN1
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4169
 #EXTINF:-1, Mis tv
 https://5afd52b55ff79.streamlock.net/MISTV/myStream/chunklist_w675272264.m3u8
-#EXTINF:-1, IN tv
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/265805
 #EXTINF:-1, TK
 rtmp://91.148.117.134/tkturist/tkturist
 #EXTINF:-1, Kanal M
 http://176.67.210.1/hls/kanalm.m3u8
-#EXTINF:-1, Lotel
-http:\\client.nodomain.vip:80\live.ts?channelId=1912&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
 #EXTINF:-1, Pruga TV
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pannon TV" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SRBIJA", Pannon TV
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/166786
 #EXTINF:-1,(RS) RTK 2
-hhttp://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/2565
+http:\\iptvtree.net:8080\ce1eb8b3\87b9d5e09c\2565
 #EXTINF:-1, Tesla Vision
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
-#EXTINF:-1 tvg-id="Federalna TV" tvg-name="Federalna TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/44.png" group-title="BIH",Federalna TV
-http://media-grupa.net:80/goran467/2019goranvv/572
 #EXTINF:-1, BN
 https://dns2.rtvbn.com:8080/live/index.m3u8
-#EXTINF:-1 tvg-id="BHT 1" tvg-name="BHT 1 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/22.png" group-title="BIH",BHT 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/592
-#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/3.png" group-title="BIH",RTRS
-http://media-grupa.net:80/goran467/2019goranvv/523
-#EXTINF:-1 tvg-id="" tvg-name="RTRS Plus" tvg-logo="" group-title="BIH",RTRS Plus
-http://media-grupa.net:80/goran467/2019goranvv/7274
-#EXTINF:-1 tvg-id="Al Jazeera Balkans" tvg-name="Al Jazeera Balkans HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/1.png" group-title="BIH",Al Jazeera Balkans HD
-http://media-grupa.net:80/goran467/2019goranvv/600
-#EXTINF:-1 tvg-id="OBN" tvg-name="OBN" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/33.png" group-title="BIH",OBN
-http://media-grupa.net:80/goran467/2019goranvv/541
-#EXTINF:-1 tvg-id="OBN" tvg-name="OBN." tvg-logo="" group-title="BIH",OBN.
-http://media-grupa.net:80/goran467/2019goranvv/9237
-#EXTINF:-1 tvg-id="Face Tv" tvg-name="Face Tv HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/35.png" group-title="BIH",Face Tv HD
-http://media-grupa.net:80/goran467/2019goranvv/573
-#EXTINF:-1 tvg-id="Hayat BiH" tvg-name="Hayat HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/43.png" group-title="BIH",Hayat HD
-http://media-grupa.net:80/goran467/2019goranvv/566
-#EXTINF:-1 tvg-id="" tvg-name="Hayat Plus" tvg-logo="http://116.203.156.75/logo/Logo_hayat_tv_sat_plus.png" group-title="BIH",Hayat Plus
-http://media-grupa.net:80/goran467/2019goranvv/563
-#EXTINF:-1 tvg-id="Nova BH" tvg-name="NOVA BH" tvg-logo="" group-title="BIH",NOVA BH
-http://media-grupa.net:80/goran467/2019goranvv/9279
-#EXTINF:-1 tvg-id="Nova BH" tvg-name="NOVA BH." tvg-logo="" group-title="BIH",NOVA BH.
-http://media-grupa.net:80/goran467/2019goranvv/9280
-#EXTINF:-1 tvg-id="N1 BIH" tvg-name="N1 BIH" tvg-logo="" group-title="BIH",N1 BIH
-http://media-grupa.net:80/goran467/2019goranvv/9273
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/2.png" group-title="BIH",ATV
-http://media-grupa.net:80/goran467/2019goranvv/597
-#EXTINF:-1 tvg-id="BN TV" tvg-name="BN TV" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH",BN TV
-http://media-grupa.net:80/goran467/2019goranvv/590
-#EXTINF:-1 tvg-id="BN TV" tvg-name="BN TV." tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/13.png" group-title="BIH",BN TV.
-http://media-grupa.net:80/goran467/2019goranvv/8847
-#EXTINF:-1 tvg-id="BN 2 HD" tvg-name="BN 2 TV" tvg-logo="" group-title="BIH",BN 2 TV
-http://media-grupa.net:80/goran467/2019goranvv/10233
-#EXTINF:-1 tvg-id="TV1" tvg-name="O Kanal" tvg-logo="http://116.203.156.75/logo/tv1.png" group-title="BIH",O Kanal
-http://media-grupa.net:80/goran467/2019goranvv/508
-#EXTINF:-1 tvg-id="" tvg-name="K3 Prnjavor" tvg-logo="http://116.203.156.75/logo/k3.png" group-title="BIH",K3 Prnjavor
-http://media-grupa.net:80/goran467/2019goranvv/509
-#EXTINF:-1 tvg-id="" tvg-name="HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_of_HIT_Televizija.png" group-title="BIH",HIT
-http://media-grupa.net:80/goran467/2019goranvv/5749
-#EXTINF:-1 tvg-id="" tvg-name="ELTA" tvg-logo="" group-title="BIH",ELTA
-http://media-grupa.net:80/goran467/2019goranvv/8849
-#EXTINF:-1 tvg-id="" tvg-name="ELTA 2" tvg-logo="" group-title="BIH",ELTA 2
-http://media-grupa.net:80/goran467/2019goranvv/8850
-#EXTINF:-1, Edo tv
-http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/265812
-#EXTINF:-1 tvg-id="" tvg-name="Neon TV" tvg-logo="" group-title="BIH",Neon TV
-http://media-grupa.net:80/goran467/2019goranvv/9192
-#EXTINF:-1 tvg-id="" tvg-name="Bosansko Posavska TV" tvg-logo="" group-title="BIH",Bosansko Posavska TV
-http://media-grupa.net:80/goran467/2019goranvv/9065
-#EXTINF:-1 tvg-id="" tvg-name="RTV HB" tvg-logo="" group-title="BIH",RTV HB
-http://media-grupa.net:80/goran467/2019goranvv/6762
-#EXTINF:-1 tvg-id="" tvg-name="RTV Cazin" tvg-logo="" group-title="BIH",RTV Cazin
-http://media-grupa.net:80/goran467/2019goranvv/6901
-#EXTINF:-1 tvg-id="" tvg-name="RTV Sana" tvg-logo="" group-title="BIH",RTV Sana
-http://media-grupa.net:80/goran467/2019goranvv/8661
-#EXTINF:-1 tvg-id="" tvg-name="RTV Podrinje" tvg-logo="" group-title="BIH",RTV Podrinje
-http://media-grupa.net:80/goran467/2019goranvv/7467
-#EXTINF:-1 tvg-id="" tvg-name="RTV Vogosca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Logo_of_RTV_Vogo%C5%A1%C4%87a.jpg" group-title="BIH",RTV Vogosca
-http://media-grupa.net:80/goran467/2019goranvv/5748
-#EXTINF:-1 tvg-id="" tvg-name="RTV Krajina" tvg-logo="" group-title="BIH",RTV Krajina
-http://media-grupa.net:80/goran467/2019goranvv/9066
 #EXTINF:-1,Krajina HD
-rtmp://77.243.11.114/live/rtvkrajina
-#EXTINF:-1 tvg-id="" tvg-name="TV Sarajevo HD" tvg-logo="http://116.203.156.75/logo/SARAJEVO.png" group-title="BIH",TV Sarajevo HD
-http://media-grupa.net:80/goran467/2019goranvv/511
-#EXTINF:-1 tvg-id="" tvg-name="PRVA HERCEGOVACKA" tvg-logo="" group-title="BIH",PRVA HERCEGOVACKA
-http://media-grupa.net:80/goran467/2019goranvv/10250
-#EXTINF:-1 tvg-id="" tvg-name="SUPER TV" tvg-logo="" group-title="BIH",SUPER TV
-http://media-grupa.net:80/goran467/2019goranvv/10251
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 6 HD" tvg-logo="" group-title="BIH",KANAL 6 HD
-http://media-grupa.net:80/goran467/2019goranvv/10252
-#EXTINF:-1 tvg-id="" tvg-name="CITY TV" tvg-logo="" group-title="BIH",CITY TV
-http://media-grupa.net:80/goran467/2019goranvv/10253
-#EXTINF:-1 tvg-id="" tvg-name="NTV 101" tvg-logo="" group-title="BIH",NTV 101
-http://media-grupa.net:80/goran467/2019goranvv/10264
-#EXTINF:-1 tvg-id="" tvg-name="RTV Lukavac" tvg-logo="" group-title="BIH",RTV Lukavac
-http://media-grupa.net:80/goran467/2019goranvv/10265
-#EXTINF:-1 tvg-id="" tvg-name="Alfa TV Sarajevo" tvg-logo="http://ssooioks.com/v1/images/mediji/alfatv.jpg" group-title="BIH",Alfa TV Sarajevo
-http://media-grupa.net:80/goran467/2019goranvv/5600
-#EXTINF:-1 tvg-id="" tvg-name="TV TK" tvg-logo="http://116.203.156.75/logo/tk.png" group-title="BIH",TV TK
-http://media-grupa.net:80/goran467/2019goranvv/3687
-#EXTINF:-1 tvg-id="" tvg-name="TV 7 Tuzla" tvg-logo="" group-title="BIH",TV 7 Tuzla
-http://media-grupa.net:80/goran467/2019goranvv/8901
-#EXTINF:-1 tvg-id="" tvg-name="USK HD" tvg-logo="http://116.203.156.75/logo/RTVUSK.png" group-title="BIH",USK HD
-http://media-grupa.net:80/goran467/2019goranvv/506
-#EXTINF:-1 tvg-id="" tvg-name="Bugojno TV" tvg-logo="" group-title="BIH",Bugojno TV
-http://media-grupa.net:80/goran467/2019goranvv/7429
-#EXTINF:-1 tvg-id="" tvg-name="Glas Drine" tvg-logo="http://116.203.156.75/logo/glas_drine.png" group-title="BIH",Glas Drine
-http://media-grupa.net:80/goran467/2019goranvv/5596
-#EXTINF:-1 tvg-id="" tvg-name="B1 Gradacac" tvg-logo="" group-title="BIH",B1 Gradacac
-http://media-grupa.net:80/goran467/2019goranvv/6736
-#EXTINF:-1 tvg-id="" tvg-name="NTV IC Kakanj" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/NTV_IC_Logo_BiH.png" group-title="BIH",NTV IC Kakanj
-http://media-grupa.net:80/goran467/2019goranvv/5603
-#EXTINF:-1 tvg-id="" tvg-name="TV Zenica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Logo_of_RTV_Zenica.png" group-title="BIH",TV Zenica
-http://media-grupa.net:80/goran467/2019goranvv/5598
-#EXTINF:-1 tvg-id="" tvg-name="RTV Slon Extra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/TV_Slon_Extra_logo.jpg" group-title="BIH",RTV Slon Extra
-http://media-grupa.net:80/goran467/2019goranvv/510
-#EXTINF:-1 tvg-id="" tvg-name="MIR TV HD" tvg-logo="" group-title="BIH",MIR TV HD
-http://media-grupa.net:80/goran467/2019goranvv/6457
-#EXTINF:-1 tvg-id="" tvg-name="MTV Igman" tvg-logo="http://116.203.156.75/logo/mtv-igman-logo.png" group-title="BIH",MTV Igman
-http://media-grupa.net:80/goran467/2019goranvv/3795
-#EXTINF:-1 tvg-id="" tvg-name="VIKOM" tvg-logo="" group-title="BIH",VIKOM
-http://media-grupa.net:80/goran467/2019goranvv/8852
-#EXTINF:-1 tvg-id="" tvg-name="HEMA" tvg-logo="" group-title="BIH",HEMA
-http://media-grupa.net:80/goran467/2019goranvv/5660
-#EXTINF:-1 tvg-id="" tvg-name="TV 5 HD Islam" tvg-logo="http://116.203.156.75/logo/tv5.jpg" group-title="BIH",TV 5 HD Islam
-http://media-grupa.net:80/goran467/2019goranvv/5477
-#EXTINF:-1 tvg-id="" tvg-name="Mekka TV" tvg-logo="http://116.203.156.75/logo/makkah.png" group-title="BIH",Mekka TV
-http://media-grupa.net:80/goran467/2019goranvv/5602
-#EXTINF:-1 tvg-id="" tvg-name="BIR TV" tvg-logo="" group-title="BIH",BIR TV
-http://media-grupa.net:80/goran467/2019goranvv/8899
-#EXTINF:-1 tvg-id="" tvg-name="Sandzak TV" tvg-logo="https://www.cenzolovka.rs/wp-content/uploads/2015/06/sandzak-tv-logo.jpg" group-title="BIH",Sandzak TV
-http://media-grupa.net:80/goran467/2019goranvv/6026
-#EXTINF:-1 tvg-id="" tvg-name="Sehara TV" tvg-logo="http://116.203.156.75/logo/sehara.jpeg" group-title="BIH",Sehara TV
-http://media-grupa.net:80/goran467/2019goranvv/5366
-#EXTINF:-1 tvg-id="" tvg-name="TV Visoko" tvg-logo="" group-title="BIH",TV Visoko
-http://media-grupa.net:80/goran467/2019goranvv/395
-#EXTINF:-1 tvg-id="" tvg-name="TATABRADA TV" tvg-logo="" group-title="BIH",TATABRADA TV
-http://media-grupa.net:80/goran467/2019goranvv/10267
-#EXTINF:-1 tvg-id="" tvg-name="==== HRVATSKA ====" tvg-logo="" group-title="HRVATSKA",==== HRVATSKA ====
-http://media-grupa.net:80/goran467/2019goranvv/6031
-#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA",HRT 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/560
-#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA",HRT 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/6049
-#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA",HRT 3 HD
-http://media-grupa.net:80/goran467/2019goranvv/558
-#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4 HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA",HRT 4 HD
-http://media-grupa.net:80/goran467/2019goranvv/557
-#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/12.png" group-title="HRVATSKA",HRT 1
-http://media-grupa.net:80/goran467/2019goranvv/6858
-#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/16.png" group-title="HRVATSKA",HRT 2
-http://media-grupa.net:80/goran467/2019goranvv/559
-#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/75.png" group-title="HRVATSKA",HRT 3
-http://media-grupa.net:80/goran467/2019goranvv/6859
-#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/76.png" group-title="HRVATSKA",HRT 4
-http://media-grupa.net:80/goran467/2019goranvv/6860
-#EXTINF:-1 tvg-id="" tvg-name="HRT 5" tvg-logo="http://116.203.156.75/logo/hrt5_logo.png" group-title="HRVATSKA",HRT 5
-http://media-grupa.net:80/goran467/2019goranvv/556
-#EXTINF:-1 tvg-id="HRT 1" tvg-name="HRT 1 HD (Hevc)" tvg-logo="" group-title="HRVATSKA",HRT 1 HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12097
-#EXTINF:-1 tvg-id="HRT 2" tvg-name="HRT 2 HD (Hevc)" tvg-logo="" group-title="HRVATSKA",HRT 2 HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12100
-#EXTINF:-1 tvg-id="HRT 3" tvg-name="HRT 3 HD (Hevc)" tvg-logo="" group-title="HRVATSKA",HRT 3 HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12098
-#EXTINF:-1 tvg-id="HRT 4" tvg-name="HRT 4 HD (Hevc)" tvg-logo="" group-title="HRVATSKA",HRT 4 HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12099
-#EXTINF:-1 tvg-id="" tvg-name="Rtl Croatia World" tvg-logo="" group-title="HRVATSKA",Rtl Croatia World
-http://media-grupa.net:80/goran467/2019goranvv/10165
-#EXTINF:-1 tvg-id="" tvg-name="RTL Adria" tvg-logo="" group-title="HRVATSKA",RTL Adria
-http://media-grupa.net:80/goran467/2019goranvv/8629
-#EXTINF:-1 tvg-id="RT HR" tvg-name="RTL HR" tvg-logo="" group-title="HRVATSKA",RTL HR
-http://media-grupa.net:80/goran467/2019goranvv/7516
-#EXTINF:-1 tvg-id="RT HR" tvg-name="RTL HR HD" tvg-logo="" group-title="HRVATSKA",RTL HR HD
-http://media-grupa.net:80/goran467/2019goranvv/8220
-#EXTINF:-1 tvg-id="RT HR" tvg-name="RTL HR HD (Hevc)" tvg-logo="" group-title="HRVATSKA",RTL HR HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12092
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2 HR" tvg-logo="" group-title="HRVATSKA",RTL 2 HR
-http://media-grupa.net:80/goran467/2019goranvv/7519
-#EXTINF:-1 tvg-id="RTL2" tvg-name="RTL 2 HR HD" tvg-logo="" group-title="HRVATSKA",RTL 2 HR HD
-http://media-grupa.net:80/goran467/2019goranvv/8298
-#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HR HD (Hevc)" tvg-logo="" group-title="HRVATSKA",RTL 2 HR HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12093
-#EXTINF:-1 tvg-id="" tvg-name="RTL Passion" tvg-logo="" group-title="HRVATSKA",RTL Passion
-http://media-grupa.net:80/goran467/2019goranvv/7518
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Passion FHD" tvg-logo="" group-title="HRVATSKA",RTL Passion FHD
-http://media-grupa.net:80/goran467/2019goranvv/8281
-#EXTINF:-1 tvg-id="RT CRI" tvg-name="RTL Crime" tvg-logo="" group-title="HRVATSKA",RTL Crime
-http://media-grupa.net:80/goran467/2019goranvv/7517
-#EXTINF:-1 tvg-id="RT CRI" tvg-name="RTL Crime FHD" tvg-logo="" group-title="HRVATSKA",RTL Crime FHD
-http://media-grupa.net:80/goran467/2019goranvv/8299
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="" group-title="HRVATSKA",RTL Living
-http://media-grupa.net:80/goran467/2019goranvv/8001
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living FHD" tvg-logo="" group-title="HRVATSKA",RTL Living FHD
-http://media-grupa.net:80/goran467/2019goranvv/8301
-#EXTINF:-1 tvg-id="N1 HR" tvg-name="N1 HR" tvg-logo="" group-title="HRVATSKA",N1 HR
-http://media-grupa.net:80/goran467/2019goranvv/9272
-#EXTINF:-1 tvg-id="Nova TV" tvg-name="NOVA TV" tvg-logo="" group-title="HRVATSKA",NOVA TV
-http://media-grupa.net:80/goran467/2019goranvv/9270
-#EXTINF:-1 tvg-id="Nova TV" tvg-name="NOVA TV HD" tvg-logo="" group-title="HRVATSKA",NOVA TV HD
-http://media-grupa.net:80/goran467/2019goranvv/9278
-#EXTINF:-1 tvg-id="Nova TV" tvg-name="NOVA TV HD (Hevc)" tvg-logo="" group-title="HRVATSKA",NOVA TV HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12090
-#EXTINF:-1 tvg-id="Doma TV" tvg-name="DOMA TV" tvg-logo="" group-title="HRVATSKA",DOMA TV
-http://media-grupa.net:80/goran467/2019goranvv/9286
-#EXTINF:-1 tvg-id="Doma TV" tvg-name="DOMA TV HD" tvg-logo="" group-title="HRVATSKA",DOMA TV HD
-http://media-grupa.net:80/goran467/2019goranvv/9287
-#EXTINF:-1 tvg-id="Doma TV" tvg-name="DOMA TV HD (Hevc)" tvg-logo="" group-title="HRVATSKA",DOMA TV HD (Hevc)
-http://media-grupa.net:80/goran467/2019goranvv/12091
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Z1" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/thumb/9/9e/Z1-tv_logo.png/200px-Z1-tv_logo.png" group-title="HRVATSKA",Z1
-http://media-grupa.net:80/goran467/2019goranvv/499
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Laudato TV" tvg-logo="http://116.203.156.75/logo/laudato.png" group-title="HRVATSKA",Laudato TV
-http://media-grupa.net:80/goran467/2019goranvv/553
-#EXTINF:-1 tvg-id="" tvg-name="Mreza Zagreb" tvg-logo="" group-title="HRVATSKA",Mreza Zagreb
-http://media-grupa.net:80/goran467/2019goranvv/8041
-#EXTINF:-1 tvg-id="Mreza TV" tvg-name="Mreza Split" tvg-logo="" group-title="HRVATSKA",Mreza Split
-http://media-grupa.net:80/goran467/2019goranvv/8042
-#EXTINF:-1 tvg-id="" tvg-name="Banovina TV" tvg-logo="http://116.203.156.75/logo/banovina.png" group-title="HRVATSKA",Banovina TV
-http://media-grupa.net:80/goran467/2019goranvv/593
-#EXTINF:-1 tvg-id="" tvg-name="Prigorska TV" tvg-logo="" group-title="HRVATSKA",Prigorska TV
-http://media-grupa.net:80/goran467/2019goranvv/8863
-#EXTINF:-1 tvg-id="Osjecka TV" tvg-name="Osjecka TV" tvg-logo="http://116.203.156.75/logo/osjecka.jpeg" group-title="HRVATSKA",Osjecka TV
-http://media-grupa.net:80/goran467/2019goranvv/554
-#EXTINF:-1 tvg-id="" tvg-name="Vinkovacka TV" tvg-logo="http://116.203.156.75/logo/plava_vinkovacka.jpg" group-title="HRVATSKA",Vinkovacka TV
-http://media-grupa.net:80/goran467/2019goranvv/5845
-#EXTINF:-1 tvg-id="" tvg-name="TV SIBENIK" tvg-logo="" group-title="HRVATSKA",TV SIBENIK
-http://media-grupa.net:80/goran467/2019goranvv/8855
-#EXTINF:-1 tvg-id="" tvg-name="TV KARLOVAC" tvg-logo="" group-title="HRVATSKA",TV KARLOVAC
-http://media-grupa.net:80/goran467/2019goranvv/8856
-#EXTINF:-1 tvg-id="" tvg-name="Posavina TV" tvg-logo="http://116.203.156.75/logo/posavina.jpg" group-title="HRVATSKA",Posavina TV
-http://media-grupa.net:80/goran467/2019goranvv/397
-#EXTINF:-1 tvg-id="" tvg-name="Slavonska Televizija" tvg-logo="http://116.203.156.75/logo/slavnonska.jpg" group-title="HRVATSKA",Slavonska Televizija
-http://media-grupa.net:80/goran467/2019goranvv/555
-#EXTINF:-1 tvg-id="JABUKA TV" tvg-name="Jabuka TV" tvg-logo="" group-title="HRVATSKA",Jabuka TV
-http://media-grupa.net:80/goran467/2019goranvv/6331
-#EXTINF:-1 tvg-id="Kanal RI" tvg-name="KanalR" tvg-logo="" group-title="HRVATSKA",KanalR
-http://media-grupa.net:80/goran467/2019goranvv/6330
-#EXTINF:-1 tvg-id="" tvg-name="Libertas TV" tvg-logo="" group-title="HRVATSKA",Libertas TV
-http://media-grupa.net:80/goran467/2019goranvv/6329
-#EXTINF:-1 tvg-id="Poljoprivredna TV" tvg-name="Poljoprivredna TV" tvg-logo="" group-title="HRVATSKA",Poljoprivredna TV
-http://media-grupa.net:80/goran467/2019goranvv/6328
-#EXTINF:-1 tvg-id="" tvg-name="SBTV" tvg-logo="" group-title="HRVATSKA",SBTV
-http://media-grupa.net:80/goran467/2019goranvv/6326
-#EXTINF:-1 tvg-id="" tvg-name="Srce TV" tvg-logo="" group-title="HRVATSKA",Srce TV
-http://media-grupa.net:80/goran467/2019goranvv/6324
-#EXTINF:-1 tvg-id="" tvg-name="TV Dubrovnik" tvg-logo="" group-title="HRVATSKA",TV Dubrovnik
-http://media-grupa.net:80/goran467/2019goranvv/6323
-#EXTINF:-1 tvg-id="" tvg-name="Dubrovacka Televizija" tvg-logo="" group-title="HRVATSKA",Dubrovacka Televizija
-http://media-grupa.net:80/goran467/2019goranvv/6322
-#EXTINF:-1 tvg-id="" tvg-name="TV Istra" tvg-logo="" group-title="HRVATSKA",TV Istra
-http://media-grupa.net:80/goran467/2019goranvv/6321
-#EXTINF:-1 tvg-id="" tvg-name="TV Jadran" tvg-logo="" group-title="HRVATSKA",TV Jadran
-http://media-grupa.net:80/goran467/2019goranvv/6320
-#EXTINF:-1 tvg-id="" tvg-name="Capital TV" tvg-logo="" group-title="HRVATSKA",Capital TV
-http://media-grupa.net:80/goran467/2019goranvv/6502
-#EXTINF:-1 tvg-id="" tvg-name="Zdrava TV" tvg-logo="" group-title="HRVATSKA",Zdrava TV
-http://media-grupa.net:80/goran467/2019goranvv/8886
-#EXTINF:-1 tvg-id="" tvg-name="Klape i Tambure" tvg-logo="" group-title="HRVATSKA",Klape i Tambure
-http://media-grupa.net:80/goran467/2019goranvv/10237
-#EXTINF:-1 tvg-id="" tvg-name="VTV TV" tvg-logo="" group-title="HRVATSKA",VTV TV
-http://media-grupa.net:80/goran467/2019goranvv/10245
-#EXTINF:-1 tvg-id="" tvg-name="TV TREND KARLOVAC" tvg-logo="" group-title="HRVATSKA",TV TREND KARLOVAC
-http://media-grupa.net:80/goran467/2019goranvv/10246
-#EXTINF:-1 tvg-id="" tvg-name="MARY TV MEDJUGORJE" tvg-logo="" group-title="HRVATSKA",MARY TV MEDJUGORJE
-http://media-grupa.net:80/goran467/2019goranvv/10247
-#EXTINF:-1 tvg-id="" tvg-name="MARS TV" tvg-logo="" group-title="HRVATSKA",MARS TV
-http://media-grupa.net:80/goran467/2019goranvv/10248
-#EXTINF:-1 tvg-id="" tvg-name="OTV" tvg-logo="" group-title="HRVATSKA",OTV
-http://media-grupa.net:80/goran467/2019goranvv/10249
-#EXTINF:-1 tvg-id="" tvg-name="CRO TV HD" tvg-logo="" group-title="HRVATSKA",CRO TV HD
-http://media-grupa.net:80/goran467/2019goranvv/10497
-#EXTINF:-1 tvg-id="" tvg-name="==== CRNA GORA ====" tvg-logo="" group-title="CRNA GORA",==== CRNA GORA ====
-http://media-grupa.net:80/goran467/2019goranvv/6485
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 1" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA",RTCG 1
-http://media-grupa.net:80/goran467/2019goranvv/534
-#EXTINF:-1 tvg-id="" tvg-name="RTCG 2" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA",RTCG 2
-http://media-grupa.net:80/goran467/2019goranvv/533
-#EXTINF:-1 tvg-id="RTCG Sat" tvg-name="RTCG Sat" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/29.png" group-title="CRNA GORA",RTCG Sat
-http://media-grupa.net:80/goran467/2019goranvv/535
-#EXTINF:-1 tvg-id="" tvg-name="Prva TV CG" tvg-logo="http://116.203.156.75/logo/prva_cg.png" group-title="CRNA GORA",Prva TV CG
-http://media-grupa.net:80/goran467/2019goranvv/532
-#EXTINF:-1 tvg-id="" tvg-name="Vijesti 24" tvg-logo="http://116.203.156.75/logo/tv-vijesti.jpg" group-title="CRNA GORA",Vijesti 24
-http://media-grupa.net:80/goran467/2019goranvv/531
-#EXTINF:-1 tvg-id="Pink M" tvg-name="PINK M" tvg-logo="" group-title="CRNA GORA",PINK M
-http://media-grupa.net:80/goran467/2019goranvv/6429
-#EXTINF:-1 tvg-id="" tvg-name="NOVA M" tvg-logo="" group-title="CRNA GORA",NOVA M
-http://media-grupa.net:80/goran467/2019goranvv/9281
-#EXTINF:-1 tvg-id="" tvg-name="Montenegro Luxemburg" tvg-logo="" group-title="CRNA GORA",Montenegro Luxemburg
-http://media-grupa.net:80/goran467/2019goranvv/7330
-#EXTINF:-1 tvg-id="" tvg-name="Rozaje TV" tvg-logo="" group-title="CRNA GORA",Rozaje TV
-http://media-grupa.net:80/goran467/2019goranvv/8574
-#EXTINF:-1 tvg-id="" tvg-name="Islam Montenegro" tvg-logo="" group-title="CRNA GORA",Islam Montenegro
-http://media-grupa.net:80/goran467/2019goranvv/8575
-#EXTINF:-1 tvg-id="" tvg-name="==== FILMSKI ====" tvg-logo="" group-title="FILMSKI",==== FILMSKI ====
-http://media-grupa.net:80/goran467/2019goranvv/436
-#EXTINF:-1 tvg-id="" tvg-name="NOVA PREMIUM HD" tvg-logo="" group-title="FILMSKI",NOVA PREMIUM HD
-http://media-grupa.net:80/goran467/2019goranvv/8219
-#EXTINF:-1 tvg-id="HBO 1 HD" tvg-name="HBO 1 HD" tvg-logo="http://116.203.156.75/logo/173.png" group-title="FILMSKI",HBO 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/419
-#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://116.203.156.75/logo/174.png" group-title="FILMSKI",HBO 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/418
-#EXTINF:-1 tvg-id="HBO 3 HD" tvg-name="HBO 3 HD" tvg-logo="http://116.203.156.75/logo/175.png" group-title="FILMSKI",HBO 3 HD
-http://media-grupa.net:80/goran467/2019goranvv/417
-#EXTINF:-1 tvg-id="Cinemax 1 HD" tvg-name="Cinemax 1 HD" tvg-logo="http://116.203.156.75/logo/176.png" group-title="FILMSKI",Cinemax 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/435
-#EXTINF:-1 tvg-id="Cinemax 2 HD" tvg-name="Cinemax 2 HD" tvg-logo="http://116.203.156.75/logo/177.png" group-title="FILMSKI",Cinemax 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/434
-#EXTINF:-1 tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1" tvg-logo="" group-title="FILMSKI",CineStar Premiere 1
-http://media-grupa.net:80/goran467/2019goranvv/6543
-#EXTINF:-1 tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2" tvg-logo="" group-title="FILMSKI",CineStar Premiere 2
-http://media-grupa.net:80/goran467/2019goranvv/6542
-#EXTINF:-1 tvg-id="CineStar Premiere 1 HD" tvg-name="CineStar Premiere 1 HD" tvg-logo="http://116.203.156.75/logo/cine1.png" group-title="FILMSKI",CineStar Premiere 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/431
-#EXTINF:-1 tvg-id="CineStar Premiere 2 HD" tvg-name="CineStar Premiere 2 HD" tvg-logo="http://116.203.156.75/logo/cine2.png" group-title="FILMSKI",CineStar Premiere 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/430
-#EXTINF:-1 tvg-id="CineStar TV" tvg-name="CineStar TV" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI",CineStar TV
-http://media-grupa.net:80/goran467/2019goranvv/429
-#EXTINF:-1 tvg-id="" tvg-name="CineStar TV 2 HD" tvg-logo="http://116.203.156.75/logo/cine.png" group-title="FILMSKI",CineStar TV 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/8304
-#EXTINF:-1 tvg-id="Cinestar Fantasy" tvg-name="CineStar Fantasy" tvg-logo="http://116.203.156.75/logo/cinestartv_fantasy_logo.png" group-title="FILMSKI",CineStar Fantasy
-http://media-grupa.net:80/goran467/2019goranvv/432
-#EXTINF:-1 tvg-id="CineStar Action" tvg-name="Cinestar Action" tvg-logo="http://116.203.156.75/logo/cineaction.png" group-title="FILMSKI",Cinestar Action
-http://media-grupa.net:80/goran467/2019goranvv/433
-#EXTINF:-1 tvg-id="CineStar TV Comedy HD" tvg-name="Cinestar Comedy" tvg-logo="" group-title="FILMSKI",Cinestar Comedy
-http://media-grupa.net:80/goran467/2019goranvv/10320
-#EXTINF:-1 tvg-id="" tvg-name="Cinemania HD" tvg-logo="" group-title="FILMSKI",Cinemania HD
-http://media-grupa.net:80/goran467/2019goranvv/9284
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://116.203.156.75/logo/fox.png" group-title="FILMSKI",FOX
-http://media-grupa.net:80/goran467/2019goranvv/423
-#EXTINF:-1 tvg-id="FOX Crime" tvg-name="FOX Crime" tvg-logo="http://116.203.156.75/logo/fox_crime.png" group-title="FILMSKI",FOX Crime
-http://media-grupa.net:80/goran467/2019goranvv/422
-#EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX Life" tvg-logo="http://116.203.156.75/logo/fox_life.png" group-title="FILMSKI",FOX Life
-http://media-grupa.net:80/goran467/2019goranvv/421
-#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX Movies" tvg-logo="http://116.203.156.75/logo/fox_movies.jpg" group-title="FILMSKI",FOX Movies
-http://media-grupa.net:80/goran467/2019goranvv/420
-#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD" tvg-logo="http://116.203.156.75/logo/fox.png" group-title="FILMSKI",FOX HD
-http://media-grupa.net:80/goran467/2019goranvv/6305
-#EXTINF:-1 tvg-id="FOX Life" tvg-name="FOX LIFE HD" tvg-logo="http://116.203.156.75/logo/fox_life.png" group-title="FILMSKI",FOX LIFE HD
-http://media-grupa.net:80/goran467/2019goranvv/6307
-#EXTINF:-1 tvg-id="FOX Crime" tvg-name="FOX CRIME HD" tvg-logo="http://116.203.156.75/logo/fox_crime.png" group-title="FILMSKI",FOX CRIME HD
-http://media-grupa.net:80/goran467/2019goranvv/6306
-#EXTINF:-1 tvg-id="FOX Movies" tvg-name="FOX MOVIES HD" tvg-logo="http://116.203.156.75/logo/fox_movies.png" group-title="FILMSKI",FOX MOVIES HD
-http://media-grupa.net:80/goran467/2019goranvv/6308
-#EXTINF:-1 tvg-id="" tvg-name="FOX BUSINES HD" tvg-logo="" group-title="FILMSKI",FOX BUSINES HD
-http://media-grupa.net:80/goran467/2019goranvv/8851
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM FAMILY HD" tvg-logo="" group-title="FILMSKI",FOX PREMIUM FAMILY HD
-http://media-grupa.net:80/goran467/2019goranvv/10254
-#EXTINF:-1 tvg-id="SUPER STAR TV" tvg-name="SUPER STAR TV" tvg-logo="" group-title="FILMSKI",SUPER STAR TV
-http://media-grupa.net:80/goran467/2019goranvv/6270
-#EXTINF:-1 tvg-id="STAR TV" tvg-name="STAR TV" tvg-logo="" group-title="FILMSKI",STAR TV
-http://media-grupa.net:80/goran467/2019goranvv/6748
-#EXTINF:-1 tvg-id="TV 1000" tvg-name="TV 1000" tvg-logo="http://116.203.156.75/logo/tv1000.png" group-title="FILMSKI",TV 1000
-http://media-grupa.net:80/goran467/2019goranvv/408
-#EXTINF:-1 tvg-id="Film Box Plus" tvg-name="Film Box Plus" tvg-logo="http://116.203.156.75/logo/film_plus.png" group-title="FILMSKI",Film Box Plus
-http://media-grupa.net:80/goran467/2019goranvv/5510
-#EXTINF:-1 tvg-id="Film Box Extra HD" tvg-name="Film Box Extra HD" tvg-logo="http://116.203.156.75/logo/FILMBOX-EXTRA-HD.jpg" group-title="FILMSKI",Film Box Extra HD
-http://media-grupa.net:80/goran467/2019goranvv/424
-#EXTINF:-1 tvg-id="Epic Drama HD" tvg-name="Epic Drama" tvg-logo="" group-title="FILMSKI",Epic Drama
-http://media-grupa.net:80/goran467/2019goranvv/6656
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/99.png" group-title="FILMSKI",AMC
-http://media-grupa.net:80/goran467/2019goranvv/599
-#EXTINF:-1 tvg-id="Diva" tvg-name="Diva" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/50.png" group-title="FILMSKI",Diva
-http://media-grupa.net:80/goran467/2019goranvv/576
-#EXTINF:-1 tvg-id="" tvg-name="SciFi" tvg-logo="http://116.203.156.75/logo/sci_fi.png" group-title="FILMSKI",SciFi
-http://media-grupa.net:80/goran467/2019goranvv/409
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://116.203.156.75/logo/axn.png" group-title="FILMSKI",AXN
-http://media-grupa.net:80/goran467/2019goranvv/596
-#EXTINF:-1 tvg-id="" tvg-name="AXN Spin" tvg-logo="http://116.203.156.75/logo/axnspin.jpg" group-title="FILMSKI",AXN Spin
-http://media-grupa.net:80/goran467/2019goranvv/595
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Extra" tvg-logo="http://116.203.156.75/logo/channel_comedy_central_extra.jpg" group-title="FILMSKI",Comedy Central Extra
-http://media-grupa.net:80/goran467/2019goranvv/586
-#EXTINF:-1 tvg-id="Klasik Tv" tvg-name="Klasik Tv" tvg-logo="http://116.203.156.75/logo/klasik.png" group-title="FILMSKI",Klasik Tv
-http://media-grupa.net:80/goran467/2019goranvv/415
-#EXTINF:-1 tvg-id="Film klub" tvg-name="Film Klub" tvg-logo="" group-title="FILMSKI",Film Klub
-http://media-grupa.net:80/goran467/2019goranvv/8303
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="Kino TV" tvg-logo="http://116.203.156.75/logo/kinotv.jpg" group-title="FILMSKI",Kino TV
-http://media-grupa.net:80/goran467/2019goranvv/416
-#EXTINF:-1 tvg-id="" tvg-name="M1 Film" tvg-logo="http://116.203.156.75/logo/M1FILM.jpg" group-title="FILMSKI",M1 Film
-http://media-grupa.net:80/goran467/2019goranvv/414
-#EXTINF:-1 tvg-id="" tvg-name="M1 Gold" tvg-logo="" group-title="FILMSKI",M1 Gold
-http://media-grupa.net:80/goran467/2019goranvv/8900
-#EXTINF:-1 tvg-id="" tvg-name="PickBox TV" tvg-logo="" group-title="FILMSKI",PickBox TV
-http://media-grupa.net:80/goran467/2019goranvv/8563
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2K" tvg-logo="" group-title="FILMSKI",Nova Cinema 2K
-http://media-grupa.net:80/goran467/2019goranvv/12086
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 1" tvg-logo="" group-title="FILMSKI",Nova Cinema 1
-http://media-grupa.net:80/goran467/2019goranvv/10188
-#EXTINF:-1 tvg-id="" tvg-name="Nova Cinema 2" tvg-logo="" group-title="FILMSKI",Nova Cinema 2
-http://media-grupa.net:80/goran467/2019goranvv/10189
-#EXTINF:-1 tvg-id="" tvg-name="Nova Family" tvg-logo="" group-title="FILMSKI",Nova Family
-http://media-grupa.net:80/goran467/2019goranvv/12084
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Balkan 1 HD" tvg-logo="" group-title="FILMSKI",CROMAX Balkan 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/9343
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Balkan 2 HD" tvg-logo="" group-title="FILMSKI",CROMAX Balkan 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/9342
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX KINO HD" tvg-logo="" group-title="FILMSKI",CROMAX KINO HD
-http://media-grupa.net:80/goran467/2019goranvv/6274
-#EXTINF:-1 tvg-id="" tvg-name="M MOVIES PREMIERE" tvg-logo="" group-title="FILMSKI",M MOVIES PREMIERE
-http://media-grupa.net:80/goran467/2019goranvv/6273
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Gold) HD" tvg-logo="" group-title="FILMSKI",CROMAX Select (Gold) HD
-http://media-grupa.net:80/goran467/2019goranvv/3799
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Premium) HD" tvg-logo="" group-title="FILMSKI",CROMAX Select (Premium) HD
-http://media-grupa.net:80/goran467/2019goranvv/3798
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select (Horor) HD" tvg-logo="" group-title="FILMSKI",CROMAX Select (Horor) HD
-http://media-grupa.net:80/goran467/2019goranvv/5467
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 1 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/426
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 2 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/5468
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 3 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 3 HD
-http://media-grupa.net:80/goran467/2019goranvv/5469
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 4 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 4 HD
-http://media-grupa.net:80/goran467/2019goranvv/5470
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 5 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 5 HD
-http://media-grupa.net:80/goran467/2019goranvv/5471
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 6 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 6 HD
-http://media-grupa.net:80/goran467/2019goranvv/5472
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 7 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 7 HD
-http://media-grupa.net:80/goran467/2019goranvv/5473
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 8 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 8 HD
-http://media-grupa.net:80/goran467/2019goranvv/5474
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX Select 9 HD" tvg-logo="" group-title="FILMSKI",CROMAX Select 9 HD
-http://media-grupa.net:80/goran467/2019goranvv/5475
-#EXTINF:-1 tvg-id="" tvg-name="==== PINK ====" tvg-logo="" group-title="PINK",==== PINK ====
-http://media-grupa.net:80/goran467/2019goranvv/377
-#EXTINF:-1 tvg-id="" tvg-name="Pink BH" tvg-logo="http://116.203.156.75/logo/pink_bh.png" group-title="PINK",Pink BH
-http://media-grupa.net:80/goran467/2019goranvv/3647
-#EXTINF:-1 tvg-id="PINK" tvg-name="PINK" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK",PINK
-http://media-grupa.net:80/goran467/2019goranvv/376
-#EXTINF:-1 tvg-id="PINK" tvg-name="PINK HD" tvg-logo="http://116.203.156.75/logo/pink.png" group-title="PINK",PINK HD
-http://media-grupa.net:80/goran467/2019goranvv/7466
-#EXTINF:-1 tvg-id="PINK 2" tvg-name="Red TV" tvg-logo="http://116.203.156.75/logo/pink2.png" group-title="PINK",Red TV
-http://media-grupa.net:80/goran467/2019goranvv/375
-#EXTINF:-1 tvg-id="Pink 3" tvg-name="Pink Vesti" tvg-logo="http://116.203.156.75/logo/pink3.png" group-title="PINK",Pink Vesti
-http://media-grupa.net:80/goran467/2019goranvv/374
-#EXTINF:-1 tvg-id="Pink Action" tvg-name="Pink Action" tvg-logo="http://116.203.156.75/logo/pink_action.png" group-title="PINK",Pink Action
-http://media-grupa.net:80/goran467/2019goranvv/373
-#EXTINF:-1 tvg-id="Pink Comedy" tvg-name="Pink Comedy" tvg-logo="http://116.203.156.75/logo/pink_comedy.png" group-title="PINK",Pink Comedy
-http://media-grupa.net:80/goran467/2019goranvv/371
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Pink Crime & Mystery" tvg-logo="http://116.203.156.75/logo/pink_crime_mistery.png" group-title="PINK",Pink Crime & Mystery
-http://media-grupa.net:80/goran467/2019goranvv/370
-#EXTINF:-1 tvg-id="Pink Film" tvg-name="Pink Film" tvg-logo="http://116.203.156.75/logo/pink_film.png" group-title="PINK",Pink Film
-http://media-grupa.net:80/goran467/2019goranvv/369
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 1" tvg-logo="http://116.203.156.75/logo/pink_folk1.png" group-title="PINK",Pink Folk 1
-http://media-grupa.net:80/goran467/2019goranvv/368
-#EXTINF:-1 tvg-id="" tvg-name="Pink Folk 2" tvg-logo="http://116.203.156.75/logo/pink_folk2.png" group-title="PINK",Pink Folk 2
-http://media-grupa.net:80/goran467/2019goranvv/367
-#EXTINF:-1 tvg-id="" tvg-name="PINK HA HA" tvg-logo="http://116.203.156.75/logo/pink_haha.jpg" group-title="PINK",PINK HA HA
-http://media-grupa.net:80/goran467/2019goranvv/366
-#EXTINF:-1 tvg-id="Pink Horror" tvg-name="Pink Horror" tvg-logo="http://116.203.156.75/logo/pink_horor.png" group-title="PINK",Pink Horror
-http://media-grupa.net:80/goran467/2019goranvv/356
-#EXTINF:-1 tvg-id="Pink Kids" tvg-name="Pink Kids" tvg-logo="http://116.203.156.75/logo/pink_kids.png" group-title="PINK",Pink Kids
-http://media-grupa.net:80/goran467/2019goranvv/365
-#EXTINF:-1 tvg-id="Pink Movies" tvg-name="Pink Movies" tvg-logo="http://116.203.156.75/logo/pink_movies.png" group-title="PINK",Pink Movies
-http://media-grupa.net:80/goran467/2019goranvv/363
-#EXTINF:-1 tvg-id="" tvg-name="Pink Music 1" tvg-logo="http://116.203.156.75/logo/pink_music.png" group-title="PINK",Pink Music 1
-http://media-grupa.net:80/goran467/2019goranvv/362
-#EXTINF:-1 tvg-id="" tvg-name="Pink Music 2" tvg-logo="http://116.203.156.75/logo/pink_music2.png" group-title="PINK",Pink Music 2
-http://media-grupa.net:80/goran467/2019goranvv/361
-#EXTINF:-1 tvg-id="" tvg-name="Pink & Roll" tvg-logo="" group-title="PINK",Pink & Roll
-http://media-grupa.net:80/goran467/2019goranvv/6640
-#EXTINF:-1 tvg-id="Pink Plus" tvg-name="Pink Plus" tvg-logo="http://116.203.156.75/logo/pink_plus.png" group-title="PINK",Pink Plus
-http://media-grupa.net:80/goran467/2019goranvv/360
-#EXTINF:-1 tvg-id="Pink Premium" tvg-name="Pink Premium" tvg-logo="http://116.203.156.75/logo/pink_premium.png" group-title="PINK",Pink Premium
-http://media-grupa.net:80/goran467/2019goranvv/359
-#EXTINF:-1 tvg-id="Pink Reality" tvg-name="Pink Reality" tvg-logo="http://116.203.156.75/logo/pinkReality.png" group-title="PINK",Pink Reality
-http://media-grupa.net:80/goran467/2019goranvv/358
-#EXTINF:-1 tvg-id="Pink Romance" tvg-name="Pink Romance" tvg-logo="http://116.203.156.75/logo/Pink_Romance_logo.png" group-title="PINK",Pink Romance
-http://media-grupa.net:80/goran467/2019goranvv/357
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Pink Sci Fi & Fantasy" tvg-logo="http://116.203.156.75/logo/Pink_SciFi_Fantasy_logo.png" group-title="PINK",Pink Sci Fi & Fantasy
-http://media-grupa.net:80/goran467/2019goranvv/355
-#EXTINF:-1 tvg-id="Pink Serije" tvg-name="Pink Serije" tvg-logo="http://116.203.156.75/logo/pink_serije.png" group-title="PINK",Pink Serije
-http://media-grupa.net:80/goran467/2019goranvv/353
-#EXTINF:-1 tvg-id="Pink Show" tvg-name="Pink Show" tvg-logo="http://116.203.156.75/logo/PinkShow.png" group-title="PINK",Pink Show
-http://media-grupa.net:80/goran467/2019goranvv/352
-#EXTINF:-1 tvg-id="Pink Soap" tvg-name="PINK SOAP" tvg-logo="http://116.203.156.75/logo/pinksoap.png" group-title="PINK",PINK SOAP
-http://media-grupa.net:80/goran467/2019goranvv/351
-#EXTINF:-1 tvg-id="" tvg-name="Pink Thriler" tvg-logo="http://116.203.156.75/logo/Pink_Thriller_logo.png" group-title="PINK",Pink Thriler
-http://media-grupa.net:80/goran467/2019goranvv/354
-#EXTINF:-1 tvg-id="Pink Classic" tvg-name="Pink Classic" tvg-logo="http://116.203.156.75/logo/pink_classic.png" group-title="PINK",Pink Classic
-http://media-grupa.net:80/goran467/2019goranvv/5665
-#EXTINF:-1 tvg-id="Pink Family" tvg-name="Pink Family" tvg-logo="http://116.203.156.75/logo/pink_family.png" group-title="PINK",Pink Family
-http://media-grupa.net:80/goran467/2019goranvv/5666
-#EXTINF:-1 tvg-id="Pink Kuvar" tvg-name="Pink Kuvar" tvg-logo="http://116.203.156.75/logo/pink_kuvar.png" group-title="PINK",Pink Kuvar
-http://media-grupa.net:80/goran467/2019goranvv/5664
-#EXTINF:-1 tvg-id="" tvg-name="Pink LOL" tvg-logo="http://116.203.156.75/logo/pink_lol.png" group-title="PINK",Pink LOL
-http://media-grupa.net:80/goran467/2019goranvv/5663
-#EXTINF:-1 tvg-id="Pink World" tvg-name="Pink World" tvg-logo="http://116.203.156.75/logo/pink_world.png" group-title="PINK",Pink World
-http://media-grupa.net:80/goran467/2019goranvv/5667
-#EXTINF:-1 tvg-id="Pink Pedia" tvg-name="Pink Pedia" tvg-logo="http://116.203.156.75/logo/pink_pedia.png" group-title="PINK",Pink Pedia
-http://media-grupa.net:80/goran467/2019goranvv/350
-#EXTINF:-1 tvg-id="Pink Western" tvg-name="Pink Western" tvg-logo="http://116.203.156.75/logo/pink-western-logo.png" group-title="PINK",Pink Western
-http://media-grupa.net:80/goran467/2019goranvv/349
-#EXTINF:-1 tvg-id="Pink World Cinema" tvg-name="Pink World Cinema" tvg-logo="http://116.203.156.75/logo/pink_world_cinema.png" group-title="PINK",Pink World Cinema
-http://media-grupa.net:80/goran467/2019goranvv/348
-#EXTINF:-1 tvg-id="Pink Zabava" tvg-name="Pink Zabava" tvg-logo="http://116.203.156.75/logo/pink_zabava.png" group-title="PINK",Pink Zabava
-http://media-grupa.net:80/goran467/2019goranvv/347
-#EXTINF:-1 tvg-id="" tvg-name="==== DOKUMENTARNI ====" tvg-logo="" group-title="DOKUMENTARNI",==== DOKUMENTARNI ====
-http://media-grupa.net:80/goran467/2019goranvv/1545
-#EXTINF:-1 tvg-id="" tvg-name="NOVA DOKU" tvg-logo="" group-title="DOKUMENTARNI",NOVA DOKU
-http://media-grupa.net:80/goran467/2019goranvv/10319
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI",National Geographic
-http://media-grupa.net:80/goran467/2019goranvv/6303
-#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="National Geographic HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/49.png" group-title="DOKUMENTARNI",National Geographic HD
-http://media-grupa.net:80/goran467/2019goranvv/546
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/48.png" group-title="DOKUMENTARNI",Animal Planet
-http://media-grupa.net:80/goran467/2019goranvv/598
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="DOKUMENTARNI",Animal Planet HD
-http://media-grupa.net:80/goran467/2019goranvv/8848
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/183.png" group-title="DOKUMENTARNI",Nat Geo Wild
-http://media-grupa.net:80/goran467/2019goranvv/547
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/47.png" group-title="DOKUMENTARNI",Discovery Channel
-http://media-grupa.net:80/goran467/2019goranvv/583
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/180.png" group-title="DOKUMENTARNI",Discovery Science HD
-http://media-grupa.net:80/goran467/2019goranvv/581
-#EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" tvg-logo="" group-title="DOKUMENTARNI",Discovery ID
-http://media-grupa.net:80/goran467/2019goranvv/7275
-#EXTINF:-1 tvg-id="Discovery TLC" tvg-name="Discovery TLC" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/70.png" group-title="DOKUMENTARNI",Discovery TLC
-http://media-grupa.net:80/goran467/2019goranvv/579
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo Xtra" tvg-logo="http://116.203.156.75/logo/DTX_Discovery_logo.png" group-title="DOKUMENTARNI",Discovery Turbo Xtra
-http://media-grupa.net:80/goran467/2019goranvv/578
-#EXTINF:-1 tvg-id="Entertainment +" tvg-name="Entertaimment +" tvg-logo="http://116.203.156.75/logo/Entertainment.jpg" group-title="DOKUMENTARNI",Entertaimment +
-http://media-grupa.net:80/goran467/2019goranvv/3664
-#EXTINF:-1 tvg-id="" tvg-name="CBS Reality" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/67.png" group-title="DOKUMENTARNI",CBS Reality
-http://media-grupa.net:80/goran467/2019goranvv/589
-#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="http://116.203.156.75/logo/crimeinvest.jpg" group-title="DOKUMENTARNI",Crime & Investigation
-http://media-grupa.net:80/goran467/2019goranvv/585
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Da Vinci Learning" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/90.png" group-title="DOKUMENTARNI",Da Vinci Learning
-http://media-grupa.net:80/goran467/2019goranvv/584
-#EXTINF:-1 tvg-id="Viasat Explore" tvg-name="Viasat Explore" tvg-logo="http://116.203.156.75/logo/9.png" group-title="DOKUMENTARNI",Viasat Explore
-http://media-grupa.net:80/goran467/2019goranvv/503
-#EXTINF:-1 tvg-id="Viasat History" tvg-name="Viasat History HD" tvg-logo="http://116.203.156.75/logo/6.png" group-title="DOKUMENTARNI",Viasat History HD
-http://media-grupa.net:80/goran467/2019goranvv/502
-#EXTINF:-1 tvg-id="Viasat Nature" tvg-name="Viasat Nature" tvg-logo="http://116.203.156.75/logo/naturelogo.png" group-title="DOKUMENTARNI",Viasat Nature
-http://media-grupa.net:80/goran467/2019goranvv/501
-#EXTINF:-1 tvg-id="Balkan Trip HD" tvg-name="Balkan Trip" tvg-logo="" group-title="DOKUMENTARNI",Balkan Trip
-http://media-grupa.net:80/goran467/2019goranvv/10270
-#EXTINF:-1 tvg-id="" tvg-name="DR FIT" tvg-logo="http://116.203.156.75/logo/life-holiday.png" group-title="DOKUMENTARNI",DR FIT
-http://media-grupa.net:80/goran467/2019goranvv/524
-#EXTINF:-1 tvg-id="" tvg-name="Woman TV" tvg-logo="" group-title="DOKUMENTARNI",Woman TV
-http://media-grupa.net:80/goran467/2019goranvv/8866
-#EXTINF:-1 tvg-id="" tvg-name="Travel XP HD" tvg-logo="" group-title="DOKUMENTARNI",Travel XP HD
-http://media-grupa.net:80/goran467/2019goranvv/8867
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="DOKUMENTARNI",HGTV
-http://media-grupa.net:80/goran467/2019goranvv/6298
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="Travel Channel HD" tvg-logo="http://116.203.156.75/logo/travel.png" group-title="DOKUMENTARNI",Travel Channel HD
-http://media-grupa.net:80/goran467/2019goranvv/3651
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Earth" tvg-logo="http://116.203.156.75/logo/PlanetEarth.png" group-title="DOKUMENTARNI",Planet Earth
-http://media-grupa.net:80/goran467/2019goranvv/5389
-#EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="DOKUMENTARNI",BBC Earth HD
-http://media-grupa.net:80/goran467/2019goranvv/5677
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="DOKU TV" tvg-logo="http://116.203.156.75/logo/dokutv.jpg" group-title="DOKUMENTARNI",DOKU TV
-http://media-grupa.net:80/goran467/2019goranvv/5673
-#EXTINF:-1 tvg-id="" tvg-name="Docu Box HD" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/158.png" group-title="DOKUMENTARNI",Docu Box HD
-http://media-grupa.net:80/goran467/2019goranvv/577
-#EXTINF:-1 tvg-id="History HD" tvg-name="History Channel" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/66.png" group-title="DOKUMENTARNI",History Channel
-http://media-grupa.net:80/goran467/2019goranvv/561
-#EXTINF:-1 tvg-id="History Channel 2" tvg-name="History Channel 2" tvg-logo="http://116.203.156.75/logo/h2-logo.png" group-title="DOKUMENTARNI",History Channel 2
-http://media-grupa.net:80/goran467/2019goranvv/569
-#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="DOKUMENTARNI",Food Network
-http://media-grupa.net:80/goran467/2019goranvv/6314
-#EXTINF:-1, Foodnetvork
-http:\\client.nodomain.vip:80\live.ts?channelId=1661&uid=49396&deviceUser=27davorkraljevic&devicePass=EkfO5kGRWC
-#EXTINF:-1 tvg-id="24 Kitchen" tvg-name="24 Kitchen" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/71.png" group-title="DOKUMENTARNI",24 Kitchen
-http://media-grupa.net:80/goran467/2019goranvv/601
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="" group-title="DOKUMENTARNI",Fashion TV
-http://media-grupa.net:80/goran467/2019goranvv/587
-#EXTINF:-1 tvg-id="" tvg-name="Nova Documentary" tvg-logo="" group-title="DOKUMENTARNI",Nova Documentary
-http://media-grupa.net:80/goran467/2019goranvv/12082
-#EXTINF:-1 tvg-id="" tvg-name="==== DJECIJI ====" tvg-logo="" group-title="DJECIJI",==== DJECIJI ====
-http://media-grupa.net:80/goran467/2019goranvv/390
-#EXTINF:-1 tvg-id="" tvg-name="MINIMAX" tvg-logo="http://116.203.156.75/logo/minimax.png" group-title="DJECIJI",MINIMAX
-http://media-grupa.net:80/goran467/2019goranvv/384
-#EXTINF:-1 tvg-id="" tvg-name="MINIMAX SRB" tvg-logo="" group-title="DJECIJI",MINIMAX SRB
-http://media-grupa.net:80/goran467/2019goranvv/6545
-#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="Nickelodeon" tvg-logo="http://116.203.156.75/logo/nickelodeon.png" group-title="DJECIJI",Nickelodeon
-http://media-grupa.net:80/goran467/2019goranvv/382
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon SRB" tvg-logo="" group-title="DJECIJI",Nickelodeon SRB
-http://media-grupa.net:80/goran467/2019goranvv/6864
-#EXTINF:-1 tvg-id="" tvg-name="Dexy TV" tvg-logo="" group-title="DJECIJI",Dexy TV
-http://media-grupa.net:80/goran467/2019goranvv/10269
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr." tvg-logo="http://116.203.156.75/logo/nickjr.png" group-title="DJECIJI",Nick Jr.
-http://media-grupa.net:80/goran467/2019goranvv/383
-#EXTINF:-1 tvg-id="" tvg-name="Nicktoons" tvg-logo="" group-title="DJECIJI",Nicktoons
-http://media-grupa.net:80/goran467/2019goranvv/8861
-#EXTINF:-1 tvg-id="" tvg-name="Nick Hits" tvg-logo="" group-title="DJECIJI",Nick Hits
-http://media-grupa.net:80/goran467/2019goranvv/8862
-#EXTINF:-1 tvg-id="" tvg-name="Hayatovci" tvg-logo="http://116.203.156.75/logo/hayatovci-logo.png" group-title="DJECIJI",Hayatovci
-http://media-grupa.net:80/goran467/2019goranvv/562
-#EXTINF:-1 tvg-id="" tvg-name="Mini TV" tvg-logo="" group-title="DJECIJI",Mini TV
-http://media-grupa.net:80/goran467/2019goranvv/9282
-#EXTINF:-1 tvg-id="" tvg-name="Pikaboo" tvg-logo="" group-title="DJECIJI",Pikaboo
-http://media-grupa.net:80/goran467/2019goranvv/9285
-#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://116.203.156.75/logo/Babytv.png" group-title="DJECIJI",Baby TV
-http://media-grupa.net:80/goran467/2019goranvv/388
-#EXTINF:-1 tvg-id="RTL Kockica" tvg-name="RTL KOCKICA" tvg-logo="" group-title="DJECIJI",RTL KOCKICA
-http://media-grupa.net:80/goran467/2019goranvv/7520
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://116.203.156.75/logo/Cartoon_Network_Logo.jpg" group-title="DJECIJI",Cartoon Network
-http://media-grupa.net:80/goran467/2019goranvv/389
-#EXTINF:-1 tvg-id="" tvg-name="VAVOOM" tvg-logo="" group-title="DJECIJI",VAVOOM
-http://media-grupa.net:80/goran467/2019goranvv/10255
-#EXTINF:-1 tvg-id="" tvg-name="DUCK TV" tvg-logo="" group-title="DJECIJI",DUCK TV
-http://media-grupa.net:80/goran467/2019goranvv/10256
-#EXTINF:-1 tvg-id="" tvg-name="Nova Kids" tvg-logo="" group-title="DJECIJI",Nova Kids
-http://media-grupa.net:80/goran467/2019goranvv/12085
-#EXTINF:-1 tvg-id="" tvg-name="GORA KIDS HD" tvg-logo="" group-title="DJECIJI",GORA KIDS HD
-http://media-grupa.net:80/goran467/2019goranvv/10259
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT KIDS HD" tvg-logo="" group-title="DJECIJI",CROMAX SELECT KIDS HD
-http://media-grupa.net:80/goran467/2019goranvv/10257
-#EXTINF:-1 tvg-id="" tvg-name="CROMAX SELECT KIDS 2 HD" tvg-logo="" group-title="DJECIJI",CROMAX SELECT KIDS 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/10258
-#EXTINF:-1 tvg-id="" tvg-name="Ginx TV" tvg-logo="" group-title="DJECIJI",Ginx TV
-http://media-grupa.net:80/goran467/2019goranvv/10268
-#EXTINF:-1 tvg-id="" tvg-name="Disney channel" tvg-logo="http://116.203.156.75/logo/disney_channel_0.png" group-title="DJECIJI",Disney channel
-http://media-grupa.net:80/goran467/2019goranvv/386
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://116.203.156.75/logo/Boomerang_Logo_2014.png" group-title="DJECIJI",Boomerang
-http://media-grupa.net:80/goran467/2019goranvv/387
-#EXTINF:-1 tvg-id="" tvg-name="Pink Super Kids" tvg-logo="" group-title="DJECIJI",Pink Super Kids
-http://media-grupa.net:80/goran467/2019goranvv/8048
-#EXTINF:-1 tvg-id="" tvg-name="Pink Panter TV" tvg-logo="" group-title="DJECIJI",Pink Panter TV
-http://media-grupa.net:80/goran467/2019goranvv/8232
-#EXTINF:-1 tvg-id="" tvg-name="Grizzy & the Lemmings" tvg-logo="" group-title="DJECIJI",Grizzy & the Lemmings
-http://media-grupa.net:80/goran467/2019goranvv/8233
-#EXTINF:-1 tvg-id="" tvg-name="Tom and Jerry" tvg-logo="" group-title="DJECIJI",Tom and Jerry
-http://media-grupa.net:80/goran467/2019goranvv/8046
-#EXTINF:-1 tvg-id="" tvg-name="PEPA PRASE" tvg-logo="" group-title="DJECIJI",PEPA PRASE
-http://media-grupa.net:80/goran467/2019goranvv/10029
-#EXTINF:-1 tvg-id="" tvg-name="MASA I MEDVJED" tvg-logo="" group-title="DJECIJI",MASA I MEDVJED
-http://media-grupa.net:80/goran467/2019goranvv/5671
-#EXTINF:-1 tvg-id="" tvg-name="==== SPORTSKI ====" tvg-logo="" group-title="SPORTSKI",==== SPORTSKI ====
-http://media-grupa.net:80/goran467/2019goranvv/498
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 1 FHD" tvg-logo="" group-title="SPORTSKI",Planet Sport 1 FHD
-http://media-grupa.net:80/goran467/2019goranvv/7321
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 2 FHD" tvg-logo="" group-title="SPORTSKI",Planet Sport 2 FHD
-http://media-grupa.net:80/goran467/2019goranvv/7322
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 3 FHD" tvg-logo="" group-title="SPORTSKI",Planet Sport 3 FHD
-http://media-grupa.net:80/goran467/2019goranvv/7323
-#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 4 FHD" tvg-logo="" group-title="SPORTSKI",Planet Sport 4 FHD
-http://media-grupa.net:80/goran467/2019goranvv/7324
-#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 5 FHD" tvg-logo="" group-title="SPORTSKI",Planet Sport 5 FHD
-http://media-grupa.net:80/goran467/2019goranvv/7325
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 1 HD" tvg-logo="" group-title="SPORTSKI",Planet Sport 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/497
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 2 HD" tvg-logo="" group-title="SPORTSKI",Planet Sport 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/496
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Planet Sport 3 HD" tvg-logo="" group-title="SPORTSKI",Planet Sport 3 HD
-http://media-grupa.net:80/goran467/2019goranvv/3794
-#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 4 HD" tvg-logo="" group-title="SPORTSKI",Planet Sport 4 HD
-http://media-grupa.net:80/goran467/2019goranvv/5678
-#EXTINF:-1 tvg-id="" tvg-name="Planet Sport 5 HD" tvg-logo="" group-title="SPORTSKI",Planet Sport 5 HD
-http://media-grupa.net:80/goran467/2019goranvv/5679
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1" tvg-logo="" group-title="SPORTSKI",Arena Sport 1
-http://media-grupa.net:80/goran467/2019goranvv/495
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="SPORTSKI",Arena Sport 2
-http://media-grupa.net:80/goran467/2019goranvv/12045
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="SPORTSKI",Arena Sport 3
-http://media-grupa.net:80/goran467/2019goranvv/12046
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="SPORTSKI",Arena Sport 4
-http://media-grupa.net:80/goran467/2019goranvv/12047
-#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Arena Sport 5" tvg-logo="" group-title="SPORTSKI",Arena Sport 5
-http://media-grupa.net:80/goran467/2019goranvv/491
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD BIH" tvg-logo="" group-title="SPORTSKI",Arena Sport 1 HD BIH
-http://media-grupa.net:80/goran467/2019goranvv/6776
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD SRB" tvg-logo="" group-title="SPORTSKI",Arena Sport 1 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/490
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD SRB" tvg-logo="" group-title="SPORTSKI",Arena Sport 2 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12051
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD SRB" tvg-logo="" group-title="SPORTSKI",Arena Sport 3 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12050
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD SRB" tvg-logo="" group-title="SPORTSKI",Arena Sport 4 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12049
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 1 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/486
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 2 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/485
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 3 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12052
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 4 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12053
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 5 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 5 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/482
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 6 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 6 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/481
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 7 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12106
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 8 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12107
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 9 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12108
-#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 HD HR" tvg-logo="" group-title="SPORTSKI",Arena Sport 10 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12109
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="" group-title="SPORTSKI",Sport Klub HD
-http://media-grupa.net:80/goran467/2019goranvv/9301
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 1 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12037
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 2 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12038
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 3 HD SRB
-http://media-grupa.net:80/goran467/2019goranvv/12039
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 4 SRB
-http://media-grupa.net:80/goran467/2019goranvv/12040
-#EXTINF:-1 tvg-id="Sport Klub 5 HD" tvg-name="Sport Klub 5 SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 5 SRB
-http://media-grupa.net:80/goran467/2019goranvv/9293
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 SRB" tvg-logo="" group-title="SPORTSKI",Sport Klub 6 SRB
-http://media-grupa.net:80/goran467/2019goranvv/12001
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 HD HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 1 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12041
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 HD HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 2 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12042
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 HD HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 3 HD HR
-http://media-grupa.net:80/goran467/2019goranvv/12043
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 4 HR
-http://media-grupa.net:80/goran467/2019goranvv/12044
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 5 HR
-http://media-grupa.net:80/goran467/2019goranvv/9299
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HR" tvg-logo="" group-title="SPORTSKI",Sport Klub 6 HR
-http://media-grupa.net:80/goran467/2019goranvv/9300
-#EXTINF:-1 tvg-id="" tvg-name="Nova Sport HD" tvg-logo="" group-title="SPORTSKI",Nova Sport HD
-http://media-grupa.net:80/goran467/2019goranvv/9288
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Esport" tvg-logo="" group-title="SPORTSKI",Sport Klub Esport
-http://media-grupa.net:80/goran467/2019goranvv/9302
-#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf" tvg-logo="" group-title="SPORTSKI",Sport Klub Golf
-http://media-grupa.net:80/goran467/2019goranvv/9303
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 1 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12055
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 2 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12056
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 3 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12057
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 4 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12058
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 5 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12059
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 6 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12060
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 7 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12061
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 8 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12062
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 9 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12063
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Sport 10 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12064
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 1 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 1 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12065
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 2 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 2 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12066
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 3 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 3 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12067
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 4 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 4 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12068
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 5 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 5 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12069
-#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga 6 HD (DE)" tvg-logo="" group-title="SPORTSKI",Sky Bundesliga 6 HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12070
-#EXTINF:-1 tvg-id="" tvg-name="SKY Sport News HD (DE)" tvg-logo="" group-title="SPORTSKI",SKY Sport News HD (DE)
-http://media-grupa.net:80/goran467/2019goranvv/12054
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1" tvg-logo="" group-title="SPORTSKI",Sky Sport Austria 1
-http://media-grupa.net:80/goran467/2019goranvv/12075
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="" group-title="SPORTSKI",Sky Sport F1
-http://media-grupa.net:80/goran467/2019goranvv/12078
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="SPORTSKI",DAZN 1
-http://media-grupa.net:80/goran467/2019goranvv/12076
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="" group-title="SPORTSKI",DAZN 2
-http://media-grupa.net:80/goran467/2019goranvv/12077
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="SPORTSKI",BT Sport 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/12071
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="SPORTSKI",BT Sport 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/12072
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="SPORTSKI",BT Sport 3 HD
-http://media-grupa.net:80/goran467/2019goranvv/12073
-#EXTINF:-1 tvg-id="" tvg-name="Moja TV Premier Liga BiH" tvg-logo="" group-title="SPORTSKI",Moja TV Premier Liga BiH
-http://media-grupa.net:80/goran467/2019goranvv/480
-#EXTINF:-1 tvg-id="" tvg-name="Lov i Ribolov" tvg-logo="" group-title="SPORTSKI",Lov i Ribolov
-http://media-grupa.net:80/goran467/2019goranvv/9304
-#EXTINF:-1 tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="SPORTSKI",Extreme Sports
-http://media-grupa.net:80/goran467/2019goranvv/10478
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT CHANNEL HD" tvg-logo="" group-title="SPORTSKI",FIGHT CHANNEL HD
-http://media-grupa.net:80/goran467/2019goranvv/9277
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD SLO" tvg-logo="" group-title="SPORTSKI",SPORT TV 1 HD SLO
-http://media-grupa.net:80/goran467/2019goranvv/12074
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD SLO" tvg-logo="" group-title="SPORTSKI",SPORT TV 2 HD SLO
-http://media-grupa.net:80/goran467/2019goranvv/214
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD SLO" tvg-logo="" group-title="SPORTSKI",SPORT TV 3 HD SLO
-http://media-grupa.net:80/goran467/2019goranvv/213
-#EXTINF:-1 tvg-id="Eurosport HD" tvg-name="EUROSPORT 1 HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/6540
-#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="EUROSPORT 2 HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 2 HD
-http://media-grupa.net:80/goran467/2019goranvv/467
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SP 1 FHD" tvg-logo="" group-title="SPORTSKI",ELEVEN SP 1 FHD
-http://media-grupa.net:80/goran467/2019goranvv/5764
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SP 2 FHD" tvg-logo="" group-title="SPORTSKI",ELEVEN SP 2 FHD
-http://media-grupa.net:80/goran467/2019goranvv/5765
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SP 3 FHD" tvg-logo="" group-title="SPORTSKI",ELEVEN SP 3 FHD
-http://media-grupa.net:80/goran467/2019goranvv/5766
-#EXTINF:-1 tvg-id="" tvg-name="TELEKOM FUSSBALL 1 HD" tvg-logo="" group-title="SPORTSKI",TELEKOM FUSSBALL 1 HD
-http://media-grupa.net:80/goran467/2019goranvv/6658
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 DE" tvg-logo="" group-title="SPORTSKI",EUROSPORT 1 DE
-http://media-grupa.net:80/goran467/2019goranvv/6296
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 DE" tvg-logo="" group-title="SPORTSKI",EUROSPORT 2 DE
-http://media-grupa.net:80/goran467/2019goranvv/6297
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP1" tvg-logo="" group-title="SPORTSKI",BN_SP1
-http://media-grupa.net:80/goran467/2019goranvv/9255
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP2" tvg-logo="" group-title="SPORTSKI",BN_SP2
-http://media-grupa.net:80/goran467/2019goranvv/9256
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP3" tvg-logo="" group-title="SPORTSKI",BN_SP3
-http://media-grupa.net:80/goran467/2019goranvv/9257
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP4" tvg-logo="" group-title="SPORTSKI",BN_SP4
-http://media-grupa.net:80/goran467/2019goranvv/9258
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP5" tvg-logo="" group-title="SPORTSKI",BN_SP5
-http://media-grupa.net:80/goran467/2019goranvv/9259
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP6" tvg-logo="" group-title="SPORTSKI",BN_SP6
-http://media-grupa.net:80/goran467/2019goranvv/9260
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP7" tvg-logo="" group-title="SPORTSKI",BN_SP7
-http://media-grupa.net:80/goran467/2019goranvv/9261
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP8" tvg-logo="" group-title="SPORTSKI",BN_SP8
-http://media-grupa.net:80/goran467/2019goranvv/9262
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP9" tvg-logo="" group-title="SPORTSKI",BN_SP9
-http://media-grupa.net:80/goran467/2019goranvv/9263
-#EXTINF:-1 tvg-id="" tvg-name="BN_SP10" tvg-logo="" group-title="SPORTSKI",BN_SP10
-http://media-grupa.net:80/goran467/2019goranvv/9264
-#EXTINF:-1 tvg-id="" tvg-name="Sport Digital HD" tvg-logo="" group-title="SPORTSKI",Sport Digital HD
-http://media-grupa.net:80/goran467/2019goranvv/461
-#EXTINF:-1 tvg-id="" tvg-name="Motorvision HD" tvg-logo="" group-title="SPORTSKI",Motorvision HD
-http://media-grupa.net:80/goran467/2019goranvv/327
-#EXTINF:-1 tvg-id="" tvg-name="Auto Motor Sport" tvg-logo="" group-title="SPORTSKI",Auto Motor Sport
-http://media-grupa.net:80/goran467/2019goranvv/340
-#EXTINF:-1 tvg-id="" tvg-name="SOS" tvg-logo="" group-title="SPORTSKI",SOS
-http://media-grupa.net:80/goran467/2019goranvv/438
-#EXTINF:-1 tvg-id="" tvg-name="Sportska TV" tvg-logo="" group-title="SPORTSKI",Sportska TV
-http://media-grupa.net:80/goran467/2019goranvv/439
-#EXTINF:-1 tvg-id="" tvg-name="Partizan TV HD" tvg-logo="" group-title="SPORTSKI",Partizan TV HD
-http://media-grupa.net:80/goran467/2019goranvv/5508
-#EXTINF:-1 tvg-id="" tvg-name="Zvezda TV" tvg-logo="" group-title="SPORTSKI",Zvezda TV
-http://media-grupa.net:80/goran467/2019goranvv/8302
-#EXTINF:-1 tvg-id="" tvg-name="HNTV" tvg-logo="" group-title="SPORTSKI",HNTV
-http://media-grupa.net:80/goran467/2019goranvv/464
-#EXTINF:-1 tvg-id="" tvg-name="Fight Box HD" tvg-logo="" group-title="SPORTSKI",Fight Box HD
-http://media-grupa.net:80/goran467/2019goranvv/5509
-#EXTINF:-1 tvg-id="" tvg-name="Kreator TV" tvg-logo="" group-title="SPORTSKI",Kreator TV
-http://media-grupa.net:80/goran467/2019goranvv/463
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="SPORTSKI",NBA TV
-http://media-grupa.net:80/goran467/2019goranvv/466
-#EXTINF:-1 tvg-id="" tvg-name="Sport1 HD" tvg-logo="" group-title="SPORTSKI",Sport1 HD
-http://media-grupa.net:80/goran467/2019goranvv/440
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 1" tvg-logo="" group-title="SPORTSKI",FOX Sports 1
-http://media-grupa.net:80/goran467/2019goranvv/471
-#EXTINF:-1 tvg-id="" tvg-name="FOX Sports 2" tvg-logo="" group-title="SPORTSKI",FOX Sports 2
-http://media-grupa.net:80/goran467/2019goranvv/470
-#EXTINF:-1 tvg-id="" tvg-name="Bayern TV HD" tvg-logo="" group-title="SPORTSKI",Bayern TV HD
-http://media-grupa.net:80/goran467/2019goranvv/6103
-#EXTINF:-1 tvg-id="" tvg-name="==== MUZICKI ====" tvg-logo="" group-title="MUZICKI",==== MUZICKI ====
-http://media-grupa.net:80/goran467/2019goranvv/407
+rtmp://89.163.208.115/live/rtvkrajina
+#EXTINF:-1,RTL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/71.ts
+#EXTINF:-1,RTL 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/72.ts
+#EXTINF:-1,RTL ADRIA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1921.ts
+#EXTINF:-1,RTL CRIME
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1528.ts
+#EXTINF:-1,RTL LIVING
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/469.ts
+#EXTINF:-1,RTL PASSION
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/905.ts
+#EXTINF:-1,DOMA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/70.ts
+#EXTINF:-1,O KANAL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/268.ts
+#EXTINF:-1,HAYAT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/61.ts
+#EXTINF:-1,HAYAT PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/60.ts
+#EXTINF:-1,MINI TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/160.ts
+#EXTINF:-1,BABY TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/267.ts
+#EXTINF:-1,NICK JR.
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/587.ts
+#EXTINF:-1,NICKELODEON
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/169.ts
+#EXTINF:-1,HAYATOVCI
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/596.ts
+#EXTINF:-1,24KITCHEN
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/77.ts
+#EXTINF:-1,RTL KOCKICA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/599.ts
+#EXTINF:-1,MASA I MEDVED
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/903.ts
+#EXTINF:-1,PIKABOO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/600.ts
+#EXTINF:-1,MINIMAX
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/586.ts
+#EXTINF:-1,FEDERALNA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/57.ts
+#EXTINF:-1,ALFA BH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/284.ts
+#EXTINF:-1,NTV IC KAKANJ
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2888.ts
+#EXTINF:-1,FACE TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/59.ts
+#EXTINF:-1,BANOVINA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/296.ts
+#EXTINF:-1,PLAVA VINKOVACKA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/299.ts
+#EXTINF:-1,OTV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2892.ts
+#EXTINF:-1,OSJECKA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/607.ts
+#EXTINF:-1,POSAVINA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/608.ts
+#EXTINF:-1,AL JAZEERA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/56.ts
+#EXTINF:-1,Z1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2721.ts
+#EXTINF:-1,ARENA SPORT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/10.ts
+#EXTINF:-1,ARENA SPORT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/9.ts
+#EXTINF:-1,ARENA SPORT 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/8.ts
+#EXTINF:-1,ARENA SPORT 4
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/7.ts
+#EXTINF:-1,ARENA SPORT 5
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/6.ts
+#EXTINF:-1,ARENA SPORT 1 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/11.ts
+#EXTINF:-1,ARENA SPORT 2 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/522.ts
+#EXTINF:-1,ARENA SPORT 3 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/523.ts
+#EXTINF:-1,ARENA SPORT 4 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/524.ts
+#EXTINF:-1,ARENA SPORT 5 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/525.ts
+#EXTINF:-1,ARENA SPORT 6 HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2940.ts
+#EXTINF:-1,SPORT KLUB HD
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1459.ts
+#EXTINF:-1,SPORT KLUB 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/14.ts
+#EXTINF:-1,SPORT KLUB 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/13.ts
+#EXTINF:-1,SPORT KLUB 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/12.ts
+#EXTINF:-1,SPORT KLUB 4
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/142.ts
+#EXTINF:-1,SPORT KLUB 5
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/143.ts
+#EXTINF:-1,SPORT KLUB 6
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/144.ts
+#EXTINF:-1,SPORT KLUB 7
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2101.ts
+#EXTINF:-1,SPORT KLUB 8
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2102.ts
+#EXTINF:-1,SPORT KLUB 9
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2103.ts
+#EXTINF:-1,EUROSPORT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/4.ts
+#EXTINF:-1,EUROSPORT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/5.ts
+#EXTINF:-1,PLANET SPORT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1883.ts
+#EXTINF:-1,PLANET SPORT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1884.ts
+#EXTINF:-1,NOVA SPORT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1513.ts
+#EXTINF:-1,FIGHT CHANNEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/3.ts
+#EXTINF:-1,SOS KANAL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2.ts
+#EXTINF:-1,HNTV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2980.ts
+#EXTINF:-1,MOJA TV SPORT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2720.ts
+#EXTINF:-1,GRAND
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/46.ts
+#EXTINF:-1,GRAND 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/401.ts
+#EXTINF:-1,DM SAT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/37.ts
+#EXTINF:-1,HAYAT FOLK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/35.ts
+#EXTINF:-1,KCN 2
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4170
+#EXTINF:-1,KCN 3
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/4171
 #EXTINF:-1, S televizija
 https://sradio.ipradio.rs/sradio/radiostv/chunklist_w484271802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Toxic" tvg-logo="" group-title="MUZICKI",Toxic
-http://media-grupa.net:80/goran467/2019goranvv/9064
-#EXTINF:-1 tvg-id="" tvg-name="Balkanika TV" tvg-logo="" group-title="MUZICKI",Balkanika TV
-http://media-grupa.net:80/goran467/2019goranvv/391
-#EXTINF:-1 tvg-id="" tvg-name="MTV Adria" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/46.png" group-title="MUZICKI",MTV Adria
-http://media-grupa.net:80/goran467/2019goranvv/551
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="MUZICKI",MTV Hits
-http://media-grupa.net:80/goran467/2019goranvv/394
-#EXTINF:-1 tvg-id="" tvg-name="MTV Dance" tvg-logo="" group-title="MUZICKI",MTV Dance
-http://media-grupa.net:80/goran467/2019goranvv/392
-#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="" group-title="MUZICKI",MTV BASE
-http://media-grupa.net:80/goran467/2019goranvv/10260
-#EXTINF:-1 tvg-id="" tvg-name="MTV ROCKS" tvg-logo="" group-title="MUZICKI",MTV ROCKS
-http://media-grupa.net:80/goran467/2019goranvv/10261
-#EXTINF:-1 tvg-id="" tvg-name="MTV MUSIC" tvg-logo="" group-title="MUZICKI",MTV MUSIC
-http://media-grupa.net:80/goran467/2019goranvv/10262
-#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic TV" tvg-logo="" group-title="MUZICKI",VH1 Classic TV
-http://media-grupa.net:80/goran467/2019goranvv/504
-#EXTINF:-1 tvg-id="" tvg-name="CMC" tvg-logo="" group-title="MUZICKI",CMC
-http://media-grupa.net:80/goran467/2019goranvv/588
-#EXTINF:-1 tvg-id="" tvg-name="BN Music" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/34.png" group-title="MUZICKI",BN Music
-http://media-grupa.net:80/goran467/2019goranvv/591
-#EXTINF:-1 tvg-id="" tvg-name="IDJ TV" tvg-logo="" group-title="MUZICKI",IDJ TV
-http://media-grupa.net:80/goran467/2019goranvv/9283
-#EXTINF:-1 tvg-id="" tvg-name="Grand" tvg-logo="" group-title="MUZICKI",Grand
-http://media-grupa.net:80/goran467/2019goranvv/9275
-#EXTINF:-1 tvg-id="" tvg-name="Grand 2" tvg-logo="" group-title="MUZICKI",Grand 2
-http://media-grupa.net:80/goran467/2019goranvv/9276
-#EXTINF:-1 tvg-id="" tvg-name="DM Sat" tvg-logo="" group-title="MUZICKI",DM Sat
-http://media-grupa.net:80/goran467/2019goranvv/406
-#EXTINF:-1 tvg-id="" tvg-name="YU Planet" tvg-logo="" group-title="MUZICKI",YU Planet
-http://media-grupa.net:80/goran467/2019goranvv/9038
-#EXTINF:-1, Amari tv
+#EXTINF:-1,PINK ACTION
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/86.ts
+#EXTINF:-1,PINK BH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1514.ts
+#EXTINF:-1,PINK CLASSIC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1515.ts
+#EXTINF:-1,PINK COMEDY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/93.ts
+#EXTINF:-1,PINK CRIME & MYSTERY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/584.ts
+#EXTINF:-1,PINK EXTRA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/101.ts
+#EXTINF:-1,PINK FAMILY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1516.ts
+#EXTINF:-1,PINK FILM
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/100.ts
+#EXTINF:-1,PINK FOLK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2754.ts
+#EXTINF:-1,PINK FOLK 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/36.ts
+#EXTINF:-1,PINK HA HA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/583.ts
+#EXTINF:-1,PINK HITS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2753.ts
+#EXTINF:-1,PINK HITS 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1506.ts
+#EXTINF:-1,PINK HORROR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/90.ts
+#EXTINF:-1,PINK KIDS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/87.ts
+#EXTINF:-1,PINK KONCERT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/208.ts
+#EXTINF:-1,PINK KUVAR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/271.ts
+#EXTINF:-1,PINK LOL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/582.ts
+#EXTINF:-1,PINK M
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/626.ts
+#EXTINF:-1,PINK MOVIES
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/97.ts
+#EXTINF:-1,PINK MUSIC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/45.ts
+#EXTINF:-1,PINK MUSIC 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/166.ts
+#EXTINF:-1,PINK PEDIA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/88.ts
+#EXTINF:-1,PINK PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/99.ts
+#EXTINF:-1,PINK PREMIUM
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/98.ts
+#EXTINF:-1,PINK REALITY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/94.ts
+#EXTINF:-1,PINK ROMANCE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1505.ts
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/580.ts
+#EXTINF:-1,PINK SERIJE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/96.ts
+#EXTINF:-1,PINK SHOW
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/633.ts
+#EXTINF:-1,PINK SOAP
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/91.ts
+#EXTINF:-1,PINK STYLE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1920.ts
+#EXTINF:-1,PINK SUPER KIDS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/585.ts
+#EXTINF:-1,PINK THRILLER
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/95.ts
+#EXTINF:-1,PINK WESTERN
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/89.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/581.ts
+#EXTINF:-1,PINK ZABAVA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/92.ts
+#EXTINF:-1,NOVI PAZAR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/291.ts
+#EXTINF:-1,TV SARAJEVO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/616.ts
+#EXTINF:-1,KCN 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/279.ts
+#EXTINF:-1,KCN 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/280.ts
+#EXTINF:-1,AMC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/260.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1889.ts
+#EXTINF:-1,HBO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/81.ts
+#EXTINF:-1,HBO 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/273.ts
+#EXTINF:-1,HBO 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/274.ts
+#EXTINF:-1,FOX
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/148.ts
+#EXTINF:-1,FOX CRIME
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/210.ts
+#EXTINF:-1,FOX LIFE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/147.ts
+#EXTINF:-1,FOX MOVIES
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/277.ts
+#EXTINF:-1,CINEMAX
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/275.ts
+#EXTINF:-1,CINEMAX 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/276.ts
+#EXTINF:-1,CINESTAR TV 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2935.ts
+#EXTINF:-1,CINESTAR TV 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2936.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/370.ts
+#EXTINF:-1,CINESTAR TV PREMIERE 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/371.ts
+#EXTINF:-1,CINESTAR TV ACTION
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/713.ts
+#EXTINF:-1,CINESTAR TV FANTASY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2937.ts
+#EXTINF:-1,KINO TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1496.ts
+#EXTINF:-1,ANIMAL PLANET
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/149.ts
+#EXTINF:-1,BBC EARTH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1888.ts
+#EXTINF:-1,CRIME & INVESTIGATION
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/269.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/78.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1885.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1886.ts
+#EXTINF:-1,HISTORY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/203.ts
+#EXTINF:-1,HISTORY 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/589.ts
+#EXTINF:-1,LOV I RIBOLOV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/68.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/79.ts
+#EXTINF:-1,NAT GEO WILD
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/588.ts
+#EXTINF:-1,PLANET EARTH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1887.ts
+#EXTINF:-1,TLC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/157.ts
+#EXTINF:-1,TRAVEL CHANNEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/159.ts
+#EXTINF:-1, Foofnetwork
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/65862
+#EXTINF:-1,VIASAT EXPLORE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/301.ts
+#EXTINF:-1,VIASAT HISTORY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/302.ts
+#EXTINF:-1,VIASAT NATURE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/303.ts
+#EXTINF:-1,VH1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/158.ts
+#EXTINF:-1,STUDIO B
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/83.ts
+#EXTINF:-1,MRT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/48.ts
+#EXTINF:-1,MRT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/602.ts
+#EXTINF:-1,MRT 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/614.ts
+#EXTINF:-1,KANAL 5
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/53.ts
+#EXTINF:-1,KANAL 5 PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/625.ts
+#EXTINF:-1,TELMA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/52.ts
+#EXTINF:-1,ALFA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/51.ts
+#EXTINF:-1,KUMANOVO TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/605.ts
+#EXTINF:-1,SITEL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/54.ts
+#EXTINF:-1,SUTEL TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2707.ts
+#EXTINF:-1,RTCG 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/627.ts
+#EXTINF:-1,RTCG 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/606.ts
+#EXTINF:-1,RTCG SAT
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/84.ts
+#EXTINF:-1,PRVA CG
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/610.ts
+#EXTINF:-1,NOVA M
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1870.ts
+#EXTINF:-1,TV VIJESTI
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1508.ts
+#EXTINF:-1,PALMA PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/80.ts
+#EXTINF:-1,FASHION TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/162.ts
+#EXTINF:-1,ATV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/62.ts
+#EXTINF:-1,CINEMANIA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/82.ts
+#EXTINF:-1,KLASIK TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/69.ts
+#EXTINF:-1,OTV VALENTINO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/146.ts
+#EXTINF:-1,TV DUGA PLUS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/34.ts
+#EXTINF:-1,HAYAT MUSIC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/615.ts
+#EXTINF:-1,BALKANIKA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/44.ts
+#EXTINF:-1,BN MUSIC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/40.ts
+#EXTINF:-1,YU PLANET
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/43.ts
+#EXTINF:-1,MTV IGMAN
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/528.ts
+#EXTINF:-1,IZVORNA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/624.ts
+#EXTINF:-1,GLAS DRINE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/622.ts
+#EXTINF:-1,TV HRAM
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1412.ts
+#EXTINF:-1,SUPERSTAR TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/652.ts
+#EXTINF:-1,PEPA PRASE
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1497.ts
+#EXTINF:-1,HERC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1507.ts
+#EXTINF:-1,CMC MUSIC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1527.ts
+#EXTINF:-1,POLJOPRIVREDNA TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1530.ts
+#EXTINF:-1,LAUDATO TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1531.ts
+#EXTINF:-1,MAX CRO SELECT 1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1871.ts
+#EXTINF:-1,MAX CRO SELECT 2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1872.ts
+#EXTINF:-1,MAX CRO SELECT 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1873.ts
+#EXTINF:-1,MAX CRO SELECT 4
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1874.ts
+#EXTINF:-1,MAX CRO SELECT 5
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1875.ts
+#EXTINF:-1,MAX CRO SELECT 6
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1876.ts
+#EXTINF:-1,MAX CRO SELECT 7
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1877.ts
+#EXTINF:-1,MAX CRO SELECT 8
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1878.ts
+#EXTINF:-1,MAX CRO SELECTION 9
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1879.ts
+#EXTINF:-1,MAX CRO SELECTION 10
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1880.ts
+#EXTINF:-1,K1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2757.ts
+#EXTINF:-1,IDJ KIDS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1890.ts
+#EXTINF:-1,RTV ZENICA
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1946.ts
+#EXTINF:-1,SANDZAK TV
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2088.ts
+#EXTINF:-1,RTS 1 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2544.ts
+#EXTINF:-1,PINK - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2547.ts
+#EXTINF:-1,PRVA - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2551.ts
+#EXTINF:-1,OBN - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2550.ts
+#EXTINF:-1,NOVA HR - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2545.ts
+#EXTINF:-1,ARENA SPORT 1 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2546.ts
+#EXTINF:-1,ARENA SPORT 2 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1410.ts
+#EXTINF:-1,ARENA SPORT 3 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1492.ts
+#EXTINF:-1,ARENA SPORT 4 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1493.ts
+#EXTINF:-1,SPORT KLUB 1 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1408.ts
+#EXTINF:-1,SPORT KLUB 2 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1409.ts
+#EXTINF:-1,SPORT KLUB 3 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1491.ts
+#EXTINF:-1,RTL - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2549.ts
+#EXTINF:-1,RTS 2 - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1407.ts
+#EXTINF:-1,PINK WESTERN - low
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/2548.ts
+#EXTINF:-1,Radio Hip Hop Banjaluka
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/293.ts
+#EXTINF:-1,Radio 055 Bijeljina
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/294.ts
+#EXTINF:-1,Ambis radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/295.ts
+#EXTINF:-1,Radio Best Sipovo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/297.ts
+#EXTINF:-1,Radio Doboj Istok
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/298.ts
+#EXTINF:-1,Radio Antena Zagreb
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/305.ts
+#EXTINF:-1,Radio 057 Zadar
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/306.ts
+#EXTINF:-1,Radio 101 Zagreb
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/307.ts
+#EXTINF:-1,Radio 1 Cakovec HR
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/309.ts
+#EXTINF:-1,Radio 101 Rock Zagreb
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/310.ts
+#EXTINF:-1,Radio 808 Zagreb
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/311.ts
+#EXTINF:-1,Radio 92 Slavonski Brod
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/312.ts
+#EXTINF:-1,Radio Centar POREC
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/313.ts
+#EXTINF:-1,Club Music Folk Radio Osijek
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/314.ts
+#EXTINF:-1,Radio Dalmacija Osijek
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/315.ts
+#EXTINF:-1,Radio Dubrovnik
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/316.ts
+#EXTINF:-1,Novi radio - Zadar
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/317.ts
+#EXTINF:-1,Radio Stari Grad Sarajevo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/318.ts
+#EXTINF:-1,Radio Narodni Zagreb
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/319.ts
+#EXTINF:-1,Radio Drugacija radio stanica Podgorica
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/320.ts
+#EXTINF:-1,Radio Glas Drine
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/321.ts
+#EXTINF:-1,Radio D Podgorica
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/322.ts
+#EXTINF:-1,Radio GBK Svedska
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/323.ts
+#EXTINF:-1,Radio GBK Folk Svedska
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/324.ts
+#EXTINF:-1,Radio 106 Bitola
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/325.ts
+#EXTINF:-1,Radio BUM Kumanovo MK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/326.ts
+#EXTINF:-1,Radio City Skopje
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/327.ts
+#EXTINF:-1,Radio Folk Skopje
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/328.ts
+#EXTINF:-1,Radio HIT Skopje
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/329.ts
+#EXTINF:-1,Hit Radio MK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/330.ts
+#EXTINF:-1,Radio PINK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/331.ts
+#EXTINF:-1,Radio S1
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/332.ts
+#EXTINF:-1,Radio S2
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/333.ts
+#EXTINF:-1,Radio S3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/334.ts
+#EXTINF:-1,Radio S4
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/335.ts
+#EXTINF:-1,Radio Modrica BiH
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/480.ts
+#EXTINF:-1,Radio A&M
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/1413.ts
+#EXTINF:-1,Radio Kosava
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/211.ts
+#EXTINF:-1,PLAY Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/212.ts
+#EXTINF:-1,TDI RADIO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/213.ts
+#EXTINF:-1,NAXI RADIO
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/214.ts
+#EXTINF:-1,HIT FM Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/215.ts
+#EXTINF:-1,Radio Pingvin
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/216.ts
+#EXTINF:-1,Prvi Radio Uzice
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/217.ts
+#EXTINF:-1,BUM Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/218.ts
+#EXTINF:-1,JAT Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/219.ts
+#EXTINF:-1,BUM BUM Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/220.ts
+#EXTINF:-1,Top FM Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/221.ts
+#EXTINF:-1,Radio Bubamara
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/222.ts
+#EXTINF:-1,Radio Like Beograd uzivo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/223.ts
+#EXTINF:-1,OK Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/224.ts
+#EXTINF:-1,Radio 021
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/225.ts
+#EXTINF:-1,Radio 3
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/226.ts
+#EXTINF:-1,Radio Nostalgija
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/227.ts
+#EXTINF:-1,Radio Juzni Vetar
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/229.ts
+#EXTINF:-1,Radio Novosti
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/230.ts
+#EXTINF:-1,Moj Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/231.ts
+#EXTINF:-1,Radio 202
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/232.ts
+#EXTINF:-1,Radio DAK
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/233.ts
+#EXTINF:-1,Radio NAXI Jaz
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/234.ts
+#EXTINF:-1,Rock Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/235.ts
+#EXTINF:-1,Bravo FM Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/236.ts
+#EXTINF:-1,CIty Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/237.ts
+#EXTINF:-1,Radio Explorer
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/238.ts
+#EXTINF:-1,Naxi Radio 80-e
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/239.ts
+#EXTINF:-1,Radio NAXI Caffe Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/240.ts
+#EXTINF:-1,Radio NAXI Classic Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/241.ts
+#EXTINF:-1,Radio NAXI Evergreen Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/242.ts
+#EXTINF:-1,Radio NAXI MIX Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/243.ts
+#EXTINF:-1,Radio NAXI House Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/244.ts
+#EXTINF:-1,Radio AS
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/245.ts
+#EXTINF:-1,Radio Morava
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/246.ts
+#EXTINF:-1,Radio COOL
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/247.ts
+#EXTINF:-1,Prvi Radio Novi Sad
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/249.ts
+#EXTINF:-1,Radio Karolina
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/250.ts
+#EXTINF:-1,Radio SKAY
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/251.ts
+#EXTINF:-1,Radio DeLuxe Beograd
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/252.ts
+#EXTINF:-1,Radio 101
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/253.ts
+#EXTINF:-1,Radio NAXI KIDS Radio
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/255.ts
+#EXTINF:-1,Radio KISS FM
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/256.ts
+#EXTINF:-1,Radio I FM
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/257.ts
+#EXTINF:-1,Radio Stari Grad
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/258.ts
+#EXTINF:-1,Radio Bijeljina
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/285.ts
+#EXTINF:-1,Radio Karman Sarajevo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/286.ts
+#EXTINF:-1,Radio M Sarajevo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/287.ts
+#EXTINF:-1,Radio Balkanski Sarajevo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/289.ts
+#EXTINF:-1,Radio Carsija Sarajevo
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/290.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESport Klub 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub 1 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3467
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 1 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 1 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273491
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 2 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3468
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 2 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273486
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 3 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3469
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU Sport Klub 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",EX-YU Sport Klub 3 FHD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/273497
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 4 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 4 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/245135
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 5 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 5 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3470
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 6 HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub 6 HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3471
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 7
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/146299
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 8
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/54987
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub 9" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub 9
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59845
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub Golf HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",Sport Klub Golf HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/59840
+#EXTINF:-1 tvg-id="" tvg-name="Sport Klub HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT", Sport Klub HD
+http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3466
+#EXTINF:-1, Sport Klub 1 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\60
+#EXTINF:-1, Sport Klub 1 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\121
+#EXTINF:-1, Sport Klub 2 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\61
+#EXTINF:-1, Sport Klub 2 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\122
+#EXTINF:-1, Sport Klub 3 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\62
+#EXTINF:-1, Sport Klub 3 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\123
+#EXTINF:-1, Sport Klub 4 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\204
+#EXTINF:-1, Sport Klub 4 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\124
+#EXTINF:-1, Sport Klub 5 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\205
+#EXTINF:-1, Sport Klub 6 HR
+http:\\krajnatv.com:8000\apo7776\skypeuser\103
+#EXTINF:-1, Sport Klub 6 SR
+http:\\krajnatv.com:8000\apo7776\skypeuser\125
+#EXTINF:-1, NOVA SPORT
+http:\\wrlstr.dvrdns.org:18066\live?channelId=635&uid=394&deviceUser=bracaleskovac&devicePass=bracaleskovac2
+#EXTINF:-1, ESPN 1
+http:\\wrlstr.dvrdns.org:18066\live?channelId=426&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 2
+http:\\telehetz.dvrdns.org:12345\live?channelId=427&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 3
+http:\\wrlstr.dvrdns.org:18066\live?channelId=428&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 4
+http:\\telehetz.dvrdns.org:12345\live?channelId=429&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, ESPN 6
+http:\\telehetz.dvrdns.org:12345\live?channelId=449&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1, Sky sport 1
+http:\\wrlstr.dvrdns.org:18066\live?channelId=590&uid=338&deviceUser=dnevna&devicePass=996phDps
+#EXTINF:-1,Ptice koje ne polete
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1418.mp4
+#EXTINF:-1,Opasni trag
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1417.mp4
+#EXTINF:-1,Apsolutnih sto
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/650.mp4
+#EXTINF:-1,ÄŒitulja za Eskobara
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/656.mp4
+#EXTINF:-1,Poslednji krug u Monci
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/659.mp4
+#EXTINF:-1,Mrtav ladan
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/660.mp4
+#EXTINF:-1,SjeÄ‡aÅ¡ li se Doli Bel?
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/661.mp4
+#EXTINF:-1,Zaspanka za vojnike
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/664.mp4
+#EXTINF:-1,ÄŒudesna Å¡uma
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/665.mp4
+#EXTINF:-1,Ko to tamo peva?
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/667.mp4
+#EXTINF:-1,Crni bombarder
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/668.mp4
+#EXTINF:-1,Mi nismo anÄ‘eli 3
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/669.mp4
+#EXTINF:-1,Crni Gruja i kamen mudrosti
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/671.mp4
+#EXTINF:-1,Tito i ja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/673.avi
+#EXTINF:-1,Lude godine
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/680.mp4
+#EXTINF:-1,DoÅ¡lo doba da se ljubav proba
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/681.mp4
+#EXTINF:-1,Ljubi, ljubi, al glavu ne gubi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/682.avi
+#EXTINF:-1,Kakav deda, takav unuk
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/683.mp4
+#EXTINF:-1,Idi mi, doÄ‘i mi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/684.mp4
+#EXTINF:-1,Å ta se zgodi kad se ljubav rodi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/685.mp4
+#EXTINF:-1,Å½ikina dinastija
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/686.mp4
+#EXTINF:-1,Druga Å½ikina dinastija
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/687.mp4
+#EXTINF:-1,Sulude godine
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/688.mp4
+#EXTINF:-1,Å½ikina Å¾enidba
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/689.mp4
+#EXTINF:-1,NiÄija zemlja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/691.mp4
+#EXTINF:-1,BiÄ‡emo prvaci sveta
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/692.mp4
+#EXTINF:-1,Dnevnik maÅ¡inovoÄ‘e
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/693.mp4
+#EXTINF:-1,Jesen stiÅ¾e dunjo moja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/700.mp4
+#EXTINF:-1,Kad porastem biÄ‡u kengur
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/701.mp4
+#EXTINF:-1,Klopka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/702.mp4
+#EXTINF:-1,Lepa sela lepo gore
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/704.mp4
+#EXTINF:-1,Lajanje na zvezde
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/703.mp4
+#EXTINF:-1,Montevideo, Bog te video!
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/705.mp4
+#EXTINF:-1,Balkanski Å¡pijun
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/708.mp4
+#EXTINF:-1,Otpisani
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/709.mp4
+#EXTINF:-1,Å iÅ¡anje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/710.mp4
+#EXTINF:-1,Tri palme za dve bitange i ribicu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/711.mp4
+#EXTINF:-1,Ni na nebu ni na zemlji
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/712.mp4
+#EXTINF:-1,Bal na vodi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/714.mp4
+#EXTINF:-1,Beli lavovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/716.mp4
+#EXTINF:-1,Belo odelo
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/717.mp4
+#EXTINF:-1,Balkan Ekspres
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/715.mp4
+#EXTINF:-1,Beogradski fantom
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/718.mp4
+#EXTINF:-1,Besa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/719.mp4
+#EXTINF:-1,ÄŒarlston za Ognjenku
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/720.mp4
+#EXTINF:-1,Dva sata kvalitetnog TV programa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/721.mp4
+#EXTINF:-1,Hadersfild
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/722.mp4
+#EXTINF:-1,Igmanski marÅ¡
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/723.mp4
+#EXTINF:-1,Mehanizam
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/724.mp4
+#EXTINF:-1,Kako sam sistemski uniÅ¡ten od idiota
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/725.mp4
+#EXTINF:-1,NoÅ¾
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/726.mp4
+#EXTINF:-1,Otac na sluÅ¾benom putu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/727.mp4
+#EXTINF:-1,PljaÄka treÄ‡eg Rajha
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/728.mp4
+#EXTINF:-1,Povratak otpisanih
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/729.mp4
+#EXTINF:-1,SalaÅ¡ u malom ritu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/730.mp4
+#EXTINF:-1,Å meker
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/731.mp4
+#EXTINF:-1,Specijalno vaspitanje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/732.mp4
+#EXTINF:-1,Tesna koÅ¾a 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/733.mp4
+#EXTINF:-1,Tesna koÅ¾a 3
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/734.mp4
+#EXTINF:-1,Tesna koÅ¾a 4
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/735.mp4
+#EXTINF:-1,ToÄkovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/736.mp4
+#EXTINF:-1,Å½ivot je Äudo
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/737.mp4
+#EXTINF:-1,Zona Zamfirova
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/738.mp4
+#EXTINF:-1,KamiondÅ¾ije ponovo voze
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/761.mp4
+#EXTINF:-1,Metastaze
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/762.mp4
+#EXTINF:-1,Vuk samotnjak
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/764.mp4
+#EXTINF:-1,Zvizdan
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/765.mp4
+#EXTINF:-1,Profesionalac
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/769.mp4
+#EXTINF:-1,Crnci
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/771.mp4
+#EXTINF:-1,Fine mrtve djevojke
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/772.mp4
+#EXTINF:-1,Policajac s Petlovog Brda
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/773.mp4
+#EXTINF:-1,Å½ivi i mrtvi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/774.mp4
+#EXTINF:-1,BiÄ‡emo prvaci sveta
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/836.mp4
+#EXTINF:-1,Balkanska pravila
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/978.mp4
+#EXTINF:-1,Dom za veÅ¡anje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1054.mp4
+#EXTINF:-1,Å ejtanov ratnik
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1055.mp4
+#EXTINF:-1,Zavet
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1056.mp4
+#EXTINF:-1,Biser Bojane
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1082.mp4
+#EXTINF:-1,Bokseri idu u raj
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1083.mp4
+#EXTINF:-1,ÄŒekaj me, ja sigurno neÄ‡u doÄ‡i
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1084.mp4
+#EXTINF:-1,Klip
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1085.mp4
+#EXTINF:-1,Laf u srcu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1086.mp4
+#EXTINF:-1,Nacionalna klasa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1087.mp4
+#EXTINF:-1,Parada
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1088.mp4
+#EXTINF:-1,Rat uÅ¾ivo
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1089.mp4
+#EXTINF:-1,Skoro sasvim obiÄna priÄa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1090.mp4
+#EXTINF:-1,Turneja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1091.mp4
+#EXTINF:-1,Varljivo leto '68
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1092.mp4
+#EXTINF:-1,Put lubenica
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1094.mp4
+#EXTINF:-1,Kako su me ukrali Nemci
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1097.mp4
+#EXTINF:-1,PejzaÅ¾i u magli
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1098.mp4
+#EXTINF:-1,TeÅ¡ko je biti fin
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1099.mp4
+#EXTINF:-1,Nije kraj
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1102.mp4
+#EXTINF:-1,Ljeto u zlatnoj dolini
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1103.mp4
+#EXTINF:-1,Duhovi Sarajeva
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1104.mp4
+#EXTINF:-1,Bumerang
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1105.mp4
+#EXTINF:-1,Cirkus Kolumbia
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1106.mp4
+#EXTINF:-1,DeÄko koji obeÄ‡ava
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1107.mp4
+#EXTINF:-1,Dupe od mramora
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1108.mp4
+#EXTINF:-1,Ljubavni Å¾ivot Budimira TrajkoviÄ‡a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1109.mp4
+#EXTINF:-1,Majka asfalta
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1110.mp4
+#EXTINF:-1,Majstori, majstori
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1111.mp4
+#EXTINF:-1,Rane
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1112.mp4
+#EXTINF:-1,Sedamdeset dva dana
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1113.mp4
+#EXTINF:-1,Srpski film
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1114.mp4
+#EXTINF:-1,Svjedoci
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1115.mp4
+#EXTINF:-1,Tesna koÅ¾a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1116.mp4
+#EXTINF:-1,DrugarÄine
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1117.mp4
+#EXTINF:-1,BuÄ‘enje iz mrtvih
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1122.mp4
+#EXTINF:-1,Made in YU
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1123.mp4
+#EXTINF:-1,Drug Crni u NOB-u
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1124.mp4
+#EXTINF:-1,MarÅ¡ na Drinu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1125.mp4
+#EXTINF:-1,Zone of the Dead - 2009
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1126.mp4
+#EXTINF:-1,Optimisti
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1127.mp4
+#EXTINF:-1,Poslednja avantura kaktus Bate
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1128.mp4
+#EXTINF:-1,Praznik u Sarajevu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1129.mp4
+#EXTINF:-1,Sestre
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1130.mp4
+#EXTINF:-1,Slovenka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1131.mp4
+#EXTINF:-1,Snijeg
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1132.mp4
+#EXTINF:-1,Srpski oÅ¾iljci
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1133.mp4
+#EXTINF:-1,Å½ena sa slomljenim nosem
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1134.mp4
+#EXTINF:-1,Munje!
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1174.mp4
+#EXTINF:-1,20,000 milja pod morem
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1183.mp4
+#EXTINF:-1,101 Dalmatinac
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1184.mp4
+#EXTINF:-1,Abrafaxi - Pod crnom zastavom
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1185.mp4
+#EXTINF:-1,Aladdin - Special Edition
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1186.mp4
+#EXTINF:-1,Aladdin - 2019
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1187.mp4
+#EXTINF:-1,Aladdin - 2019
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1188.mp4
+#EXTINF:-1,Alfa i Omega
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1189.mp4
+#EXTINF:-1,AmeriÄka priÄa 1
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1190.mp4
+#EXTINF:-1,AmeriÄka priÄa 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1191.mp4
+#EXTINF:-1,AmeriÄka priÄa 3
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1192.mp4
+#EXTINF:-1,AmeriÄka priÄa 4
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1193.mp4
+#EXTINF:-1,Arthur u zemlji Minimoya
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1194.mp4
+#EXTINF:-1,Arthur 3: Rat dva sveta
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1197.mp4
+#EXTINF:-1,Astro Boy - 2009
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1198.mp4
+#EXTINF:-1,Cars 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1199.mp4
+#EXTINF:-1,Cars
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1200.mp4
+#EXTINF:-1,Avanture Tome PalÄiÄ‡a i PalÄice
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1201.mp4
+#EXTINF:-1,Arthur 2: Maltazardova osveta
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1195.mp4
+#EXTINF:-1,Josif: Kralj snova
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1202.mp4
+#EXTINF:-1,Avanture Toma Sojera i Haklberi Fina
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1279.mp4
+#EXTINF:-1,Poslednji jednorog
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1280.mp4
+#EXTINF:-1,Balto - 1995
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1282.mp4
+#EXTINF:-1,Balto - 1995
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1283.mp4
+#EXTINF:-1,Bambi - 1942
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1284.mp4
+#EXTINF:-1,Bambi II - 2006
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1285.mp4
+#EXTINF:-1,Barbie i tri musketara
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1286.mp4
+#EXTINF:-1,Barbie na labudovom jezeru
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1287.mp4
+#EXTINF:-1,Barbie Princeza i seoska devojÄica
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1288.mp4
+#EXTINF:-1,Barbie u BoÅ¾iÄ‡noj priÄi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1289.mp4
+#EXTINF:-1,Barbie u Krcku OraÅ¡ÄiÄ‡u
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1290.mp4
+#EXTINF:-1,Barbie u priÄi sirene
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1291.mp4
+#EXTINF:-1,The Batman Superman Movie: World's Finest
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1292.mp4
+#EXTINF:-1,The Batman vs. Dracula - 2005
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1293.mp4
+#EXTINF:-1,ÄŒarobnjakov Å¡eÅ¡ir
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1294.mp4
+#EXTINF:-1,Å arlotina mreÅ¾a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1295.mp4
+#EXTINF:-1,ÄŒiÄa miÄa, nesreÄ‡na je priÄa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1296.mp4
+#EXTINF:-1,Å impanze u svemiru
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1297.mp4
+#EXTINF:-1,ÄŒudnovate avanture Å¡egrta HlapiÄ‡a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1298.mp4
+#EXTINF:-1,ÄŒudoviÅ¡te u Parizu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1299.mp4
+#EXTINF:-1,Monsters, Inc.
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1300.mp4
+#EXTINF:-1,DoÅ¾ivljaji Toma Sojera
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1302.mp4
+#EXTINF:-1,Divlji valovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1301.mp4
+#EXTINF:-1,Garfield - 2004
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1303.mp4
+#EXTINF:-1,Garfield - 2004
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1304.mp4
+#EXTINF:-1,Gnomeo & Juliet - 2011
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1305.mp4
+#EXTINF:-1,Grom
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1306.mp4
+#EXTINF:-1,Hop - 2011
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1307.mp4
+#EXTINF:-1,Horton
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1308.mp4
+#EXTINF:-1,Valiant
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1309.mp4
+#EXTINF:-1,Impijevo Ostrvo
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1310.mp4
+#EXTINF:-1,Izbavitelji
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1311.mp4
+#EXTINF:-1,Kako izdresirati zmaja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1313.mp4
+#EXTINF:-1,Despicable Me
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1314.mp4
+#EXTINF:-1,Konferencija Å¾ivotinja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1315.mp4
+#EXTINF:-1,Koralina
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1316.mp4
+#EXTINF:-1,Kong: Povratak u dÅ¾unglu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1317.mp4
+#EXTINF:-1,Jimmy Neutron: Boy Genius - 2001
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1312.mp4
+#EXTINF:-1,Kralj lavova
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1318.mp4
+#EXTINF:-1,Kralj lavova 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1319.mp4
+#EXTINF:-1,Kralj lavova 3
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1320.mp4
+#EXTINF:-1,KuÄ‡a monstrum
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1321.mp4
+#EXTINF:-1,Kung Fu Panda 2 - 2011
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1322.mp4
+#EXTINF:-1,Lady and the Tramp - 1955
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1323.mp4
+#EXTINF:-1,Ledeno doba 2: Otapanje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1324.mp4
+#EXTINF:-1,Ledeno doba 3: Dinosaurusi dolaze
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1325.mp4
+#EXTINF:-1,Ledeno doba 4: Pomeranje kontinenata
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1326.mp4
+#EXTINF:-1,Ledeno doba: BoÅ¾iÄ‡ mamutskih proporcija
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1327.mp4
+#EXTINF:-1,Legenda o El Cidu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1328.mp4
+#EXTINF:-1,Brat meda
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1329.mp4
+#EXTINF:-1,Lepotica i zver
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1330.mp4
+#EXTINF:-1,Lorax
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1331.mp4
+#EXTINF:-1,MaÄak sa Å¡eÅ¡irom
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1332.mp4
+#EXTINF:-1,Madagascar - 2005
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1334.mp4
+#EXTINF:-1,MagareÄ‡a posla
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1335.mp4
+#EXTINF:-1,MaksimUm
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1336.mp4
+#EXTINF:-1,Madagascar - 2005
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1333.mp4
+#EXTINF:-1,Mala sirena
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1337.mp4
+#EXTINF:-1,Winnie the Pooh
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1338.mp4
+#EXTINF:-1,Hrabra Merida
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1339.mp4
+#EXTINF:-1,Mravi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1340.mp4
+#EXTINF:-1,Remake
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1420.mp4
+#EXTINF:-1,Mi nismo anÄ‘eli
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1416.mp4
+#EXTINF:-1,Kuduz
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1415.mp4
+#EXTINF:-1,Tilva Ros
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1414.mp4
+#EXTINF:-1,Crna macka, beli macor
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1411.mp4
+#EXTINF:-1,Kako se kalio Äelik
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1386.mp4
+#EXTINF:-1,Snijeg
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1385.mp4
+#EXTINF:-1,Sevdah za Karima
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1384.mp4
+#EXTINF:-1,Å esta brzina
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1383.mp4
+#EXTINF:-1,Rad na odreÄ‘eno vreme
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1382.mp4
+#EXTINF:-1,Posljednja volja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1381.mp4
+#EXTINF:-1,Ostavljeni
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1380.mp4
+#EXTINF:-1,Nafaka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1379.mp4
+#EXTINF:-1,Moj tata na odreÄ‘eno vreme
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1378.mp4
+#EXTINF:-1,Koko i duhovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1377.mp4
+#EXTINF:-1,Vlak u snijegu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1376.mp4
+#EXTINF:-1,ÄŒetvorored
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1374.mp4
+#EXTINF:-1,BoÅ¡ko Buha
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1373.mp4
+#EXTINF:-1,Velika avantura malih dinosaurusa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1372.mp4
+#EXTINF:-1,Trnova ruÅ¾ica
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1371.mp4
+#EXTINF:-1,SunÄ‘er Bob Kockalone
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1370.mp4
+#EXTINF:-1,Stjuart Mali
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1369.mp4
+#EXTINF:-1,SneÅ¾ana i sedam patuljaka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1368.mp4
+#EXTINF:-1,Sezona lova
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1367.mp4
+#EXTINF:-1,PriÄa o zmajevom repu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1366.mp4
+#EXTINF:-1,PriÄa o igraÄkama 3
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1365.mp4
+#EXTINF:-1,PriÄa o igraÄkama 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1364.mp4
+#EXTINF:-1,PriÄa o igraÄkama
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1363.mp4
+#EXTINF:-1,Povratak u Gayu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1362.mp4
+#EXTINF:-1,Vrlo zapetljana priÄa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1352.mp4
+#EXTINF:-1,Potraga za Nemom
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1351.mp4
+#EXTINF:-1,Ples malog pingvina
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1350.mp4
+#EXTINF:-1,Pinokio
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1349.mp4
+#EXTINF:-1,Peter Pan - 1953
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1348.mp4
+#EXTINF:-1,Pepeljuga
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1347.mp4
+#EXTINF:-1,PÄelin film
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1346.mp4
+#EXTINF:-1,OblaÄno s Ä‡uftama
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1345.mp4
+#EXTINF:-1,Upoznajte Robinsonove
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1344.mp4
+#EXTINF:-1,O maÄkama i psima
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1343.mp4
+#EXTINF:-1,NeobiÄna zubiÄ‡ vila
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1342.mp4
+#EXTINF:-1,Up
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1341.mp4
+#EXTINF:-1,E!
+http://android.mediaking.fi:8080/live/jocicbojan7@gmail.com/bojan5522/611.ts
+#EXTINF:-1,Kralj Petar Prvi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1841.mp4
+#EXTINF:-1,Balkanska medja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/1842.mp4
+#EXTINF:-1,Crveni makovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2552.mp4
+#EXTINF:-1,Jesen Samuraja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2553.mp4
+#EXTINF:-1,Lokalni vampir
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2556.mp4
+#EXTINF:-1,Ranjeni orao
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2557.mp4
+#EXTINF:-1,Sabirni centar
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2558.mp4
+#EXTINF:-1,Å eÅ¡ir profesora Koste VujiÄ‡a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2559.mp4
+#EXTINF:-1,Sivi kamion crvene boje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2560.mp4
+#EXTINF:-1,TreÄ‡a sreÄ‡a
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2561.mp4
+#EXTINF:-1,Atomski zdesna
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2562.mp4
+#EXTINF:-1,ÄŒetvrti Äovek
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2563.mp4
+#EXTINF:-1,Do koske
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2564.mp4
+#EXTINF:-1,Hadersfild
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2565.mp4
+#EXTINF:-1,Jagoda u supermarketu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2566.mp4
+#EXTINF:-1,Mali Budo
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2567.mp4
+#EXTINF:-1,Sedam i po
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2569.mp4
+#EXTINF:-1,S/Kidanje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2570.mp4
+#EXTINF:-1,Vir
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2571.mp4
+#EXTINF:-1,Smrdljiva bajka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2572.mp4
+#EXTINF:-1,Ajvar
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2706.mp4
+#EXTINF:-1,Pesma sa Kumbare
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2821.mp4
+#EXTINF:-1,Kuda ideÅ¡, Aida?
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2866.mp4
+#EXTINF:-1,Ime naroda
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2886.mp4
+#EXTINF:-1,Otac
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2887.mp4
+#EXTINF:-1,Dara iz Jasenovca
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2889.mp4
+#EXTINF:-1,Posljednji Srbin u Hrvatskoj
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2890.mp4
+#EXTINF:-1,Ekipa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2891.mp4
+#EXTINF:-1,Stado
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2981.mp4
+#EXTINF:-1,Realna priÄa
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2982.mp4
+#EXTINF:-1,MamaroÅ¡
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2983.mp4
+#EXTINF:-1,Patuljci sa naslovnih strana
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2984.mp4
+#EXTINF:-1,Pored mene
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/2985.mp4
+#EXTINF:-1,Zona Zamfirova 2
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3030.mp4
+#EXTINF:-1,Zlogonje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3031.mp4
+#EXTINF:-1,UstaniÄka ulica
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3032.mp4
+#EXTINF:-1,Ubistvo s predumiÅ¡ljajem
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3033.mp4
+#EXTINF:-1,Spomenik Majklu DÅ¾eksonu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3034.mp4
+#EXTINF:-1,Smrt Äoveka na Balkanu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3035.mp4
+#EXTINF:-1,Å avovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3036.mp4
+#EXTINF:-1,Ranjena zemlja
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3037.mp4
+#EXTINF:-1,Odumiranje
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3038.mp4
+#EXTINF:-1,Monteviodeo, vidimo se!
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3039.mp4
+#EXTINF:-1,Ljubav i drugi zloÄini
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3040.mp4
+#EXTINF:-1,Lavirint
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3041.mp4
+#EXTINF:-1,Krugovi
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3042.mp4
+#EXTINF:-1,Kozje uÅ¡i
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3043.mp4
+#EXTINF:-1,Karaula
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3044.mp4
+#EXTINF:-1,Ime: Dobrica, prezime: nepoznato
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3045.mp4
+#EXTINF:-1,Hiljadarka
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3046.mp4
+#EXTINF:-1,DrÅ¾ava mrtvih
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3047.mp4
+#EXTINF:-1,Crna Zorica
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3048.mp4
+#EXTINF:-1,Djeca jeseni
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3054.mp4
+#EXTINF:-1,Izgrednici
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3055.mp4
+#EXTINF:-1,Mala noÄ‡na muzika
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3056.mp4
+#EXTINF:-1,Mamula
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3057.mp4
+#EXTINF:-1,Radovan III
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3058.mp4
+#EXTINF:-1,Pad u raj
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3366.mp4
+#EXTINF:-1,Ona voli Zvezdu
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3367.mp4
+#EXTINF:-1,Artiljero
+http://android.mediaking.fi:8080/movie/jocicbojan7@gmail.com/bojan5522/3368.mp4
+#EXTINF:-1,Besa S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/809.mp4
+#EXTINF:-1,Besa S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/810.mp4
+#EXTINF:-1,Besa S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/811.mp4
+#EXTINF:-1,Besa S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/812.mp4
+#EXTINF:-1,Besa S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/813.mp4
+#EXTINF:-1,Besa S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/814.mp4
+#EXTINF:-1,Besa S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/815.mp4
+#EXTINF:-1,Besa S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/816.mp4
+#EXTINF:-1,Besa S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2663.mp4
+#EXTINF:-1,Besa S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/822.mp4
+#EXTINF:-1,Besa S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1944.mp4
+#EXTINF:-1,Besa S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1945.mp4
+#EXTINF:-1,Porodicno blago S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/890.mp4
+#EXTINF:-1,Porodicno blago S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/891.mp4
+#EXTINF:-1,Porodicno blago S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/892.mp4
+#EXTINF:-1,Porodicno blago S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/893.mp4
+#EXTINF:-1,Porodicno blago S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/894.mp4
+#EXTINF:-1,Porodicno blago S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/895.mp4
+#EXTINF:-1,Porodicno blago S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/896.mp4
+#EXTINF:-1,Porodicno blago S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/897.mp4
+#EXTINF:-1,Porodicno blago S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/910.mp4
+#EXTINF:-1,Porodicno blago S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/911.mp4
+#EXTINF:-1,Porodicno blago S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/912.mp4
+#EXTINF:-1,Porodicno blago S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/913.mp4
+#EXTINF:-1,Porodicno blago S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/914.mp4
+#EXTINF:-1,Porodicno blago S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/915.mp4
+#EXTINF:-1,Porodicno blago S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/916.mp4
+#EXTINF:-1,Porodicno blago S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/917.mp4
+#EXTINF:-1,Porodicno blago S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/918.mp4
+#EXTINF:-1,Porodicno blago S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/919.mp4
+#EXTINF:-1,Porodicno blago S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/920.mp4
+#EXTINF:-1,Porodicno blago S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/921.mp4
+#EXTINF:-1,Porodicno blago S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/922.mp4
+#EXTINF:-1,Porodicno blago S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/923.mp4
+#EXTINF:-1,Porodicno blago S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/924.mp4
+#EXTINF:-1,Porodicno blago S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/925.mp4
+#EXTINF:-1,Porodicno blago S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/926.mp4
+#EXTINF:-1,Porodicno blago S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/927.mp4
+#EXTINF:-1,Porodicno blago S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/928.mp4
+#EXTINF:-1,Porodicno blago S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/929.mp4
+#EXTINF:-1,Porodicno blago S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/930.mp4
+#EXTINF:-1,Porodicno blago S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/931.mp4
+#EXTINF:-1,Porodicno blago S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/932.mp4
+#EXTINF:-1,Porodicno blago S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/933.mp4
+#EXTINF:-1,Porodicno blago S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/934.mp4
+#EXTINF:-1,Porodicno blago S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/935.mp4
+#EXTINF:-1,Porodicno blago S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/936.mp4
+#EXTINF:-1,Porodicno blago S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/937.mp4
+#EXTINF:-1,Porodicno blago S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/949.mp4
+#EXTINF:-1,Porodicno blago S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/950.mp4
+#EXTINF:-1,Porodicno blago S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/951.mp4
+#EXTINF:-1,Porodicno blago S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/952.mp4
+#EXTINF:-1,Porodicno blago S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/953.mp4
+#EXTINF:-1,Porodicno blago S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/954.mp4
+#EXTINF:-1,Porodicno blago S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/955.mp4
+#EXTINF:-1,Porodicno blago S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/956.mp4
+#EXTINF:-1,Porodicno blago S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/957.mp4
+#EXTINF:-1,Porodicno blago S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/959.mp4
+#EXTINF:-1,Porodicno blago S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/960.mp4
+#EXTINF:-1,Porodicno blago S03 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/961.mp4
+#EXTINF:-1,Porodicno blago S03 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/962.mp4
+#EXTINF:-1,Porodicno blago S03 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/963.mp4
+#EXTINF:-1,Porodicno blago S03 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/964.mp4
+#EXTINF:-1,Porodicno blago S03 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/965.mp4
+#EXTINF:-1,Porodicno blago S03 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/966.mp4
+#EXTINF:-1,Porodicno blago S03 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/967.mp4
+#EXTINF:-1,Porodicno blago S03 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/968.mp4
+#EXTINF:-1,Porodicno blago S03 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/970.mp4
+#EXTINF:-1,Porodicno blago S03 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/974.mp4
+#EXTINF:-1,Porodicno blago S03 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/975.mp4
+#EXTINF:-1,Porodicno blago S03 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/976.mp4
+#EXTINF:-1,Porodicno blago S03 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/977.mp4
+#EXTINF:-1,Porodicno blago S03 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/971.mp4
+#EXTINF:-1,Porodicno blago S03 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/972.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1018.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1019.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1020.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1021.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1022.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1023.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1024.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1025.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1026.mp4
+#EXTINF:-1,Montevideo, vidimo se! S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1027.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1005.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1006.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1007.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1008.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1009.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1010.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1011.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1012.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1013.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1014.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1015.mkv
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1016.mp4
+#EXTINF:-1,NemanjiÄ‡i ~ raÄ‘anje kraljevine S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1017.mkv
+#EXTINF:-1,Crni Gruja S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1057.mp4
+#EXTINF:-1,Crni Gruja S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1058.mp4
+#EXTINF:-1,Crni Gruja S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1059.mp4
+#EXTINF:-1,Crni Gruja S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1060.mp4
+#EXTINF:-1,Crni Gruja S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1061.mp4
+#EXTINF:-1,Crni Gruja S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1062.mp4
+#EXTINF:-1,Crni Gruja S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1063.mp4
+#EXTINF:-1,Crni Gruja S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1064.mp4
+#EXTINF:-1,Crni Gruja S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1065.mp4
+#EXTINF:-1,Crni Gruja S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1066.mp4
+#EXTINF:-1,Crni Gruja S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1067.mp4
+#EXTINF:-1,Crni Gruja S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1068.mp4
+#EXTINF:-1,Crni Gruja S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1069.mp4
+#EXTINF:-1,Crni Gruja S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1070.mp4
+#EXTINF:-1,Crni Gruja S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1071.mp4
+#EXTINF:-1,Crni Gruja S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1072.mp4
+#EXTINF:-1,Crni Gruja S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1073.mp4
+#EXTINF:-1,Crni Gruja S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1074.mp4
+#EXTINF:-1,Crni Gruja S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1075.mp4
+#EXTINF:-1,Crni Gruja S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1076.mp4
+#EXTINF:-1,Crni Gruja S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1077.mp4
+#EXTINF:-1,Crni Gruja S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1078.mp4
+#EXTINF:-1,Crni Gruja S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1079.mp4
+#EXTINF:-1,Crni Gruja S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1080.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1149.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1150.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1151.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1152.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1153.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1154.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1155.mp4
+#EXTINF:-1,KamiondÅ¾ije 2 S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1156.mp4
+#EXTINF:-1,Kamiondzije S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1157.mp4
+#EXTINF:-1,Kamiondzije S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1158.mp4
+#EXTINF:-1,Kamiondzije S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1159.mp4
+#EXTINF:-1,Kamiondzije S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1160.mp4
+#EXTINF:-1,Kamiondzije S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1161.mp4
+#EXTINF:-1,Kamiondzije S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1162.mp4
+#EXTINF:-1,Kamiondzije S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1163.mp4
+#EXTINF:-1,Kamiondzije S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1164.mp4
+#EXTINF:-1,Kamiondzije S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1165.mp4
+#EXTINF:-1,Kamiondzije S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1166.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1167.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1168.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1169.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1170.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1171.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1172.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1173.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1175.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1176.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1177.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1178.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1179.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1180.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1203.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1204.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1205.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1206.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1207.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1208.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1209.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1210.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1211.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1212.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1213.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1214.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1215.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1216.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1217.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1218.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1219.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1220.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1221.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1222.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1223.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1224.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1225.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1226.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1227.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1228.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1229.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1230.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1231.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1232.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1233.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1234.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1235.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1236.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1237.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1238.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S03 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1239.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1240.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1241.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1242.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1243.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1244.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1245.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1246.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1247.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1248.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1249.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1250.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1251.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1252.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1253.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1254.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1255.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S04 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1256.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1257.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1258.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1259.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1260.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1261.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1262.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1263.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1264.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1265.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1266.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1267.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1268.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1269.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1270.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1271.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1272.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1273.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1274.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1275.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1276.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1277.mp4
+#EXTINF:-1,Selo gori, a baba se ÄeÅ¡lja S05 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1278.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1353.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1354.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1355.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1356.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1357.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1358.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1359.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1360.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1361.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1940.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1941.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2660.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2650.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2651.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2652.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2653.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2654.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2655.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2656.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2659.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2661.mp4
+#EXTINF:-1,DrÅ¾avni sluÅ¾benik S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2662.mp4
+#EXTINF:-1,Ranjeni orao S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1387.mp4
+#EXTINF:-1,Ranjeni orao S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1388.mp4
+#EXTINF:-1,Ranjeni orao S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1389.mp4
+#EXTINF:-1,Ranjeni orao S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1390.mp4
+#EXTINF:-1,Ranjeni orao S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1391.mp4
+#EXTINF:-1,Ranjeni orao S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1392.mp4
+#EXTINF:-1,Ranjeni orao S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1393.mp4
+#EXTINF:-1,Ranjeni orao S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1394.mp4
+#EXTINF:-1,Ranjeni orao S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1396.mp4
+#EXTINF:-1,Ranjeni orao S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1397.mp4
+#EXTINF:-1,Ranjeni orao S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1398.mp4
+#EXTINF:-1,Ranjeni orao S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1399.mp4
+#EXTINF:-1,Ranjeni orao S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1400.mp4
+#EXTINF:-1,Ranjeni orao S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1401.mp4
+#EXTINF:-1,Ranjeni orao S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1402.mp4
+#EXTINF:-1,Ranjeni orao S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1403.mp4
+#EXTINF:-1,Ranjeni orao S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1404.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1746.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2755.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1747.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1759.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1748.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1749.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1760.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1761.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1762.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1763.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1750.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1751.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1752.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2813.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1753.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1754.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2760.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1755.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1756.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1757.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1758.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1764.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1765.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1766.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1767.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1768.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1769.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1770.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1771.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1772.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2761.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1773.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1774.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1775.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1776.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1777.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2762.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2763.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2764.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E40
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2765.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E41
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2766.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E42
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2767.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E43
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2768.mp4
+#EXTINF:-1,Å½igosani u reketu S01 E44
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2769.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2770.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2771.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2772.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2773.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2774.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2775.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2776.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2777.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2778.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2779.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2780.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2781.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2782.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2783.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2784.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2785.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2786.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2787.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2788.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2789.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2790.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2791.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2792.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2793.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2794.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2795.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2796.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2797.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2798.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2799.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2800.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2801.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2802.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2803.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2804.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2805.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2806.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2807.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2808.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E40
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2809.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E41
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2810.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E42
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2811.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E43
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2812.mp4
+#EXTINF:-1,Å½igosani u reketu S02 E44
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2814.mp4
+#EXTINF:-1,Ubice mog oca S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1534.mp4
+#EXTINF:-1,Ubice mog oca S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1535.mp4
+#EXTINF:-1,Ubice mog oca S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1536.mp4
+#EXTINF:-1,Ubice mog oca S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1537.mp4
+#EXTINF:-1,Ubice mog oca S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1538.mp4
+#EXTINF:-1,Ubice mog oca S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1539.mp4
+#EXTINF:-1,Ubice mog oca S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1540.mp4
+#EXTINF:-1,Ubice mog oca S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1541.mp4
+#EXTINF:-1,Ubice mog oca S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1542.mp4
+#EXTINF:-1,Ubice mog oca S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1543.mp4
+#EXTINF:-1,Ubice mog oca S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1544.mp4
+#EXTINF:-1,Ubice mog oca S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1545.mp4
+#EXTINF:-1,Ubice mog oca S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1546.mp4
+#EXTINF:-1,Ubice mog oca S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1547.mp4
+#EXTINF:-1,Ubice mog oca S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1548.mp4
+#EXTINF:-1,Ubice mog oca S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1549.mp4
+#EXTINF:-1,Ubice mog oca S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1550.mp4
+#EXTINF:-1,Ubice mog oca S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1551.mp4
+#EXTINF:-1,Ubice mog oca S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1552.mp4
+#EXTINF:-1,Ubice mog oca S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1553.mp4
+#EXTINF:-1,Ubice mog oca S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1554.mp4
+#EXTINF:-1,Ubice mog oca S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1555.mp4
+#EXTINF:-1,Ubice mog oca S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1596.mp4
+#EXTINF:-1,Ubice mog oca S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1597.mp4
+#EXTINF:-1,Ubice mog oca S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1598.mp4
+#EXTINF:-1,Ubice mog oca S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1599.mp4
+#EXTINF:-1,Ubice mog oca S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1600.mp4
+#EXTINF:-1,Ubice mog oca S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1601.mp4
+#EXTINF:-1,Ubice mog oca S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1602.mp4
+#EXTINF:-1,Ubice mog oca S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1603.mp4
+#EXTINF:-1,Ubice mog oca S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1604.mp4
+#EXTINF:-1,Ubice mog oca S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1605.mp4
+#EXTINF:-1,Ubice mog oca S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1606.mp4
+#EXTINF:-1,Ubice mog oca S04 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1607.mp4
+#EXTINF:-1,Ubice mog oca S04 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1608.mp4
+#EXTINF:-1,Ubice mog oca S04 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1609.mp4
+#EXTINF:-1,Ubice mog oca S04 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1610.mp4
+#EXTINF:-1,Ubice mog oca S04 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1611.mp4
+#EXTINF:-1,Ubice mog oca S04 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1612.mp4
+#EXTINF:-1,Ubice mog oca S04 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1613.mp4
+#EXTINF:-1,Ubice mog oca S04 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1614.mp4
+#EXTINF:-1,Ubice mog oca S04 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1615.mp4
+#EXTINF:-1,Ubice mog oca S04 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1616.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1556.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1557.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1558.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1559.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1560.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1561.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1562.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1563.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1564.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1565.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1566.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1567.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1568.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1569.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1570.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1571.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1572.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1573.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1574.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1575.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1576.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1577.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1578.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1579.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1580.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1581.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1582.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1583.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1584.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1585.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1586.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1587.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1588.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1589.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1590.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1591.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1592.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1593.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1594.avi
+#EXTINF:-1,Lud, zbunjen, normalan S01 E40
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1595.avi
+#EXTINF:-1,Lud, zbunjen, normalan S06 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1617.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1618.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1619.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1620.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1621.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1622.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1623.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1624.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1625.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1626.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1627.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1628.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1629.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1630.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1631.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1632.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1633.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1634.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1635.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1636.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1637.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1638.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1639.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S06 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1640.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1641.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1642.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1643.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1644.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1645.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1646.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1647.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1648.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1649.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1650.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1651.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1652.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1653.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1654.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1655.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1656.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1657.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1658.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1659.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1660.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1661.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1662.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1663.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S07 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1664.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1665.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1666.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1667.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1668.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1669.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1670.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1671.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1672.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1673.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1674.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1675.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1676.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1677.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1678.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1679.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1680.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1681.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1682.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1683.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1684.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1685.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1686.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S08 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1687.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1688.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1689.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1690.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1691.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1692.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1693.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1694.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1695.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1696.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1697.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1698.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1699.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1700.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1701.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1702.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1703.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1704.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1705.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1706.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1707.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1708.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1709.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1710.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S09 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1711.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1712.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1713.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1714.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1715.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1716.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1717.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1718.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1719.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1720.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1721.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1722.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1723.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1724.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1725.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1726.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1727.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1728.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1729.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1730.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1731.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1732.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1733.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1734.mp4
+#EXTINF:-1,Lud, zbunjen, normalan S10 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1735.mp4
+#EXTINF:-1,Pet S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1736.mp4
+#EXTINF:-1,Pet S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1737.mp4
+#EXTINF:-1,Pet S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1738.mp4
+#EXTINF:-1,Pet S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1739.mp4
+#EXTINF:-1,Pet S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1740.mp4
+#EXTINF:-1,Pet S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1741.mp4
+#EXTINF:-1,Pet S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1742.mp4
+#EXTINF:-1,Pet S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1743.mp4
+#EXTINF:-1,Pet S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1744.mp4
+#EXTINF:-1,Pet S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1745.mp4
+#EXTINF:-1,Na putu za Montevideo S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1778.avi
+#EXTINF:-1,Na putu za Montevideo S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1779.avi
+#EXTINF:-1,Na putu za Montevideo S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1780.avi
+#EXTINF:-1,Na putu za Montevideo S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1781.avi
+#EXTINF:-1,Na putu za Montevideo S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1782.avi
+#EXTINF:-1,Na putu za Montevideo S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1783.avi
+#EXTINF:-1,Na putu za Montevideo S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1784.avi
+#EXTINF:-1,Na putu za Montevideo S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1785.avi
+#EXTINF:-1,Na putu za Montevideo S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1786.avi
+#EXTINF:-1,Novine S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1787.mp4
+#EXTINF:-1,Novine S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1788.mp4
+#EXTINF:-1,Novine S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1789.mp4
+#EXTINF:-1,Novine S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1790.mp4
+#EXTINF:-1,Novine S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1791.mp4
+#EXTINF:-1,Novine S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1792.mp4
+#EXTINF:-1,Novine S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1793.mp4
+#EXTINF:-1,Novine S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1794.mp4
+#EXTINF:-1,Novine S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1795.mp4
+#EXTINF:-1,Novine S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1796.mp4
+#EXTINF:-1,Novine S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1797.mp4
+#EXTINF:-1,Novine S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1798.mp4
+#EXTINF:-1,Novine S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1799.mp4
+#EXTINF:-1,Novine S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1800.mp4
+#EXTINF:-1,Novine S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1801.mp4
+#EXTINF:-1,Novine S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1802.mp4
+#EXTINF:-1,Novine S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1803.mp4
+#EXTINF:-1,Novine S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1804.mp4
+#EXTINF:-1,Novine S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1805.mp4
+#EXTINF:-1,Novine S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1806.mp4
+#EXTINF:-1,Novine S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1807.mp4
+#EXTINF:-1,Novine S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1808.mp4
+#EXTINF:-1,Novine S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1809.mp4
+#EXTINF:-1,Tajkun S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1810.mp4
+#EXTINF:-1,Tajkun S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1811.mp4
+#EXTINF:-1,Tajkun S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1812.mp4
+#EXTINF:-1,Tajkun S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1813.mp4
+#EXTINF:-1,Tajkun S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1814.mp4
+#EXTINF:-1,Tajkun S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1815.mp4
+#EXTINF:-1,Tajkun S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1816.mp4
+#EXTINF:-1,Tajkun S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1817.mp4
+#EXTINF:-1,Tajkun S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1942.mp4
+#EXTINF:-1,Tajkun S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1943.mp4
+#EXTINF:-1,Sivi dom S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1818.mp4
+#EXTINF:-1,Sivi dom S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1819.mp4
+#EXTINF:-1,Sivi dom S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1820.mp4
+#EXTINF:-1,Sivi dom S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1821.mp4
+#EXTINF:-1,Sivi dom S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1822.mp4
+#EXTINF:-1,Sivi dom S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1823.mp4
+#EXTINF:-1,Sivi dom S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1824.mp4
+#EXTINF:-1,Sivi dom S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1825.mp4
+#EXTINF:-1,Sivi dom S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1826.mp4
+#EXTINF:-1,Sivi dom S04 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1827.mp4
+#EXTINF:-1,Sivi dom S04 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1828.mp4
+#EXTINF:-1,Sivi dom S04 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1829.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1830.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1831.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1832.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1833.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1834.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1835.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1836.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1837.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1838.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1839.mp4
+#EXTINF:-1,Kralj Petar Prvi S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1840.mp4
+#EXTINF:-1,JuÅ¾ni vetar S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1932.mp4
+#EXTINF:-1,JuÅ¾ni vetar S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1933.mp4
+#EXTINF:-1,JuÅ¾ni vetar S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1934.mp4
+#EXTINF:-1,JuÅ¾ni vetar S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1935.mp4
+#EXTINF:-1,JuÅ¾ni vetar S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1922.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1936.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1924.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1938.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1926.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1939.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1928.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1929.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1930.mkv
+#EXTINF:-1,JuÅ¾ni vetar S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1931.mkv
+#EXTINF:-1,Otvorena vrata S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1947.mp4
+#EXTINF:-1,Otvorena vrata S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1948.mp4
+#EXTINF:-1,Otvorena vrata S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1949.mp4
+#EXTINF:-1,Otvorena vrata S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1950.mp4
+#EXTINF:-1,Otvorena vrata S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1951.mp4
+#EXTINF:-1,Otvorena vrata S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1952.mp4
+#EXTINF:-1,Otvorena vrata S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1953.mp4
+#EXTINF:-1,Otvorena vrata S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1954.mp4
+#EXTINF:-1,Otvorena vrata S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1955.mp4
+#EXTINF:-1,Otvorena vrata S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1956.mp4
+#EXTINF:-1,Otvorena vrata S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1957.mp4
+#EXTINF:-1,Otvorena vrata S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1958.mp4
+#EXTINF:-1,Otvorena vrata S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1959.mp4
+#EXTINF:-1,Otvorena vrata S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1960.mp4
+#EXTINF:-1,Otvorena vrata S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1961.mp4
+#EXTINF:-1,Otvorena vrata S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1962.mp4
+#EXTINF:-1,Otvorena vrata S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1963.mp4
+#EXTINF:-1,Otvorena vrata S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1964.mp4
+#EXTINF:-1,Otvorena vrata S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1965.mp4
+#EXTINF:-1,Otvorena vrata S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1966.mp4
+#EXTINF:-1,Otvorena vrata S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1967.mp4
+#EXTINF:-1,Otvorena vrata S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1968.mp4
+#EXTINF:-1,Otvorena vrata S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1969.mp4
+#EXTINF:-1,Otvorena vrata S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1970.mp4
+#EXTINF:-1,Otvorena vrata S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1971.mp4
+#EXTINF:-1,Otvorena vrata S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1972.mp4
+#EXTINF:-1,Otvorena vrata S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1973.mp4
+#EXTINF:-1,Otvorena vrata S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1974.mp4
+#EXTINF:-1,Otvorena vrata S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1975.mp4
+#EXTINF:-1,Otvorena vrata S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1976.mp4
+#EXTINF:-1,Otvorena vrata S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1977.mp4
+#EXTINF:-1,Otvorena vrata S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1978.mp4
+#EXTINF:-1,Otvorena vrata S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1979.mp4
+#EXTINF:-1,Otvorena vrata S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1980.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1981.mkv
+#EXTINF:-1,Senke nad Balkanom S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1982.mkv
+#EXTINF:-1,Senke nad Balkanom S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1983.mkv
+#EXTINF:-1,Senke nad Balkanom S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1984.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1985.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1986.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1987.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1988.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1989.mp4
+#EXTINF:-1,Senke nad Balkanom S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1990.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1991.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1992.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1993.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1994.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1995.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1996.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1997.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1998.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/1999.mp4
+#EXTINF:-1,Senke nad Balkanom S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2000.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2001.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2002.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2003.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2004.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2005.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2006.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2007.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2008.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2009.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2010.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2011.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2012.mp4
+#EXTINF:-1,Moj rodjak sa sela S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2013.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2014.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2015.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2016.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2017.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2018.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2019.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2020.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2021.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2022.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2023.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2024.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2025.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2026.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2027.mp4
+#EXTINF:-1,Moj rodjak sa sela S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2028.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2029.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2030.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2031.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2032.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2033.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2034.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2035.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2036.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2037.mp4
+#EXTINF:-1,VruÄ‡ vetar S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2038.mp4
+#EXTINF:-1,Koreni S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2039.mp4
+#EXTINF:-1,Koreni S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2040.mp4
+#EXTINF:-1,Koreni S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2041.mp4
+#EXTINF:-1,Koreni S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2042.mp4
+#EXTINF:-1,Koreni S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2043.mp4
+#EXTINF:-1,Koreni S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2044.mp4
+#EXTINF:-1,Koreni S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2045.mp4
+#EXTINF:-1,Koreni S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2046.mp4
+#EXTINF:-1,Koreni S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2047.mp4
+#EXTINF:-1,Koreni S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2048.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2049.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2050.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2051.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2052.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2053.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2054.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2055.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2056.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2057.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2058.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2059.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2060.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2061.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2062.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2063.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2064.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2065.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2066.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2067.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2068.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2069.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2070.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2071.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2072.mp4
+#EXTINF:-1,VratiÄ‡e se rode S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2073.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2074.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2075.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2076.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2077.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2078.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2079.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2080.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2081.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2082.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2083.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2084.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2085.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2086.mp4
+#EXTINF:-1,Miris kiÅ¡e na Balkanu S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2087.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2104.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2117.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2106.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2107.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2108.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2109.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2110.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2111.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2112.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2113.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2115.mp4
+#EXTINF:-1,Policajac sa Petlovog brda S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2116.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2118.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2119.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2120.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2121.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2122.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2123.mp4
+#EXTINF:-1,SloÅ¾na braÄ‡a S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2124.mp4
+#EXTINF:-1,Lisice S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2125.mp4
+#EXTINF:-1,Lisice S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2126.mp4
+#EXTINF:-1,Lisice S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2127.mp4
+#EXTINF:-1,Lisice S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2166.mp4
+#EXTINF:-1,Lisice S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2129.mp4
+#EXTINF:-1,Lisice S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2130.mp4
+#EXTINF:-1,Lisice S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2131.mp4
+#EXTINF:-1,Lisice S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2132.mp4
+#EXTINF:-1,Lisice S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2133.mp4
+#EXTINF:-1,Lisice S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2134.mp4
+#EXTINF:-1,Lisice S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2135.mp4
+#EXTINF:-1,Lisice S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2136.mp4
+#EXTINF:-1,Lisice S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2137.mp4
+#EXTINF:-1,Lisice S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2138.mp4
+#EXTINF:-1,Lisice S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2139.mp4
+#EXTINF:-1,Lisice S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2140.mp4
+#EXTINF:-1,Lisice S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2141.mp4
+#EXTINF:-1,Lisice S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2142.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2143.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2144.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2145.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2146.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2147.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2148.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2149.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2150.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2151.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2152.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2153.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2154.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2157.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2156.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2158.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2159.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2160.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2161.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2162.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2163.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2164.mp4
+#EXTINF:-1,Bolji Å¾ivot S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2165.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2167.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2168.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2169.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2170.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2171.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2172.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2173.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2174.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2175.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2176.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2177.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2178.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2179.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2180.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2181.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2182.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2183.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2184.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2185.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2186.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2187.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2188.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2189.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2190.mp4
+#EXTINF:-1,Bolji Å¾ivot S02 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2191.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2192.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2193.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2194.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2195.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2196.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2197.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2198.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2199.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2200.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2201.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2202.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2203.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2204.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2205.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2206.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2207.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2208.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2209.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2210.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2211.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2212.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2213.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2214.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2215.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2216.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2217.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2218.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2219.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2220.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2221.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2222.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2223.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2224.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2225.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2226.mp4
+#EXTINF:-1,Bolji Å¾ivot S03 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2227.mp4
+#EXTINF:-1,MoÄvara S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2228.mp4
+#EXTINF:-1,MoÄvara S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2229.mp4
+#EXTINF:-1,MoÄvara S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2230.mp4
+#EXTINF:-1,MoÄvara S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2231.mp4
+#EXTINF:-1,MoÄvara S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2456.mp4
+#EXTINF:-1,MoÄvara S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2457.mp4
+#EXTINF:-1,MoÄvara S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2458.mp4
+#EXTINF:-1,MoÄvara S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2459.mp4
+#EXTINF:-1,MoÄvara S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2460.mp4
+#EXTINF:-1,MoÄvara S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2502.mp4
+#EXTINF:-1,Bitange i princeze S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2232.mp4
+#EXTINF:-1,Bitange i princeze S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2233.mp4
+#EXTINF:-1,Bitange i princeze S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2234.mp4
+#EXTINF:-1,Bitange i princeze S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2235.mp4
+#EXTINF:-1,Bitange i princeze S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2236.mp4
+#EXTINF:-1,Bitange i princeze S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2237.mp4
+#EXTINF:-1,Bitange i princeze S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2238.mp4
+#EXTINF:-1,Bitange i princeze S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2239.mp4
+#EXTINF:-1,Bitange i princeze S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2240.mp4
+#EXTINF:-1,Bitange i princeze S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2241.mp4
+#EXTINF:-1,Bitange i princeze S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2242.mp4
+#EXTINF:-1,Bitange i princeze S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2243.mp4
+#EXTINF:-1,Bitange i princeze S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2244.mp4
+#EXTINF:-1,Bitange i princeze S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2245.mp4
+#EXTINF:-1,Bitange i princeze S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2246.mp4
+#EXTINF:-1,Bitange i princeze S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2247.mp4
+#EXTINF:-1,Bitange i princeze S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2248.mp4
+#EXTINF:-1,Bitange i princeze S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2249.mp4
+#EXTINF:-1,Bitange i princeze S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2250.mp4
+#EXTINF:-1,Bitange i princeze S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2251.mp4
+#EXTINF:-1,Bitange i princeze S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2252.mp4
+#EXTINF:-1,Bitange i princeze S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2253.mp4
+#EXTINF:-1,Bitange i princeze S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2254.mp4
+#EXTINF:-1,Bitange i princeze S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2255.mp4
+#EXTINF:-1,Bitange i princeze S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2256.mp4
+#EXTINF:-1,Bitange i princeze S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2257.mp4
+#EXTINF:-1,Bitange i princeze S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2258.mp4
+#EXTINF:-1,Bitange i princeze S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2259.mp4
+#EXTINF:-1,Bitange i princeze S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2260.mp4
+#EXTINF:-1,Bitange i princeze S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2261.mp4
+#EXTINF:-1,Bitange i princeze S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2262.mp4
+#EXTINF:-1,Bitange i princeze S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2263.mp4
+#EXTINF:-1,Bitange i princeze S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2264.mp4
+#EXTINF:-1,Bitange i princeze S02 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2265.mp4
+#EXTINF:-1,Bitange i princeze S02 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2266.mp4
+#EXTINF:-1,Bitange i princeze S02 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2267.mp4
+#EXTINF:-1,Bitange i princeze S02 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2268.mp4
+#EXTINF:-1,Bitange i princeze S02 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2269.mp4
+#EXTINF:-1,Bitange i princeze S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2270.mp4
+#EXTINF:-1,Bitange i princeze S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2271.mp4
+#EXTINF:-1,Bitange i princeze S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2272.mp4
+#EXTINF:-1,Bitange i princeze S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2273.mp4
+#EXTINF:-1,Bitange i princeze S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2274.mp4
+#EXTINF:-1,Bitange i princeze S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2275.mp4
+#EXTINF:-1,Bitange i princeze S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2276.mp4
+#EXTINF:-1,Bitange i princeze S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2277.mp4
+#EXTINF:-1,Bitange i princeze S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2278.mp4
+#EXTINF:-1,Bitange i princeze S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2279.mp4
+#EXTINF:-1,Bitange i princeze S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2280.mp4
+#EXTINF:-1,Bitange i princeze S03 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2281.mp4
+#EXTINF:-1,Bitange i princeze S03 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2282.mp4
+#EXTINF:-1,Bitange i princeze S03 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2283.mp4
+#EXTINF:-1,Bitange i princeze S03 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2284.mp4
+#EXTINF:-1,Bitange i princeze S03 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2285.mp4
+#EXTINF:-1,Bitange i princeze S03 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2287.mp4
+#EXTINF:-1,Bitange i princeze S03 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2286.mp4
+#EXTINF:-1,Bitange i princeze S03 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2288.mp4
+#EXTINF:-1,Bitange i princeze S03 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2289.mp4
+#EXTINF:-1,Bitange i princeze S03 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2290.mp4
+#EXTINF:-1,Bitange i princeze S04 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2291.mp4
+#EXTINF:-1,Bitange i princeze S04 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2292.mp4
+#EXTINF:-1,Bitange i princeze S04 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2293.mp4
+#EXTINF:-1,Bitange i princeze S04 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2294.mp4
+#EXTINF:-1,Bitange i princeze S04 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2295.mp4
+#EXTINF:-1,Bitange i princeze S04 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2296.mp4
+#EXTINF:-1,Bitange i princeze S04 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2297.mp4
+#EXTINF:-1,Bitange i princeze S04 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2298.mp4
+#EXTINF:-1,Bitange i princeze S04 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2299.mp4
+#EXTINF:-1,Bitange i princeze S04 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2300.mp4
+#EXTINF:-1,Bitange i princeze S04 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2301.mp4
+#EXTINF:-1,Bitange i princeze S04 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2302.mp4
+#EXTINF:-1,Bitange i princeze S04 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2303.mp4
+#EXTINF:-1,Bitange i princeze S04 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2304.mp4
+#EXTINF:-1,Bitange i princeze S04 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2305.mp4
+#EXTINF:-1,Bitange i princeze S04 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2306.mp4
+#EXTINF:-1,Bitange i princeze S04 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2307.mp4
+#EXTINF:-1,Bitange i princeze S04 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2308.mp4
+#EXTINF:-1,Bitange i princeze S04 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2309.mp4
+#EXTINF:-1,Bitange i princeze S04 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2310.mp4
+#EXTINF:-1,Bitange i princeze S04 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2311.mp4
+#EXTINF:-1,Bitange i princeze S04 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2312.mp4
+#EXTINF:-1,Bitange i princeze S04 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2313.mp4
+#EXTINF:-1,Bitange i princeze S04 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2314.mp4
+#EXTINF:-1,Bitange i princeze S05 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2315.mp4
+#EXTINF:-1,Bitange i princeze S05 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2316.mp4
+#EXTINF:-1,Bitange i princeze S05 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2317.mp4
+#EXTINF:-1,Bitange i princeze S05 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2318.mp4
+#EXTINF:-1,Bitange i princeze S05 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2319.mp4
+#EXTINF:-1,Bitange i princeze S05 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2320.mp4
+#EXTINF:-1,Bitange i princeze S05 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2321.mp4
+#EXTINF:-1,Bitange i princeze S05 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2322.mp4
+#EXTINF:-1,Bitange i princeze S05 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2323.mp4
+#EXTINF:-1,Bitange i princeze S05 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2324.mp4
+#EXTINF:-1,Bitange i princeze S05 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2325.mp4
+#EXTINF:-1,Bitange i princeze S05 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2326.mp4
+#EXTINF:-1,Bitange i princeze S05 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2327.mp4
+#EXTINF:-1,Bitange i princeze S05 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2328.mp4
+#EXTINF:-1,Bitange i princeze S05 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2330.mp4
+#EXTINF:-1,Bitange i princeze S05 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2332.mp4
+#EXTINF:-1,Bitange i princeze S05 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2331.mp4
+#EXTINF:-1,Bitange i princeze S05 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2333.mp4
+#EXTINF:-1,Bitange i princeze S05 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2334.mp4
+#EXTINF:-1,Bitange i princeze S05 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2335.mp4
+#EXTINF:-1,Bitange i princeze S05 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2336.mp4
+#EXTINF:-1,Bitange i princeze S05 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2337.mp4
+#EXTINF:-1,Bitange i princeze S05 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2338.mp4
+#EXTINF:-1,Bitange i princeze S05 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2339.mp4
+#EXTINF:-1,Ono kao ljubav S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2340.mp4
+#EXTINF:-1,Ono kao ljubav S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2341.mp4
+#EXTINF:-1,Ono kao ljubav S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2342.mp4
+#EXTINF:-1,Ono kao ljubav S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2344.mp4
+#EXTINF:-1,Ono kao ljubav S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2343.mp4
+#EXTINF:-1,Ono kao ljubav S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2345.mp4
+#EXTINF:-1,Ono kao ljubav S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2346.mp4
+#EXTINF:-1,Ono kao ljubav S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2347.mp4
+#EXTINF:-1,Ono kao ljubav S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2348.mp4
+#EXTINF:-1,Ono kao ljubav S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2349.mp4
+#EXTINF:-1,Ono kao ljubav S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2350.mp4
+#EXTINF:-1,Ono kao ljubav S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2351.mp4
+#EXTINF:-1,Ono kao ljubav S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2352.mp4
+#EXTINF:-1,Ono kao ljubav S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2353.mp4
+#EXTINF:-1,Ono kao ljubav S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2354.mp4
+#EXTINF:-1,Ono kao ljubav S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2355.mp4
+#EXTINF:-1,Ono kao ljubav S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2356.mp4
+#EXTINF:-1,Ono kao ljubav S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2357.mp4
+#EXTINF:-1,Ono kao ljubav S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2358.mp4
+#EXTINF:-1,Ono kao ljubav S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2359.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2360.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2361.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2362.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2363.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2364.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2365.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2366.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2367.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2368.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2369.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2370.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2371.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2372.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2373.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2374.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2375.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2376.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2377.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2378.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2379.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2380.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2381.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2382.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2383.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2384.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2385.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2386.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2387.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2388.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2389.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2503.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2504.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2392.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2393.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2394.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2395.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2396.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2397.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2398.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2399.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2400.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2401.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2402.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2403.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2404.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2405.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2406.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2407.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2408.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2409.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2410.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2411.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2412.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2413.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2414.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2415.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2416.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2417.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2418.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2419.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2420.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2421.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2422.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2423.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2424.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2425.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2426.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2427.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2428.mp4
+#EXTINF:-1,SreÄ‡ni ljudi S02 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2429.mp4
+#EXTINF:-1,Otpisani S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2430.mp4
+#EXTINF:-1,Otpisani S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2431.mp4
+#EXTINF:-1,Otpisani S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2432.mp4
+#EXTINF:-1,Otpisani S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2433.mp4
+#EXTINF:-1,Otpisani S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2434.mp4
+#EXTINF:-1,Otpisani S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2435.mp4
+#EXTINF:-1,Otpisani S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2436.mp4
+#EXTINF:-1,Otpisani S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2437.mp4
+#EXTINF:-1,Otpisani S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2438.mp4
+#EXTINF:-1,Otpisani S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2439.mp4
+#EXTINF:-1,Otpisani S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2440.mp4
+#EXTINF:-1,Otpisani S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2441.mp4
+#EXTINF:-1,Otpisani S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2442.mp4
+#EXTINF:-1,Povratak otpisanih S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2443.mp4
+#EXTINF:-1,Povratak otpisanih S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2444.mp4
+#EXTINF:-1,Povratak otpisanih S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2445.mp4
+#EXTINF:-1,Povratak otpisanih S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2446.mp4
+#EXTINF:-1,Povratak otpisanih S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2447.mp4
+#EXTINF:-1,Povratak otpisanih S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2448.mp4
+#EXTINF:-1,Povratak otpisanih S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2449.mp4
+#EXTINF:-1,Povratak otpisanih S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2450.mp4
+#EXTINF:-1,Povratak otpisanih S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2451.mp4
+#EXTINF:-1,Povratak otpisanih S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2452.mp4
+#EXTINF:-1,Povratak otpisanih S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2453.mp4
+#EXTINF:-1,Povratak otpisanih S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2454.mp4
+#EXTINF:-1,Povratak otpisanih S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2455.mp4
+#EXTINF:-1,Meso S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2461.mp4
+#EXTINF:-1,Meso S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2462.mp4
+#EXTINF:-1,Meso S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2463.mp4
+#EXTINF:-1,Meso S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2464.mp4
+#EXTINF:-1,Meso S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2465.mp4
+#EXTINF:-1,Meso S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2466.mp4
+#EXTINF:-1,Meso S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2467.mp4
+#EXTINF:-1,Meso S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2468.mp4
+#EXTINF:-1,Meso S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2469.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2470.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2471.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2472.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2473.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2474.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2475.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2477.mp4
+#EXTINF:-1,Sesir profesora Koste Vujica S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2476.mp4
+#EXTINF:-1,Samac u braku S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2478.mp4
+#EXTINF:-1,Samac u braku S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2479.mp4
+#EXTINF:-1,Samac u braku S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2480.mp4
+#EXTINF:-1,Samac u braku S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2481.mp4
+#EXTINF:-1,Samac u braku S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2482.mp4
+#EXTINF:-1,Samac u braku S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2483.mp4
+#EXTINF:-1,Samac u braku S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2484.mp4
+#EXTINF:-1,Samac u braku S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2485.mp4
+#EXTINF:-1,Samac u braku S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2486.mp4
+#EXTINF:-1,Nepobedivo srce S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2487.mp4
+#EXTINF:-1,Nepobedivo srce S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2488.mp4
+#EXTINF:-1,Nepobedivo srce S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2489.mp4
+#EXTINF:-1,Nepobedivo srce S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2490.mp4
+#EXTINF:-1,Nepobedivo srce S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2491.mp4
+#EXTINF:-1,Nepobedivo srce S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2492.mp4
+#EXTINF:-1,Nepobedivo srce S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2493.mp4
+#EXTINF:-1,Nepobedivo srce S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2494.mp4
+#EXTINF:-1,Nepobedivo srce S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2495.mp4
+#EXTINF:-1,Nepobedivo srce S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2496.mp4
+#EXTINF:-1,Nepobedivo srce S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2497.mp4
+#EXTINF:-1,Nepobedivo srce S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2498.mp4
+#EXTINF:-1,Nepobedivo srce S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2499.mp4
+#EXTINF:-1,Nepobedivo srce S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2500.mp4
+#EXTINF:-1,Nepobedivo srce S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2501.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2505.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2506.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2507.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2508.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2509.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2510.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2511.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2512.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2513.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2514.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2515.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2516.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2517.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2518.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2519.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2520.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2521.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2522.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2523.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2524.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2525.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2526.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2527.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2528.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2529.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2530.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2531.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2532.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2533.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2534.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2535.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2536.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2537.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2538.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2539.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2540.avi
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2541.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2542.mp4
+#EXTINF:-1,Jutro Ä‡e promeniti sve S01 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2543.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2573.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2574.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2575.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2576.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2577.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2578.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2579.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2580.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2581.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2582.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2583.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2584.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2585.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2586.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2587.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2588.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2589.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2590.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2591.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2592.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2593.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2594.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2595.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2596.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2597.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2598.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2599.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2600.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2601.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2602.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2603.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2609.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2604.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2605.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2606.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2607.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S01 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2608.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2610.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2611.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2612.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2613.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2614.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2616.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2615.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2617.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2619.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2620.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2618.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2622.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2626.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2623.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2624.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2625.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2621.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2627.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2628.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2629.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2630.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2631.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2632.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2633.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2634.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2635.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2636.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2637.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2638.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2639.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2640.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2641.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2642.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2643.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2644.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2645.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2646.mp4
+#EXTINF:-1,NaÅ¡a mala klinika S03 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2647.mp4
+#EXTINF:-1,Kosti S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2664.mp4
+#EXTINF:-1,Kosti S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2665.mp4
+#EXTINF:-1,Kosti S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2666.mp4
+#EXTINF:-1,Kosti S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2667.mp4
+#EXTINF:-1,Kosti S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2668.mp4
+#EXTINF:-1,Kosti S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2669.mp4
+#EXTINF:-1,Kosti S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2670.mp4
+#EXTINF:-1,Kosti S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2671.mp4
+#EXTINF:-1,Kosti S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2672.mp4
+#EXTINF:-1,Kosti S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2673.mp4
+#EXTINF:-1,Klan S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2674.mp4
+#EXTINF:-1,Klan S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2675.mp4
+#EXTINF:-1,Klan S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2676.mp4
+#EXTINF:-1,Klan S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2677.mp4
+#EXTINF:-1,Klan S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2678.mp4
+#EXTINF:-1,Klan S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2679.mp4
+#EXTINF:-1,Klan S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2680.mp4
+#EXTINF:-1,Klan S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2681.mp4
+#EXTINF:-1,Grupa S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2682.mp4
+#EXTINF:-1,Grupa S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2683.mp4
+#EXTINF:-1,Grupa S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2684.mp4
+#EXTINF:-1,Grupa S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2685.mp4
+#EXTINF:-1,Grupa S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2686.mp4
+#EXTINF:-1,Grupa S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2687.mp4
+#EXTINF:-1,Grupa S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2688.mp4
+#EXTINF:-1,Grupa S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2689.mp4
+#EXTINF:-1,Grupa S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2690.mp4
+#EXTINF:-1,Grupa S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2691.mp4
+#EXTINF:-1,Grupa S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2692.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2693.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2694.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2695.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2696.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2697.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2698.mp4
+#EXTINF:-1,Vikend sa Ä‡aletom S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2699.mp4
+#EXTINF:-1,Uspjeh S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2700.mp4
+#EXTINF:-1,Uspjeh S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2701.mp4
+#EXTINF:-1,Uspjeh S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2702.mp4
+#EXTINF:-1,Uspjeh S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2703.mp4
+#EXTINF:-1,Uspjeh S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2704.mp4
+#EXTINF:-1,Uspjeh S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2705.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2708.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2709.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2710.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2711.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2712.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2713.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2714.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2715.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2716.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2717.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2718.mp4
+#EXTINF:-1,ÄŒizmaÅ¡i S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2719.mp4
+#EXTINF:-1,Tajne vinove loze S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2722.mp4
+#EXTINF:-1,Tajne vinove loze S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2723.mp4
+#EXTINF:-1,Tajne vinove loze S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2724.mp4
+#EXTINF:-1,Tajne vinove loze S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2725.mp4
+#EXTINF:-1,Tajne vinove loze S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2726.mp4
+#EXTINF:-1,Tajne vinove loze S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2727.mp4
+#EXTINF:-1,Tajne vinove loze S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2728.mp4
+#EXTINF:-1,Tajne vinove loze S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2729.mp4
+#EXTINF:-1,Tajne vinove loze S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2730.mp4
+#EXTINF:-1,Tajne vinove loze S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2731.mp4
+#EXTINF:-1,Tajne vinove loze S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2732.mp4
+#EXTINF:-1,Tajne vinove loze S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2733.mp4
+#EXTINF:-1,Tajne vinove loze S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2734.mp4
+#EXTINF:-1,Tajne vinove loze S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2735.mp4
+#EXTINF:-1,Tajne vinove loze S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2736.mp4
+#EXTINF:-1,Tajne vinove loze S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2737.mp4
+#EXTINF:-1,Tajne vinove loze S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2738.mp4
+#EXTINF:-1,Tajne vinove loze S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2739.mp4
+#EXTINF:-1,Tajne vinove loze S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2740.mp4
+#EXTINF:-1,Tajne vinove loze S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2741.mp4
+#EXTINF:-1,Tajne vinove loze S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2742.mp4
+#EXTINF:-1,Tajne vinove loze S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2743.mp4
+#EXTINF:-1,Tajne vinove loze S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2745.mp4
+#EXTINF:-1,Tajne vinove loze S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2746.mp4
+#EXTINF:-1,Tajne vinove loze S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2747.mp4
+#EXTINF:-1,Tajne vinove loze S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2748.mp4
+#EXTINF:-1,Tajne vinove loze S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2749.mp4
+#EXTINF:-1,Tajne vinove loze S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2750.mp4
+#EXTINF:-1,Tajne vinove loze S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2751.mp4
+#EXTINF:-1,Tajne vinove loze S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2752.mp4
+#EXTINF:-1,Tajne vinove loze S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2815.mp4
+#EXTINF:-1,Tajne vinove loze S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2816.mp4
+#EXTINF:-1,Tajne vinove loze S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2817.mp4
+#EXTINF:-1,Tajne vinove loze S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2818.mp4
+#EXTINF:-1,Tajne vinove loze S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2819.mp4
+#EXTINF:-1,Tajne vinove loze S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2820.mp4
+#EXTINF:-1,Porodica S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2825.mp4
+#EXTINF:-1,Porodica S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2826.mp4
+#EXTINF:-1,Porodica S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2827.mp4
+#EXTINF:-1,Porodica S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2828.mp4
+#EXTINF:-1,Porodica S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2829.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2830.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2824.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2823.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2822.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2831.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2893.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2986.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3059.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3318.mp4
+#EXTINF:-1,Aleksandar od Jugoslavije S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3319.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2832.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2833.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2834.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2835.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2836.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2837.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2838.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2839.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2840.mp4
+#EXTINF:-1,Kalkanski krugovi S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2841.mp4
+#EXTINF:-1,Radio Mileva S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2842.mp4
+#EXTINF:-1,Radio Mileva S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2843.mp4
+#EXTINF:-1,Radio Mileva S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2844.mp4
+#EXTINF:-1,Radio Mileva S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2845.mp4
+#EXTINF:-1,Radio Mileva S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2846.mp4
+#EXTINF:-1,Radio Mileva S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2847.mp4
+#EXTINF:-1,Radio Mileva S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2848.mp4
+#EXTINF:-1,Radio Mileva S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2849.mp4
+#EXTINF:-1,Radio Mileva S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2850.mp4
+#EXTINF:-1,Radio Mileva S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2851.mp4
+#EXTINF:-1,Radio Mileva S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2852.mp4
+#EXTINF:-1,Radio Mileva S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2853.mp4
+#EXTINF:-1,Radio Mileva S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2854.mp4
+#EXTINF:-1,Radio Mileva S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2855.mp4
+#EXTINF:-1,Radio Mileva S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2856.mp4
+#EXTINF:-1,Radio Mileva S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2857.mp4
+#EXTINF:-1,Radio Mileva S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2858.mp4
+#EXTINF:-1,Radio Mileva S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2859.mp4
+#EXTINF:-1,Radio Mileva S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2860.mp4
+#EXTINF:-1,Radio Mileva S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2861.mp4
+#EXTINF:-1,Radio Mileva S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2862.mp4
+#EXTINF:-1,Radio Mileva S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2863.mp4
+#EXTINF:-1,Radio Mileva S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2864.mp4
+#EXTINF:-1,Radio Mileva S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2865.mp4
+#EXTINF:-1,Radio Mileva S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2896.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2867.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2868.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2869.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2870.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2871.mp4
+#EXTINF:-1,Dnevnik velikog Perice S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2872.mp4
+#EXTINF:-1,12 reÄi S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2873.mp4
+#EXTINF:-1,12 reÄi S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2874.mp4
+#EXTINF:-1,12 reÄi S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2875.mp4
+#EXTINF:-1,12 reÄi S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2877.mp4
+#EXTINF:-1,12 reÄi S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2878.mp4
+#EXTINF:-1,12 reÄi S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2879.mp4
+#EXTINF:-1,12 reÄi S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2880.mp4
+#EXTINF:-1,12 reÄi S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2881.mp4
+#EXTINF:-1,12 reÄi S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2882.mp4
+#EXTINF:-1,12 reÄi S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2883.mp4
+#EXTINF:-1,12 reÄi S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2884.mp4
+#EXTINF:-1,12 reÄi S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2885.mp4
+#EXTINF:-1,Jedini izlaz S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2894.mp4
+#EXTINF:-1,Jedini izlaz S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2895.mp4
+#EXTINF:-1,Jedini izlaz S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2928.mp4
+#EXTINF:-1,Jedini izlaz S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2929.mp4
+#EXTINF:-1,Jedini izlaz S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3012.mp4
+#EXTINF:-1,Jedini izlaz S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3013.mp4
+#EXTINF:-1,Jedini izlaz S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3049.mp4
+#EXTINF:-1,Jedini izlaz S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3050.mp4
+#EXTINF:-1,Jedini izlaz S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3170.mp4
+#EXTINF:-1,Jedini izlaz S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3171.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2897.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2898.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2899.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2900.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2901.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2902.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2903.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2904.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2905.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2906.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2907.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2908.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2909.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2910.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2911.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2912.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2913.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2914.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2915.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2916.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2917.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2918.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2919.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2920.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2921.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2922.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2923.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2924.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2925.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2926.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3060.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3061.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3062.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3063.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3064.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3065.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3066.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3067.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3068.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E40
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3069.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E41
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3070.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E42
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3071.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E43
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3072.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E44
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3073.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E45
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3074.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E46
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3075.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E47
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3076.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E48
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3077.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E49
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3078.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E50
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3079.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E51
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3080.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E52
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3081.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E53
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3082.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E54
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3083.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E55
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3084.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E56
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3085.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E57
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3086.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E58
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3087.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E59
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3088.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E60
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3089.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E61
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3090.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E62
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3091.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E63
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3092.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E64
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3093.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E65
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3094.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E66
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3095.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E67
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3096.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E68
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3097.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E69
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3098.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E70
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3099.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E71
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3100.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E72
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3101.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E73
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3102.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E74
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3103.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E75
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3104.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E76
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3105.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E77
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3106.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E78
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3107.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E79
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3108.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E80
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3109.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E81
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3110.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E82
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3111.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E83
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3112.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E84
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3113.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E85
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3114.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E86
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3115.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E87
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3116.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E88
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3117.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E89
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3118.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E90
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3119.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E91
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3120.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E92
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3121.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E93
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3122.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E94
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3123.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E95
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3124.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E96
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3125.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E97
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3126.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E98
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3127.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E99
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3128.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E100
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3129.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E101
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3130.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E102
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3131.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E103
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3132.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E104
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3133.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E105
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3134.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E106
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3135.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E107
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3136.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E108
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3137.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E109
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3138.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E110
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3139.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E111
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3140.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E112
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3141.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E113
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3142.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E114
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3143.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E115
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3144.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E116
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3145.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E117
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3146.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E118
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3147.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E119
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3148.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E120
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3149.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E121
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3150.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E122
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3151.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E123
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3152.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E124
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3153.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E125
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3154.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E126
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3155.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E127
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3156.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E128
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3157.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E129
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3158.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E130
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3159.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E131
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3160.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E132
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3161.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E133
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3162.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E134
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3163.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E135
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3164.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E136
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3165.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E137
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3166.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E138
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3167.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E139
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3168.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E140
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3169.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E141
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3175.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E142
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3176.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E143
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3177.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E144
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3178.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E145
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3179.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E146
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3180.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E147
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3181.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E148
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3182.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E149
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3183.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E150
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3184.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E151
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3185.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E152
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3186.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E153
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3187.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E154
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3188.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E155
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3189.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E156
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3190.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E157
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3191.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E158
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3192.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E159
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3193.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E160
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3194.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E161
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3195.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E162
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3196.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E163
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3197.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E164
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3198.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E165
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3199.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E166
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3200.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E167
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3201.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E168
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3202.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E169
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3203.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E170
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3204.mp4
+#EXTINF:-1,Kud puklo da puklo S01 E171
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3205.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3206.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3207.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3208.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3209.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3210.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3211.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3212.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3213.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3214.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3215.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3216.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3217.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3218.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3219.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3220.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3221.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3222.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3224.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3225.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3226.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3227.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3228.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3229.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3230.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3231.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3232.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3233.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3234.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3235.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3236.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3237.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3238.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3239.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3240.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3241.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E36
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3242.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E37
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3243.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E38
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3244.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E39
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3245.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E40
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3246.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E41
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3247.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E42
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3248.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E43
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3249.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E44
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3250.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E45
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3251.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E46
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3252.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E47
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3253.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E48
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3254.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E49
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3255.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E50
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3256.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E51
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3257.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E52
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3258.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E53
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3259.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E54
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3260.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E55
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3261.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E56
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3262.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E57
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3263.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E58
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3264.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E59
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3265.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E60
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3266.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E61
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3267.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E62
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3268.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E63
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3269.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E64
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3270.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E65
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3271.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E66
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3272.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E67
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3273.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E68
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3274.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E69
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3275.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E70
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3276.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E71
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3277.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E72
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3278.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E73
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3279.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E74
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3280.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E75
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3281.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E76
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3282.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E77
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3283.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E78
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3284.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E79
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3285.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E80
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3286.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E81
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3287.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E82
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3288.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E83
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3289.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E84
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3290.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E85
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3291.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E86
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3292.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E87
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3293.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E88
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3294.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E89
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3295.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E90
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3296.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E91
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3297.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E92
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3298.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E93
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3299.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E94
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3300.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E95
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3301.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E96
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3302.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E97
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3303.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E98
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3304.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E99
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3305.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E100
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3306.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E101
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3307.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E102
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3308.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E103
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3309.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E104
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3310.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E105
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3311.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E106
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3312.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E107
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3313.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E108
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3314.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E109
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3315.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E110
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3316.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E111
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3317.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E112
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3327.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E113
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3328.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E114
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3329.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E115
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3330.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E116
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3331.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E117
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3332.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E118
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3333.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E119
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3334.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E120
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3335.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E121
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3336.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E122
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3337.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E123
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3338.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E124
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3339.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E125
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3340.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E126
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3341.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E127
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3342.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E128
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3343.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E129
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3344.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E130
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3345.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E131
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3346.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E132
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3347.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E133
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3348.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E134
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3349.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E135
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3350.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E136
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3351.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E137
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3352.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E138
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3353.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E139
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3354.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E140
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3355.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E141
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3356.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E142
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3357.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E143
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3358.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E144
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3359.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E145
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3360.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E146
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3361.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E147
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3362.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E148
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3363.mp4
+#EXTINF:-1,Kud puklo da puklo S02 E149
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3364.mp4
+#EXTINF:-1,Zlatni dani S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2930.mp4
+#EXTINF:-1,Zlatni dani S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2931.mp4
+#EXTINF:-1,Zlatni dani S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2932.mp4
+#EXTINF:-1,Zlatni dani S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2933.mp4
+#EXTINF:-1,Zlatni dani S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2934.mp4
+#EXTINF:-1,Zlatni dani S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2938.mp4
+#EXTINF:-1,Zlatni dani S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2941.mp4
+#EXTINF:-1,Zlatni dani S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2942.mp4
+#EXTINF:-1,Zlatni dani S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2943.mp4
+#EXTINF:-1,Zlatni dani S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2944.mp4
+#EXTINF:-1,Zlatni dani S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2987.mp4
+#EXTINF:-1,Zlatni dani S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2988.mp4
+#EXTINF:-1,Zlatni dani S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2989.mp4
+#EXTINF:-1,Zlatni dani S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2990.mp4
+#EXTINF:-1,Zlatni dani S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3011.mp4
+#EXTINF:-1,Zlatni dani S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3051.mp4
+#EXTINF:-1,Zlatni dani S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3052.mp4
+#EXTINF:-1,Zlatni dani S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3053.mp4
+#EXTINF:-1,Zlatni dani S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3172.mp4
+#EXTINF:-1,Zlatni dani S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3173.mp4
+#EXTINF:-1,Zlatni dani S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3174.mp4
+#EXTINF:-1,Zlatni dani S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3320.mp4
+#EXTINF:-1,Zlatni dani S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3321.mp4
+#EXTINF:-1,Zlatni dani S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3322.mp4
+#EXTINF:-1,Zlatni dani S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3323.mp4
+#EXTINF:-1,Zlatni dani S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3324.mp4
+#EXTINF:-1,Zlatni dani S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3325.mp4
+#EXTINF:-1,Zlatni dani S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3326.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2945.mkv
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2946.mkv
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2947.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2948.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2949.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2950.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2951.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2952.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2953.mp4
+#EXTINF:-1,Ljubav ispod zlatnog bora S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2954.mp4
+#EXTINF:-1,Dodji juÄe S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2955.mp4
+#EXTINF:-1,Dodji juÄe S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2956.mp4
+#EXTINF:-1,Dodji juÄe S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2957.mp4
+#EXTINF:-1,Dodji juÄe S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2958.mp4
+#EXTINF:-1,Dodji juÄe S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2959.mp4
+#EXTINF:-1,Dodji juÄe S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2960.mp4
+#EXTINF:-1,Dodji juÄe S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2961.mp4
+#EXTINF:-1,Dodji juÄe S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2962.mp4
+#EXTINF:-1,Dodji juÄe S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2963.mp4
+#EXTINF:-1,Dodji juÄe S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2964.mp4
+#EXTINF:-1,Dodji juÄe S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2965.mp4
+#EXTINF:-1,Dodji juÄe S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2966.mp4
+#EXTINF:-1,Dodji juÄe S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2967.mp4
+#EXTINF:-1,Dodji juÄe S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2968.mp4
+#EXTINF:-1,Dodji juÄe S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2969.mp4
+#EXTINF:-1,Dodji juÄe S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2970.mp4
+#EXTINF:-1,Dodji juÄe S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2971.mp4
+#EXTINF:-1,Dodji juÄe S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2972.mp4
+#EXTINF:-1,Dodji juÄe S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2973.mp4
+#EXTINF:-1,Dodji juÄe S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2974.mp4
+#EXTINF:-1,Dodji juÄe S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2975.mp4
+#EXTINF:-1,Dodji juÄe S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2976.mp4
+#EXTINF:-1,Dodji juÄe S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2977.mp4
+#EXTINF:-1,Dodji juÄe S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2978.mp4
+#EXTINF:-1,Dodji juÄe S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2979.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2991.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2992.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2993.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2994.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2995.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2996.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2997.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2998.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/2999.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3000.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3001.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3002.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3003.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3004.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3005.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3006.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3007.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3008.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3009.mp4
+#EXTINF:-1,KamiondÅ¾ije d.o.o. S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3010.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3014.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3015.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3016.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3017.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3018.mp4
+#EXTINF:-1,ÄŒetiri ruÅ¾e S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3019.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3020.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3021.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3022.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3023.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3024.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3025.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3026.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3027.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3028.mp4
+#EXTINF:-1,Mama i tata se igraju rata S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3029.mp4
+#EXTINF:-1,BeleÅ¾nica profesora MiÅ¡koviÄ‡a S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3223.mp4
+#EXTINF:-1,BeleÅ¾nica profesora MiÅ¡koviÄ‡a S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3365.mp4
+#EXTINF:-1,BeleÅ¾nica profesora MiÅ¡koviÄ‡a S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3468.mp4
+#EXTINF:-1,BeleÅ¾nica profesora MiÅ¡koviÄ‡a S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3469.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3369.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3370.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3382.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3383.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3384.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3385.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3386.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3387.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3388.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3389.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3390.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3391.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3392.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3393.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3394.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3395.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3396.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3397.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3398.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3399.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3400.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3401.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3402.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3403.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3404.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3405.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3406.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3407.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3408.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3409.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3410.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3411.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3412.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3413.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3414.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3415.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3416.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3417.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3418.mp4
+#EXTINF:-1,Dobro jutro, komÅ¡ija S02 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3419.mp4
+#EXTINF:-1,Blago nama S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3371.mp4
+#EXTINF:-1,Blago nama S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3372.mp4
+#EXTINF:-1,Blago nama S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3373.mp4
+#EXTINF:-1,Blago nama S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3374.mp4
+#EXTINF:-1,Blago nama S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3375.mp4
+#EXTINF:-1,Blago nama S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3376.mp4
+#EXTINF:-1,Blago nama S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3378.mp4
+#EXTINF:-1,Blago nama S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3379.mp4
+#EXTINF:-1,Blago nama S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3380.mp4
+#EXTINF:-1,Blago nama S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3381.mp4
+#EXTINF:-1,Blago nama S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3420.mp4
+#EXTINF:-1,Blago nama S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3421.mp4
+#EXTINF:-1,Blago nama S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3422.mp4
+#EXTINF:-1,Blago nama S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3423.mp4
+#EXTINF:-1,Blago nama S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3424.mp4
+#EXTINF:-1,Blago nama S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3425.mp4
+#EXTINF:-1,Blago nama S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3426.mp4
+#EXTINF:-1,Blago nama S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3427.mp4
+#EXTINF:-1,Blago nama S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3428.mp4
+#EXTINF:-1,Blago nama S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3429.mp4
+#EXTINF:-1,Blago nama S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3430.mp4
+#EXTINF:-1,Blago nama S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3431.mp4
+#EXTINF:-1,Blago nama S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3432.mp4
+#EXTINF:-1,Koleginice S01 E01
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3433.mp4
+#EXTINF:-1,Koleginice S01 E02
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3434.mp4
+#EXTINF:-1,Koleginice S01 E03
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3435.mp4
+#EXTINF:-1,Koleginice S01 E04
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3436.mp4
+#EXTINF:-1,Koleginice S01 E05
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3437.mp4
+#EXTINF:-1,Koleginice S01 E06
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3438.mp4
+#EXTINF:-1,Koleginice S01 E07
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3439.mp4
+#EXTINF:-1,Koleginice S01 E08
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3440.mp4
+#EXTINF:-1,Koleginice S01 E09
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3441.mp4
+#EXTINF:-1,Koleginice S01 E10
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3442.mp4
+#EXTINF:-1,Koleginice S01 E11
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3443.mp4
+#EXTINF:-1,Koleginice S01 E12
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3444.mp4
+#EXTINF:-1,Koleginice S01 E13
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3445.mp4
+#EXTINF:-1,Koleginice S01 E14
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3446.mp4
+#EXTINF:-1,Koleginice S01 E15
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3447.mp4
+#EXTINF:-1,Koleginice S01 E16
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3448.mp4
+#EXTINF:-1,Koleginice S01 E17
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3449.mp4
+#EXTINF:-1,Koleginice S01 E18
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3450.mp4
+#EXTINF:-1,Koleginice S01 E19
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3451.mp4
+#EXTINF:-1,Koleginice S01 E20
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3452.mp4
+#EXTINF:-1,Koleginice S01 E21
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3453.mp4
+#EXTINF:-1,Koleginice S01 E22
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3454.mp4
+#EXTINF:-1,Koleginice S01 E23
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3455.mp4
+#EXTINF:-1,Koleginice S01 E24
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3456.mp4
+#EXTINF:-1,Koleginice S01 E25
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3457.mp4
+#EXTINF:-1,Koleginice S01 E26
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3458.mp4
+#EXTINF:-1,Koleginice S01 E27
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3459.mp4
+#EXTINF:-1,Koleginice S01 E28
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3460.mp4
+#EXTINF:-1,Koleginice S01 E29
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3461.mp4
+#EXTINF:-1,Koleginice S01 E30
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3462.mp4
+#EXTINF:-1,Koleginice S01 E31
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3463.mp4
+#EXTINF:-1,Koleginice S01 E32
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3464.mp4
+#EXTINF:-1,Koleginice S01 E33
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3465.mp4
+#EXTINF:-1,Koleginice S01 E34
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3466.mp4
+#EXTINF:-1,Koleginice S01 E35
+http://android.mediaking.fi:8080/series/jocicbojan7@gmail.com/bojan5522/3467.mp4
+#EXTINF:-1,Amari
 https://srv1.adriatelekom.com/AmariTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ROMA tv
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/65892
-#EXTINF:-1 tvg-id="" tvg-name="Top Sound" tvg-logo="" group-title="MUZICKI",Top Sound
-http://media-grupa.net:80/goran467/2019goranvv/8864
-#EXTINF:-1 tvg-id="" tvg-name="Duga TV" tvg-logo="" group-title="MUZICKI",Duga TV
-http://media-grupa.net:80/goran467/2019goranvv/5416
-#EXTINF:-1 tvg-id="" tvg-name="Izvorna TV" tvg-logo="http://116.203.156.75/logo/izvorna.png" group-title="MUZICKI",Izvorna TV
-http://media-grupa.net:80/goran467/2019goranvv/402
-#EXTINF:-1 tvg-id="" tvg-name="Jugoton TV" tvg-logo="" group-title="MUZICKI",Jugoton TV
-http://media-grupa.net:80/goran467/2019goranvv/401
-#EXTINF:-1 tvg-id="" tvg-name="Narodna TV" tvg-logo="" group-title="MUZICKI",Narodna TV
-http://media-grupa.net:80/goran467/2019goranvv/393
-#EXTINF:-1 tvg-id="" tvg-name="OTV Valentino" tvg-logo="http://116.203.156.75/wp-content/themes/movers-packers/images/kanali_logo/62.png" group-title="MUZICKI",OTV Valentino
-http://media-grupa.net:80/goran467/2019goranvv/540
-#EXTINF:-1 tvg-id="" tvg-name="Hayat Music" tvg-logo="" group-title="MUZICKI",Hayat Music
-http://media-grupa.net:80/goran467/2019goranvv/564
-#EXTINF:-1 tvg-id="" tvg-name="Sevdah TV" tvg-logo="" group-title="MUZICKI",Sevdah TV
-http://media-grupa.net:80/goran467/2019goranvv/396
-#EXTINF:-1 tvg-id="" tvg-name="Hayat Folk" tvg-logo="" group-title="MUZICKI",Hayat Folk
-http://media-grupa.net:80/goran467/2019goranvv/565
-#EXTINF:-1 tvg-id="" tvg-name="==== DOBRA TV ====" tvg-logo="" group-title="DOBRA TV",==== DOBRA TV ====
-http://media-grupa.net:80/goran467/2019goranvv/8585
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA BALKANSKA" tvg-logo="" group-title="DOBRA TV",DOBRA BALKANSKA
-http://media-grupa.net:80/goran467/2019goranvv/8576
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA BOSNJACKA" tvg-logo="" group-title="DOBRA TV",DOBRA BOSNJACKA
-http://media-grupa.net:80/goran467/2019goranvv/8577
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA CINEMA" tvg-logo="" group-title="DOBRA TV",DOBRA CINEMA
-http://media-grupa.net:80/goran467/2019goranvv/8578
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA CRNOGORSKA" tvg-logo="" group-title="DOBRA TV",DOBRA CRNOGORSKA
-http://media-grupa.net:80/goran467/2019goranvv/8579
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA DJECIJA" tvg-logo="" group-title="DOBRA TV",DOBRA DJECIJA
-http://media-grupa.net:80/goran467/2019goranvv/8580
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA DUHOVNOST" tvg-logo="" group-title="DOBRA TV",DOBRA DUHOVNOST
-http://media-grupa.net:80/goran467/2019goranvv/8581
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA EXCLUSIVE" tvg-logo="" group-title="DOBRA TV",DOBRA EXCLUSIVE
-http://media-grupa.net:80/goran467/2019goranvv/8582
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA HD" tvg-logo="" group-title="DOBRA TV",DOBRA HD
-http://media-grupa.net:80/goran467/2019goranvv/8583
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA HRVATSKA" tvg-logo="" group-title="DOBRA TV",DOBRA HRVATSKA
-http://media-grupa.net:80/goran467/2019goranvv/8584
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA ISLAMSKA" tvg-logo="" group-title="DOBRA TV",DOBRA ISLAMSKA
-http://media-grupa.net:80/goran467/2019goranvv/8586
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA MUZICKA" tvg-logo="" group-title="DOBRA TV",DOBRA MUZICKA
-http://media-grupa.net:80/goran467/2019goranvv/8587
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA NASHEED" tvg-logo="" group-title="DOBRA TV",DOBRA NASHEED
-http://media-grupa.net:80/goran467/2019goranvv/8588
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA PLUS" tvg-logo="" group-title="DOBRA TV",DOBRA PLUS
-http://media-grupa.net:80/goran467/2019goranvv/8589
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA PRAVOSLAVNA" tvg-logo="" group-title="DOBRA TV",DOBRA PRAVOSLAVNA
-http://media-grupa.net:80/goran467/2019goranvv/8590
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA RUSKA" tvg-logo="" group-title="DOBRA TV",DOBRA RUSKA
-http://media-grupa.net:80/goran467/2019goranvv/8591
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA S. MAKEDONSKA" tvg-logo="" group-title="DOBRA TV",DOBRA S. MAKEDONSKA
-http://media-grupa.net:80/goran467/2019goranvv/8592
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA SEVDAH" tvg-logo="" group-title="DOBRA TV",DOBRA SEVDAH
-http://media-grupa.net:80/goran467/2019goranvv/8593
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA SPORTSKA" tvg-logo="" group-title="DOBRA TV",DOBRA SPORTSKA
-http://media-grupa.net:80/goran467/2019goranvv/8594
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA SRPSKA" tvg-logo="" group-title="DOBRA TV",DOBRA SRPSKA
-http://media-grupa.net:80/goran467/2019goranvv/8595
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA SVADBA" tvg-logo="" group-title="DOBRA TV",DOBRA SVADBA
-http://media-grupa.net:80/goran467/2019goranvv/8596
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA TRAVEL" tvg-logo="" group-title="DOBRA TV",DOBRA TRAVEL
-http://media-grupa.net:80/goran467/2019goranvv/8597
-#EXTINF:-1 tvg-id="" tvg-name="DOBRA WORLD MUSIC" tvg-logo="" group-title="DOBRA TV",DOBRA WORLD MUSIC
-http://media-grupa.net:80/goran467/2019goranvv/8598
-#EXTINF:-1 tvg-id="" tvg-name="==== SLOVENIA ====" tvg-logo="" group-title="SLOVENIA",==== SLOVENIA ====
-http://media-grupa.net:80/goran467/2019goranvv/227
-#EXTINF:-1 tvg-id="" tvg-name="SLO 1" tvg-logo="" group-title="SLOVENIA",SLO 1
-http://media-grupa.net:80/goran467/2019goranvv/217
-#EXTINF:-1 tvg-id="" tvg-name="SLO 2" tvg-logo="" group-title="SLOVENIA",SLO 2
-http://media-grupa.net:80/goran467/2019goranvv/216
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1 SLO" tvg-logo="" group-title="SLOVENIA",HBO 1 SLO
-http://media-grupa.net:80/goran467/2019goranvv/226
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 SLO" tvg-logo="" group-title="SLOVENIA",HBO 2 SLO
-http://media-grupa.net:80/goran467/2019goranvv/225
-#EXTINF:-1 tvg-id="" tvg-name="HBO 3 SLO" tvg-logo="" group-title="SLOVENIA",HBO 3 SLO
-http://media-grupa.net:80/goran467/2019goranvv/224
-#EXTINF:-1 tvg-id="" tvg-name="POP Brio" tvg-logo="" group-title="SLOVENIA",POP Brio
-http://media-grupa.net:80/goran467/2019goranvv/221
-#EXTINF:-1 tvg-id="" tvg-name="POP Kino" tvg-logo="" group-title="SLOVENIA",POP Kino
-http://media-grupa.net:80/goran467/2019goranvv/219
-#EXTINF:-1 tvg-id="" tvg-name="POP Oto" tvg-logo="" group-title="SLOVENIA",POP Oto
-http://media-grupa.net:80/goran467/2019goranvv/218
-#EXTINF:-1 tvg-id="" tvg-name="POP TV" tvg-logo="" group-title="SLOVENIA",POP TV
-http://media-grupa.net:80/goran467/2019goranvv/220
-#EXTINF:-1 tvg-id="" tvg-name="Planet TV" tvg-logo="" group-title="SLOVENIA",Planet TV
-http://media-grupa.net:80/goran467/2019goranvv/222
-#EXTINF:-1 tvg-id="" tvg-name="Kanal A" tvg-logo="" group-title="SLOVENIA",Kanal A
-http://media-grupa.net:80/goran467/2019goranvv/223
-#EXTINF:-1 tvg-id="" tvg-name="GOLICA" tvg-logo="" group-title="SLOVENIA",GOLICA
-http://media-grupa.net:80/goran467/2019goranvv/209
-#EXTINF:-1 tvg-id="" tvg-name="Planet SLO" tvg-logo="" group-title="SLOVENIA",Planet SLO
-http://media-grupa.net:80/goran467/2019goranvv/8035
-#EXTINF:-1 tvg-id="" tvg-name="Planet Plus SLO" tvg-logo="" group-title="SLOVENIA",Planet Plus SLO
-http://media-grupa.net:80/goran467/2019goranvv/8038
-#EXTINF:-1 tvg-id="" tvg-name="Planet Plus SLO" tvg-logo="" group-title="SLOVENIA",Planet Plus SLO
-http://media-grupa.net:80/goran467/2019goranvv/8036
-#EXTINF:-1 tvg-id="" tvg-name="Nova 24 SLO" tvg-logo="" group-title="SLOVENIA",Nova 24 SLO
-http://media-grupa.net:80/goran467/2019goranvv/8037
-#EXTINF:-1 tvg-id="" tvg-name="Fox Crime SLO" tvg-logo="" group-title="SLOVENIA",Fox Crime SLO
-http://media-grupa.net:80/goran467/2019goranvv/8040
-#EXTINF:-1 tvg-id="" tvg-name="Fox Life SLO" tvg-logo="" group-title="SLOVENIA",Fox Life SLO
-http://media-grupa.net:80/goran467/2019goranvv/8039
-#EXTINF:-1 tvg-id="" tvg-name="==== MAKEDONIJA ====" tvg-logo="" group-title="MAKEDONIJA",==== MAKEDONIJA ====
-http://media-grupa.net:80/goran467/2019goranvv/3663
-#EXTINF:-1 tvg-id="" tvg-name="[MK] 24 VESTI" tvg-logo="" group-title="MAKEDONIJA",[MK] 24 VESTI
-http://media-grupa.net:80/goran467/2019goranvv/3655
-#EXTINF:-1 tvg-id="" tvg-name="[MK] ALFA TV" tvg-logo="" group-title="MAKEDONIJA",[MK] ALFA TV
-http://media-grupa.net:80/goran467/2019goranvv/3658
-#EXTINF:-1 tvg-id="" tvg-name="[MK] KANAL 5" tvg-logo="" group-title="MAKEDONIJA",[MK] KANAL 5
-http://media-grupa.net:80/goran467/2019goranvv/3660
-#EXTINF:-1 tvg-id="" tvg-name="[MK] MRT 1" tvg-logo="" group-title="MAKEDONIJA",[MK] MRT 1
-http://media-grupa.net:80/goran467/2019goranvv/3656
-#EXTINF:-1 tvg-id="" tvg-name="[MK] MRT 2" tvg-logo="" group-title="MAKEDONIJA",[MK] MRT 2
-http://media-grupa.net:80/goran467/2019goranvv/3657
-#EXTINF:-1 tvg-id="" tvg-name="[MK] MRT 3" tvg-logo="" group-title="MAKEDONIJA",[MK] MRT 3
-http://media-grupa.net:80/goran467/2019goranvv/10187
-#EXTINF:-1 tvg-id="" tvg-name="[MK] MRT 4" tvg-logo="" group-title="MAKEDONIJA",[MK] MRT 4
-http://media-grupa.net:80/goran467/2019goranvv/10191
-#EXTINF:-1 tvg-id="" tvg-name="[MK] MRT 5" tvg-logo="" group-title="MAKEDONIJA",[MK] MRT 5
-http://media-grupa.net:80/goran467/2019goranvv/10190
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Hugo TV" tvg-logo="" group-title="MAKEDONIJA",[MK] Hugo TV
-http://media-grupa.net:80/goran467/2019goranvv/6469
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Hugo 2" tvg-logo="" group-title="MAKEDONIJA",[MK] Hugo 2
-http://media-grupa.net:80/goran467/2019goranvv/8860
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Hugo 3" tvg-logo="" group-title="MAKEDONIJA",[MK] Hugo 3
-http://media-grupa.net:80/goran467/2019goranvv/10192
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Cineplex HD" tvg-logo="" group-title="MAKEDONIJA",[MK] Cineplex HD
-http://media-grupa.net:80/goran467/2019goranvv/10193
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Cinestar TV Premiere 1" tvg-logo="" group-title="MAKEDONIJA",[MK] Cinestar TV Premiere 1
-http://media-grupa.net:80/goran467/2019goranvv/6897
-#EXTINF:-1 tvg-id="" tvg-name="[MK] TV PLUS" tvg-logo="" group-title="MAKEDONIJA",[MK] TV PLUS
-http://media-grupa.net:80/goran467/2019goranvv/3654
-#EXTINF:-1 tvg-id="" tvg-name="[MK] SITEL" tvg-logo="" group-title="MAKEDONIJA",[MK] SITEL
-http://media-grupa.net:80/goran467/2019goranvv/3662
-#EXTINF:-1 tvg-id="" tvg-name="[MK] SITEL 2" tvg-logo="" group-title="MAKEDONIJA",[MK] SITEL 2
-http://media-grupa.net:80/goran467/2019goranvv/3661
-#EXTINF:-1 tvg-id="" tvg-name="[MK] NASA TV" tvg-logo="" group-title="MAKEDONIJA",[MK] NASA TV
-http://media-grupa.net:80/goran467/2019goranvv/6657
-#EXTINF:-1 tvg-id="" tvg-name="[MK] SONCE TV" tvg-logo="" group-title="MAKEDONIJA",[MK] SONCE TV
-http://media-grupa.net:80/goran467/2019goranvv/3653
-#EXTINF:-1 tvg-id="" tvg-name="[MK] TELMA" tvg-logo="" group-title="MAKEDONIJA",[MK] TELMA
-http://media-grupa.net:80/goran467/2019goranvv/3659
-#EXTINF:-1 tvg-id="" tvg-name="[MK] SUTEL" tvg-logo="" group-title="MAKEDONIJA",[MK] SUTEL
-http://media-grupa.net:80/goran467/2019goranvv/3652
-#EXTINF:-1 tvg-id="" tvg-name="[MK] TERA TV Bitola" tvg-logo="" group-title="MAKEDONIJA",[MK] TERA TV Bitola
-http://media-grupa.net:80/goran467/2019goranvv/6527
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Cinestar TV Premiere 2" tvg-logo="" group-title="MAKEDONIJA",[MK] Cinestar TV Premiere 2
-http://media-grupa.net:80/goran467/2019goranvv/8868
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Folk HD" tvg-logo="" group-title="MAKEDONIJA",[MK] Folk HD
-http://media-grupa.net:80/goran467/2019goranvv/6525
-#EXTINF:-1 tvg-id="" tvg-name="[MK] Sky Folk HD" tvg-logo="" group-title="MAKEDONIJA",[MK] Sky Folk HD
-http://media-grupa.net:80/goran467/2019goranvv/6526
-#EXTINF:-1 tvg-id="" tvg-name="==== XXX ====" tvg-logo="" group-title="FOR ADULTS",==== XXX ====
-http://media-grupa.net:80/goran467/2019goranvv/22
-#EXTINF:-1 tvg-id="" tvg-name="NOVA PORN" tvg-logo="" group-title="FOR ADULTS",NOVA PORN
-http://media-grupa.net:80/goran467/2019goranvv/10028
-#EXTINF:-1 tvg-id="" tvg-name="Barely Legal HD" tvg-logo="" group-title="FOR ADULTS",Barely Legal HD
-http://media-grupa.net:80/goran467/2019goranvv/6544
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV" tvg-logo="" group-title="FOR ADULTS",Brazzers TV
-http://media-grupa.net:80/goran467/2019goranvv/16
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV" tvg-logo="" group-title="FOR ADULTS",Dorcel TV
-http://media-grupa.net:80/goran467/2019goranvv/15
-#EXTINF:-1 tvg-id="" tvg-name="Hustler HD" tvg-logo="" group-title="FOR ADULTS",Hustler HD
-http://media-grupa.net:80/goran467/2019goranvv/21
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic" tvg-logo="" group-title="FOR ADULTS",Balkan Erotic
-http://media-grupa.net:80/goran467/2019goranvv/8230
-#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="" group-title="FOR ADULTS",Passion XXX
-http://media-grupa.net:80/goran467/2019goranvv/8229
-#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="" group-title="FOR ADULTS",Jasmin TV
-http://media-grupa.net:80/goran467/2019goranvv/8228
-#EXTINF:-1 tvg-id="" tvg-name="Reality Kings" tvg-logo="" group-title="FOR ADULTS",Reality Kings
-http://media-grupa.net:80/goran467/2019goranvv/5361
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse TV" tvg-logo="" group-title="FOR ADULTS",Penthouse TV
-http://media-grupa.net:80/goran467/2019goranvv/14
-#EXTINF:-1 tvg-id="" tvg-name="EroXXX HD" tvg-logo="" group-title="FOR ADULTS",EroXXX HD
-http://media-grupa.net:80/goran467/2019goranvv/13
-#EXTINF:-1 tvg-id="" tvg-name="Redlight TV" tvg-logo="" group-title="FOR ADULTS",Redlight TV
-http://media-grupa.net:80/goran467/2019goranvv/12
-#EXTINF:-1 tvg-id="" tvg-name="Dusk" tvg-logo="" group-title="FOR ADULTS",Dusk
-http://media-grupa.net:80/goran467/2019goranvv/5362
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 1" tvg-logo="" group-title="FOR ADULTS",Pink Erotic 1
-http://media-grupa.net:80/goran467/2019goranvv/20
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2" tvg-logo="" group-title="FOR ADULTS",Pink Erotic 2
-http://media-grupa.net:80/goran467/2019goranvv/19
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3" tvg-logo="" group-title="FOR ADULTS",Pink Erotic 3
-http://media-grupa.net:80/goran467/2019goranvv/18
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4" tvg-logo="" group-title="FOR ADULTS",Pink Erotic 4
-http://media-grupa.net:80/goran467/2019goranvv/17
-#EXTINF:-1 tvg-id="" tvg-name="PINK O TV" tvg-logo="" group-title="FOR ADULTS",PINK O TV
-http://media-grupa.net:80/goran467/2019goranvv/8367
-#EXTINF:-1 tvg-id="" tvg-name="MOMS TEACH SEX" tvg-logo="" group-title="FOR ADULTS",MOMS TEACH SEX
-http://media-grupa.net:80/goran467/2019goranvv/8371
-#EXTINF:-1 tvg-id="" tvg-name="NUBILES CASTING" tvg-logo="" group-title="FOR ADULTS",NUBILES CASTING
-http://media-grupa.net:80/goran467/2019goranvv/8373
-#EXTINF:-1 tvg-id="" tvg-name="MOMS TEACH SEX" tvg-logo="" group-title="FOR ADULTS",MOMS TEACH SEX
-http://media-grupa.net:80/goran467/2019goranvv/8374
-#EXTINF:-1 tvg-id="" tvg-name="FAP Teens HD" tvg-logo="" group-title="FOR ADULTS",FAP Teens HD
-http://media-grupa.net:80/goran467/2019goranvv/8375
-#EXTINF:-1 tvg-id="" tvg-name="SHALUN" tvg-logo="" group-title="FOR ADULTS",SHALUN
-http://media-grupa.net:80/goran467/2019goranvv/8376
-#EXTINF:-1 tvg-id="" tvg-name="EROX TV" tvg-logo="" group-title="FOR ADULTS",EROX TV
-http://media-grupa.net:80/goran467/2019goranvv/8379
-#EXTINF:-1 tvg-id="" tvg-name="VIVID RED" tvg-logo="" group-title="FOR ADULTS",VIVID RED
-http://media-grupa.net:80/goran467/2019goranvv/8380
-#EXTINF:-1 tvg-id="" tvg-name="XY Plus 2 HD XXX" tvg-logo="" group-title="FOR ADULTS",XY Plus 2 HD XXX
-http://media-grupa.net:80/goran467/2019goranvv/8393
-#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV HD" tvg-logo="" group-title="FOR ADULTS",PRIVATE TV HD
-http://media-grupa.net:80/goran467/2019goranvv/8394
-#EXTINF:-1 tvg-id="" tvg-name="Passion XXX HD" tvg-logo="" group-title="FOR ADULTS",Passion XXX HD
-http://media-grupa.net:80/goran467/2019goranvv/8395
 #EXTINF:-1 tvg-id="" tvg-name="XXX: EXTREME HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: EXTREME HD
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3329
 #EXTINF:-1 tvg-id="" tvg-name="XXX: HOT HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: HOT HD
@@ -1289,63 +5467,7 @@ http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/192282
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3293
 #EXTINF:-1 tvg-id="" tvg-name="XXX: XY PLUS" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="XXX",XXX: XY PLUS
 http://iptvtree.net:8080/ce1eb8b3/87b9d5e09c/3291
-#EXTINF:-1 tvg-id="" tvg-name="==== RADIO ====" tvg-logo="" group-title="RADIO",==== RADIO ====
-http://media-grupa.net:80/goran467/2019goranvv/11
-#EXTINF:-1 tvg-id="" tvg-name="VIP Radio" tvg-logo="" group-title="RADIO",VIP Radio
-http://media-grupa.net:80/goran467/2019goranvv/8681
-#EXTINF:-1 tvg-id="" tvg-name="Radio KRAJINA Cazin" tvg-logo="" group-title="RADIO",Radio KRAJINA Cazin
-http://media-grupa.net:80/goran467/2019goranvv/3782
-#EXTINF:-1 tvg-id="" tvg-name="BN Radio" tvg-logo="" group-title="RADIO",BN Radio
-http://media-grupa.net:80/goran467/2019goranvv/3
-#EXTINF:-1 tvg-id="" tvg-name="YU Planet radio" tvg-logo="" group-title="RADIO",YU Planet radio
-http://media-grupa.net:80/goran467/2019goranvv/6
-#EXTINF:-1 tvg-id="" tvg-name="Play Radio" tvg-logo="" group-title="RADIO",Play Radio
-http://media-grupa.net:80/goran467/2019goranvv/10
-#EXTINF:-1 tvg-id="" tvg-name="Pink Radio" tvg-logo="" group-title="RADIO",Pink Radio
-http://media-grupa.net:80/goran467/2019goranvv/4
-#EXTINF:-1 tvg-id="" tvg-name="Radio Livno" tvg-logo="" group-title="RADIO",Radio Livno
-http://media-grupa.net:80/goran467/2019goranvv/9
-#EXTINF:-1 tvg-id="" tvg-name="BIG Radio" tvg-logo="" group-title="RADIO",BIG Radio
-http://media-grupa.net:80/goran467/2019goranvv/5
-#EXTINF:-1 tvg-id="" tvg-name="Radio Stari Grad Sarajevo" tvg-logo="" group-title="RADIO",Radio Stari Grad Sarajevo
-http://media-grupa.net:80/goran467/2019goranvv/8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Tomislavgrad" tvg-logo="" group-title="RADIO",Radio Tomislavgrad
-http://media-grupa.net:80/goran467/2019goranvv/7
-#EXTINF:-1 tvg-id="" tvg-name="Radio Cazin" tvg-logo="" group-title="RADIO",Radio Cazin
-http://media-grupa.net:80/goran467/2019goranvv/6636
-#EXTINF:-1 tvg-id="" tvg-name="Radio USK" tvg-logo="" group-title="RADIO",Radio USK
-http://media-grupa.net:80/goran467/2019goranvv/6637
-#EXTINF:-1 tvg-id="" tvg-name="HRT HR 1" tvg-logo="" group-title="RADIO",HRT HR 1
-http://media-grupa.net:80/goran467/2019goranvv/6709
-#EXTINF:-1 tvg-id="" tvg-name="HRT HR 2" tvg-logo="" group-title="RADIO",HRT HR 2
-http://media-grupa.net:80/goran467/2019goranvv/6710
-#EXTINF:-1 tvg-id="" tvg-name="Hrvatski radio Zupanja" tvg-logo="" group-title="RADIO",Hrvatski radio Zupanja
-http://media-grupa.net:80/goran467/2019goranvv/6703
-#EXTINF:-1 tvg-id="" tvg-name="Radio Posavina" tvg-logo="" group-title="RADIO",Radio Posavina
-http://media-grupa.net:80/goran467/2019goranvv/6707
-#EXTINF:-1 tvg-id="" tvg-name="Radio Sibenik" tvg-logo="" group-title="RADIO",Radio Sibenik
-http://media-grupa.net:80/goran467/2019goranvv/6705
-#EXTINF:-1 tvg-id="" tvg-name="Radio Sunce" tvg-logo="" group-title="RADIO",Radio Sunce
-http://media-grupa.net:80/goran467/2019goranvv/6702
-#EXTINF:-1 tvg-id="" tvg-name="Radio Zapresic" tvg-logo="" group-title="RADIO",Radio Zapresic
-http://media-grupa.net:80/goran467/2019goranvv/6708
-#EXTINF:-1 tvg-id="" tvg-name="Enter Zagreb" tvg-logo="" group-title="RADIO",Enter Zagreb
-http://media-grupa.net:80/goran467/2019goranvv/6706
-#EXTINF:-1 tvg-id="" tvg-name="Antena Zagreb" tvg-logo="" group-title="RADIO",Antena Zagreb
-http://media-grupa.net:80/goran467/2019goranvv/6704
-#EXTINF:-1 tvg-id="" tvg-name="RTG Music" tvg-logo="" group-title="RADIO",RTG Music
-http://media-grupa.net:80/goran467/2019goranvv/10240
-#EXTINF:-1 tvg-id="" tvg-name="Radiopostaja Mir Medjugorje" tvg-logo="" group-title="RADIO",Radiopostaja Mir Medjugorje
-http://media-grupa.net:80/goran467/2019goranvv/10241
-#EXTINF:-1 tvg-id="" tvg-name="Kupreski Radio" tvg-logo="" group-title="RADIO",Kupreski Radio
-http://media-grupa.net:80/goran467/2019goranvv/10242
 #EXTINF:-1,"==== VIDEOTEKA ===="
-#EXTINF:-1,Suburban Swingers Club 2019 |sf
-http://tsevepdvd.xyz:25461/movie/st@lk3rp0rt@LM0Vi3/Q2syywVQjU/78148.mkv
-#EXTINF:-1,Bad Luck Banging or Loony Porn 2021 |sf
-http://tsp-pro.net:5115/movie/VKLUBIX2novi/WJ1bYQxc76/58747.mkv
-#EXTINF:-1,Coming 2 America 2021 |sf
-http://tsp-pro.net:5115/movie/VKLUBIX2novi/WJ1bYQxc76/57784.mkv
 #EXTINF:-1,Black Water Abyss (2020)
 http://videoteka1.dvrcam.info:25461/movie/mmaxvod1/mmaxvvod2/4146.mkv
 #EXTINF:-1,Cat in the Wall (2020)
